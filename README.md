@@ -76,7 +76,7 @@ AI에게 "OO 최근 뉴스 정리해줘"라고만 하면 흔히 세 가지가 �
 **Claude Code**
 
 ```bash
-git clone https://github.com/cosmos1219-eunice/newslearn-skill.git ~/.claude/skills/newslearn
+git clone https://github.com/cosmos1219-eunice/workflow.git ~/.claude/skills/newslearn
 ```
 
 새 세션부터 "OO 뉴스런 해줘"로 호출됩니다. 보고서와 이력(`newslearn-log.md`)은 작업 폴더에 남습니다.
@@ -107,7 +107,7 @@ python3 scripts/render_report.py work/brief.json work/articles.json \
 ## 구성 파일
 
 ```
-newslearn-skill/
+workflow/
 ├── SKILL.md                         # 역할 · 평가 기준 · 맥락 · 도구 · 진행 규칙 · 금지 사항
 ├── README.md
 ├── LICENSE
