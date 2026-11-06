@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 스킬을 실행하면 생기는 중간 산출물
+/work/
+newslearn-log.md
+newslearn-*.md

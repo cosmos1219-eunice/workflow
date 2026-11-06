@@ -1,0 +1,3606 @@
+{
+  "keyword": "LG에너지솔루션",
+  "aliases": [
+    "LG엔솔"
+  ],
+  "excludes": [],
+  "langs": [
+    "ko"
+  ],
+  "window": {
+    "start": "2026-08-09",
+    "end": "2026-11-06",
+    "days": 90
+  },
+  "fetched_at": "2026-11-06T03:57:25Z",
+  "counts": {
+    "raw": 1778,
+    "in_window": 1778,
+    "unique": 575,
+    "kept": 300,
+    "dropped_by_balance": 275,
+    "sources": 106
+  },
+  "by_month": {
+    "2026-08": 30,
+    "2026-09": 64,
+    "2026-10": 143,
+    "2026-11": 63
+  },
+  "requests": [
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-08-08 before:2026-08-24",
+      "lang": "ko",
+      "from": "2026-08-09",
+      "to": "2026-08-23",
+      "count": 30
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-08-23 before:2026-09-08",
+      "lang": "ko",
+      "from": "2026-08-24",
+      "to": "2026-09-07",
+      "count": 23
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-09-07 before:2026-09-23",
+      "lang": "ko",
+      "from": "2026-09-08",
+      "to": "2026-09-22",
+      "count": 51
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-09-22 before:2026-10-08",
+      "lang": "ko",
+      "from": "2026-09-23",
+      "to": "2026-10-07",
+      "count": 56
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-07 before:2026-10-23",
+      "lang": "ko",
+      "from": "2026-10-08",
+      "to": "2026-10-22",
+      "count": 54
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-22 before:2026-11-07",
+      "lang": "ko",
+      "from": "2026-10-23",
+      "to": "2026-11-06",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-22 before:2026-10-31",
+      "lang": "ko",
+      "from": "2026-10-23",
+      "to": "2026-10-30",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-22 before:2026-10-27",
+      "lang": "ko",
+      "from": "2026-10-23",
+      "to": "2026-10-26",
+      "count": 47
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-26 before:2026-10-31",
+      "lang": "ko",
+      "from": "2026-10-27",
+      "to": "2026-10-30",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-26 before:2026-10-29",
+      "lang": "ko",
+      "from": "2026-10-27",
+      "to": "2026-10-28",
+      "count": 61
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-28 before:2026-10-31",
+      "lang": "ko",
+      "from": "2026-10-29",
+      "to": "2026-10-30",
+      "count": 96
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-30 before:2026-11-07",
+      "lang": "ko",
+      "from": "2026-10-31",
+      "to": "2026-11-06",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-30 before:2026-11-04",
+      "lang": "ko",
+      "from": "2026-10-31",
+      "to": "2026-11-03",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-10-30 before:2026-11-02",
+      "lang": "ko",
+      "from": "2026-10-31",
+      "to": "2026-11-01",
+      "count": 74
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-01 before:2026-11-04",
+      "lang": "ko",
+      "from": "2026-11-02",
+      "to": "2026-11-03",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-01 before:2026-11-03",
+      "lang": "ko",
+      "from": "2026-11-02",
+      "to": "2026-11-02",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-02 before:2026-11-04",
+      "lang": "ko",
+      "from": "2026-11-03",
+      "to": "2026-11-03",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-03 before:2026-11-07",
+      "lang": "ko",
+      "from": "2026-11-04",
+      "to": "2026-11-06",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-03 before:2026-11-06",
+      "lang": "ko",
+      "from": "2026-11-04",
+      "to": "2026-11-05",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-03 before:2026-11-05",
+      "lang": "ko",
+      "from": "2026-11-04",
+      "to": "2026-11-04",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-04 before:2026-11-06",
+      "lang": "ko",
+      "from": "2026-11-05",
+      "to": "2026-11-05",
+      "count": 100
+    },
+    {
+      "query": "(\"LG에너지솔루션\" OR \"LG엔솔\") after:2026-11-05 before:2026-11-07",
+      "lang": "ko",
+      "from": "2026-11-06",
+      "to": "2026-11-06",
+      "count": 86
+    }
+  ],
+  "errors": [],
+  "capped_days": [
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05"
+  ],
+  "articles": [
+    {
+      "id": "A001",
+      "published": "2026-11-06",
+      "source": "중부매일",
+      "title": "LG엔솔, 3차 ESS 입찰 불참…기존 확보 사업 우선 추진",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZDhXNDdUT3o4ajZ1WU1raFFQeGJQVk9lcHpSMndkbHRENlIzNXctbXlpbUVWYzBlaDFCdDc5emhxcFJLa29sRXNOX3N4Q1dCZ0ZMYU54QnBaLU14anl5ZGluOFhCdFJ6QXfSAW5BVV95cUxOMThHZlRXdDFENUU2SC0xbF92UTVMT2ZXRl9zLWNyUUlWUnEyUEJvb05NWTd3ZnB3TW9EWmc5MFFsMEJzWnBsY3dMUGVMWTQ2ZGFqSU9Jal81aGdqcm9qMkxoUHhXd0tRYXJsZHRzQQ?oc=5",
+      "source_url": "https://www.jbnews.com"
+    },
+    {
+      "id": "A002",
+      "published": "2026-11-05",
+      "source": "프라임경제",
+      "title": "'물량보다 수익성' LG엔솔, ESS 수주전 한발 뺀 배경은?",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SekhTbjJIOWZsZU5GSFplcUNSbmdlWlozczlQN0JjN3VzT3NQMEtkX1Z6RG5ubndvQ0NQeF9xWEhPZDd5M21hYzg5eGRZMVR2RHZHQkswVmtkem8zM3VERTJaakp1dGxKQ3BoOA?oc=5",
+      "source_url": "https://m.newsprime.co.kr"
+    },
+    {
+      "id": "A003",
+      "published": "2026-11-05",
+      "source": "비즈니스포스트",
+      "title": "LG에너지솔루션 3차 ESS 중앙계약시장 경쟁입찰 불참, \"기존 사업 집중\"",
+      "dup_count": 2,
+      "also_in": [
+        "한스경제"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uX2k5OWRDRUtBVWJXc2hONnhqWTdSdjV0bjlzWnl2ZHpzek5KTTRrTHJkTFotWkEwaUhIYXVKbmFqT0JVSG4wdEo0VjFCWk5hRnFXOG5Ic0hGOFdBM25BdkhkVGFRZUswQm1wVTg2VEJkYTg?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A004",
+      "published": "2026-11-05",
+      "source": "아시아경제",
+      "title": "LG엔솔, 3차 ESS 중앙계약시장 불참…삼성SDI·SK온 2파전",
+      "dup_count": 3,
+      "also_in": [
+        "부산일보"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zX21udm5xVzdqZlR5UUdQUkkxeEduZ1l2a3BvcXExbUMxLVNPTU1zQzlnYXpYSElyd0dHekxMTml0bUE0M1hUcTB1VHRiOXlmMzM1TkY0alRya1B6RUZPSA?oc=5",
+      "source_url": "https://www.asiae.co.kr"
+    },
+    {
+      "id": "A005",
+      "published": "2026-11-05",
+      "source": "데일리안",
+      "title": "LG엔솔, 3차 ESS 중앙계약시장 불참…“기존 사업·차세대 배터리 집중”",
+      "dup_count": 2,
+      "also_in": [
+        "마이데일리"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNGttUVBUOHY1M2hsQ3hvR1hNeE5qUWIwTUJDQTlLNmZsVDZLTEZ6NmI2S3pzbnVSLXgzdFpsYUNuNXZ1UnJrUXpSRVdoZVUwYkJ1SlQzTDNNMWFFQUIzZjJ0Q1g1WkZhTlEzWWt0aXJJRzJrUlF4UWdVVFc2MUdtMExHdmNHZU1LUFdMX0lIVXJiNEE2amktZ1FTMV83czJSVG1xd2QzaFdKOFJneEl1cmk4S1hSRDBKeEpkSnhwcV9ReUs5bTh0eWxLS2pIMGtwa3VxalRmSGNjM1dkR2ZQUFpYMA?oc=5",
+      "source_url": "https://www.dailian.co.kr"
+    },
+    {
+      "id": "A006",
+      "published": "2026-11-05",
+      "source": "아주경제",
+      "title": "LG에너지솔루션, 3차 ESS 중앙계약시장 불참...선택과 집중",
+      "dup_count": 2,
+      "also_in": [
+        "미래경제"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOVmZwdTcwOWd3b1JCQVJ3dmI2ZTByLWttenJSS0lPUFluWnptUXVFNEhnakh1QTVrck44enl4eW8ybFduN2VrT0NUT1htdGg2RWpOVElCRWN2QdIBWEFVX3lxTFBBbC1TM1hfTVpucmlQazNsV3ZHYlQtVGhvRUxEeGVDQ25kcER5RjVkT3J1YktMbGtTZTZ5akpCdkNTU3hhd0Y4Tmd0WjJVa0FwZWEtTUJUSzQ?oc=5",
+      "source_url": "https://www.ajunews.com"
+    },
+    {
+      "id": "A007",
+      "published": "2026-11-05",
+      "source": "이데일리",
+      "title": "LG엔솔, 3차 ESS 중앙계약시장 입찰 불참…\"선택과 집중\"",
+      "dup_count": 8,
+      "also_in": [
+        "파이낸셜뉴스",
+        "뉴시스",
+        "한국경제TV",
+        "SBS Biz",
+        "신아일보"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2laSUtJZDh6YXVfaDlJSXFWeklMc29LRHhja09UV29fUDlMSjhLbEVBT3BvTk93X1lyWHd1T1o4MEVaS21sQ2xpcVdkdmdrTkRwWkxDRXBubElRNnlUOHJGLTlFaXBYR3lwa1g5NUh6RldsRlpwRGhqWEFwWVZSaw?oc=5",
+      "source_url": "https://www.edaily.co.kr"
+    },
+    {
+      "id": "A008",
+      "published": "2026-11-05",
+      "source": "머니투데이",
+      "title": "LG엔솔 \"3차 ESS 입찰 불참…가격 경쟁 대신 중장기 경쟁력\"",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Zjd5TDdGb21QdElObDBvdmQ4SzIzdXYxdGdhcWZyRnNSc0FIRmlLYTRPYkpDWWNYa1h6cE9ycGxuY2dRbnd0UDMwbzdWdkVNQjloNVplSWVUT3RHMTNCN3NEU3k2LXRXLU9aWdIBckFVX3lxTFBtcThyWjF6ZXktajJvbTdtTmI2OGtSeE50bHhwX1VNTHZCaUJOc1dCRDBmT0xQcDJ4RVBhY1B5UUJ6VU1Qd1dULVdNT1Q2dDZYTWhyc3p0Ui1UaEF2anVsa0J5RWJTV29FTFIyRHpiQ01DQQ?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A009",
+      "published": "2026-11-05",
+      "source": "연합인포맥스",
+      "title": "LG에너지솔루션, 3차 ESS 중앙계약시장 입찰 불참 선언",
+      "dup_count": 4,
+      "also_in": [
+        "디지털투데이",
+        "CNB뉴스",
+        "이뉴스투데이"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNUdPZmNTTEJJS0tVVjdNWDdnVF9hZmpWVC1CNURHYm5lc1kxRWVIY2gzb01sQU55ajN6QlFHTTVMdzRPSFprN21VQmJHN2lpUmoySkFMQWFNaEM5RGpkM3NKZ2hCdVBDU2xxYUFjcE_SAXRBVV95cUxOSDZrVkRpN2d2SE1tUGcyNVJHRXgzZjZBN0taSG1haHVwdW1aaWV1eFJSMldFaUVJX0xJdVVMZWJyUGFYc3Y5VXNpZ0pWUlpfMFRXbGhMTjJPc0NadVRRRWxxQ0ZBZ2o5SWJWUVgyVEFXZGUzRQ?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A010",
+      "published": "2026-11-05",
+      "source": "이투데이",
+      "title": "LG엔솔, 3차 ESS 입찰 불참…\"기존 수주 사업 운영에 집중\"",
+      "dup_count": 3,
+      "also_in": [
+        "데일리한국",
+        "한국아이닷컴"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FUXlFWkJmZjNoeUZfeHBjMjhoU2Z0a3pUcUEtUGd4cDlFRUwwOXk5enk0bzVqcG9FNE9KWHFDUTk5VGJvb3hxa09hcnJfZ1lwbXN0OQ?oc=5",
+      "source_url": "https://www.etoday.co.kr"
+    },
+    {
+      "id": "A011",
+      "published": "2026-11-05",
+      "source": "팝콘뉴스",
+      "title": "LG에너지솔루션, 3차 ESS 중앙계약시장 입찰 불참…기존 수주·차세대 배터리에 집중",
+      "dup_count": 2,
+      "also_in": [
+        "테크월드"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00TlpPZS00NmZLU1Y0bG9kdU5XSUs5LTV1d0RXdzFDd09UbnJLV0ZPZElHYzhoTWs0V3hPTEE2UjNqZldpZ0w3djcwbTVkb0lkNzl4R0FxcFJlYlRRU0Q1VExtaTd1TUtmeXpEM1kzUdIBckFVX3lxTE5kZVdDaGNFZ18xdDhPdmlsM2VVSnBCamxfQmtRWHpXV3AzTEZoRkdmQThhbTM2RWhoNlA3MFl2TG1WQTFxMWNEajNreWxpV0I4U01YSlBmclItMDJLWVpJZ29xWlYzV3lmMWxtQ1h1RkZvUQ?oc=5",
+      "source_url": "https://www.popcornnews.net"
+    },
+    {
+      "id": "A012",
+      "published": "2026-11-04",
+      "source": "헤럴드경제 미주판",
+      "title": "LG엔솔, 3차 ESS 입찰 불참…“가격 경쟁 대신 선택과 집중”",
+      "dup_count": 2,
+      "also_in": [
+        "헤럴드경제"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HaS13VjhzQ29CNUR2UU5uejlNa1N4QnVibWJIb0RkU1pqY2JEY2FweVpNVkU2LVZtd0FJRk93S25BcnJJZ1Y1UDhFS3d4TXQzdlpqSzZUU0VvRzJMVVBHRg?oc=5",
+      "source_url": "https://www.heraldk.com"
+    },
+    {
+      "id": "A013",
+      "published": "2026-11-04",
+      "source": "MTN 머니투데이방송",
+      "title": "[고래사냥] '디케이락·태성·LG에너지솔루션·나무가! 내일장 고래 종목은?!",
+      "dup_count": 4,
+      "also_in": [
+        "머니투데이"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nRkhTNVNrRjdCUF9fblNybHZXd0JBRVp4eXcwcWxxZkJCQXVwS0hwNGxaMTV3LWUwTDQ0bGgyT0dMV295ZjRyZlRqMGhuLXVXRGhVRS01eFJuNEE1?oc=5",
+      "source_url": "https://news.mtn.co.kr"
+    },
+    {
+      "id": "A014",
+      "published": "2026-11-04",
+      "source": "시사저널e",
+      "title": "ESS 성장성 입증한 LG에너지솔루션···시선은 수익성으로",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJeWNFa3pCZXFtbkMwQ0ZITXBacXctTVE0WXU5T2NvRS1pU1JQQmtxWHQ1Nmxsc3lPSFB5SFlGY0RZMFM0ZS1kbU1ROHNiV1Z3Qk5tdHZCYndSZEpmQWRwVXlhQzJJaHBEeThtUmRYOERZQdIBdkFVX3lxTE1naFdMbUdxZUdzXzNhVlUydGx6WnptSW0tbTFvSkF0YzJKRnViMWZBOU40aDBBanpVZWNCNGlvQkhtR0NyYVhiM09ObTk3V1JWR0ZVSExjTnozQ014dlVTcFlJMHFpSENCUDJnUktjWkdqdlVINEE?oc=5",
+      "source_url": "https://www.sisajournal-e.com"
+    },
+    {
+      "id": "A015",
+      "published": "2026-11-03",
+      "source": "연합뉴스",
+      "title": "대신증권 \"LG엔솔, 내년 ESS 실적 본격화…목표주가는 하향\"",
+      "dup_count": 2,
+      "also_in": [
+        "매일경제 마켓"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RUJYeTVwam5ZelV6b2E2Q25kWEJaa0ZvQ25NNWwyWHhidUFTX1hDR3FSZHVlRVFtZ2VOenR6SWRDckVoNVFLX0NwVVpCR3I1RGlYQUg3ekZ2RU96bmdGatIBYEFVX3lxTFB0RUJYeTVwam5ZelV6b2E2Q25kWEJaa0ZvQ25NNWwyWHhidUFTX1hDR3FSZHVlRVFtZ2VOenR6SWRDckVoNVFLX0NwVVpCR3I1RGlYQUg3ekZ2RU96bmdGag?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A016",
+      "published": "2026-11-03",
+      "source": "한국경제",
+      "title": "\"LG에너지솔루션, ESS 부문의 흑자전환 지연돼…목표가↓\"-NH",
+      "dup_count": 2,
+      "also_in": [
+        "TradingView"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcjRraDZsSVQycWVOeHpXSlo3Yzl3dU1zeDRzeGtFOFZxeGNoX25KeVRYMlVRU1owZktuajByNXZPRjJsOFB5c1F1d0QxeU42dWlDaFZ2Z2xPZw?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A017",
+      "published": "2026-11-03",
+      "source": "딜사이트",
+      "title": "LG엔솔 \"美·EU 정책 변화…공급망 안정성 확보 전략 추진\"",
+      "dup_count": 2,
+      "also_in": [
+        "Naver Blog"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJa3V3UlJjQ0xLeHhiUUFoMkp3QWc5X3ZLNG9LWVFoQmxkZ3lwdno1UlBUUDR5bHZHX2dZZF90ZmI1VEFiNGJPRXR1RDJpc2M?oc=5",
+      "source_url": "https://dealsite.co.kr"
+    },
+    {
+      "id": "A018",
+      "published": "2026-11-03",
+      "source": "오토뷰",
+      "title": "엘앤에프, LG에너지솔루션과 LFP 양극재 장기 공급계약 체결",
+      "dup_count": 3,
+      "also_in": [
+        "아이씨엔매거진",
+        "유스연합"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pRlktM0VhM0luT1ZXeFhtV1dWbEIwaDM5cEczX0c3Z2xDUGU0QkcyanJDM2ctc1cxUUNVbmxmWnl1Umo1ZE5xek0zMXA5d0dmTmI2dE1PRWhjNmti?oc=5",
+      "source_url": "https://www.autoview.co.kr"
+    },
+    {
+      "id": "A019",
+      "published": "2026-11-03",
+      "source": "머니투데이",
+      "title": "LG엔솔, 매출 성장 목표 20%대서 40%로…빅테크 BESS 첫 공급",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJZ1YxdzlfRmoxd0JqZ0Y0ZWFhWnJWaWlvVTFfT1BoYTY0OXU4ZXhvNENfN3JpaVVBbDZBZERDS3E1WlRGV1JlYmJkSDIxM2pGQ0JYeXYwWFFpVzdyTmVTNi1GNUJmNnNwX01BWNIBckFVX3lxTE5DeXVldUJEcUxncXBQZ21iUXNTdmY3d1dpZTBjbjFoQTN2THVQMzBBTzZHZTU0QWo2T2R2S3hHWEFzZExRM3FiTEtVUHhDRjFmWmRiLUdfTlNod005NjgwcTE4YXpOMjdLZVo5SnJub05JQQ?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A020",
+      "published": "2026-11-03",
+      "source": "매일경제 마켓",
+      "title": "LG엔솔 \"4분기 매출 10%↑…북미 ESS 2028년 물량 대부분 확정\"(종합2보)",
+      "dup_count": 2,
+      "also_in": [
+        "news.sbs.co.kr"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oRzB5T2NvMjlVNExlTVlYQTlxT1ZJV1RUZm92cDFxbnNVandLNGZnRzZxNWhxQjM5ZFRtV1YwUGlNcy1rYVMyN0JuX2ZXaU1FMlE?oc=5",
+      "source_url": "https://stock.mk.co.kr"
+    },
+    {
+      "id": "A021",
+      "published": "2026-11-03",
+      "source": "마켓인",
+      "title": "LG엔솔, ESS 중심 '선택과 집중'…생산 효율 높여 수익성 개선(종합)",
+      "dup_count": 2,
+      "also_in": [
+        "이데일리"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkSWRNWk80WUlNai1WRzlObHlwRTh6MWZGSnRPVmdEdTZFb3pGalFOcGYxZzlTQVVPVW91eG9nWmZKUHFvaml5XzhjRklCemNId0hpM1BSY3IyTnFPYjh0eGJDa3VJdU9aeUFGelg3d1FxbXM?oc=5",
+      "source_url": "https://marketin.edaily.co.kr"
+    },
+    {
+      "id": "A022",
+      "published": "2026-11-03",
+      "source": "연합인포맥스",
+      "title": "LG엔솔 \"연내 소듐이온 배터리 ESS 샘플 생산·내년 테스트 제품 출하\"",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jTnUzS0ZyVmFDcjA3bjFPNzMteXE5U2IweXRXWWpteFUxWXdqM0FZMlNqWmxEaS1Xc2hqX2xZSFJIZVF0QVJ2VHR1bmQ1am8tOG52akZDZ1NQUGpOaW9OOGUwclJVR0FvYWZONG8tdFA?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A023",
+      "published": "2026-11-03",
+      "source": "딜사이트",
+      "title": "LG엔솔, ESS·EV 출하량 개선에 '어닝 서프라이즈'",
+      "dup_count": 3,
+      "also_in": [
+        "금융소비자뉴스",
+        "Naver Blog"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83LWI0QXNfSHNMYXlaZ0JlTGN1bk1qamkxay1OZkxDdl9XY3Z2X2tKeWxhWkVlRDFyMlZENF9rRHctNjJTeFQzRzJTYmVqMUE?oc=5",
+      "source_url": "https://dealsite.co.kr"
+    },
+    {
+      "id": "A024",
+      "published": "2026-11-03",
+      "source": "연합뉴스",
+      "title": "LG엔솔 3분기 영업익 7천560억…\"내년 70GWh↑ ESS 생산력 확보\"(종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9abko0UE82RWxZMzlUaFJNQWFXV3RKUkpmYlVzeUNxUEh0dEhWR1lacWw2YVJjN1BWMUxKNmZxaWQxQTV0YTNreHZ5UjZaWVdoYy02NHJfdlJwZHpPT3VYONIBYEFVX3lxTE9abko0UE82RWxZMzlUaFJNQWFXV3RKUkpmYlVzeUNxUEh0dEhWR1lacWw2YVJjN1BWMUxKNmZxaWQxQTV0YTNreHZ5UjZaWVdoYy02NHJfdlJwZHpPT3VYOA?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A025",
+      "published": "2026-11-03",
+      "source": "글로벌이코노믹",
+      "title": "[공시] 엘앤에프, LG에너지솔루션과 1조350억원 공급 계약",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcU5BZWF0VzJabU5FaUR0N2d6UEFHZWlPRnBWNHNxNHA3MVRhNW1leEwycUEtOGR6cEhoN2ZoSkRyLVo0anZkbkxTd3VaM25OYWp0M0xvTWxIN2JKSmFESzdyb1lZdHQ0QlJTOXFRMlFva1dhT1pSWUV1enh0X0lCbHM3aHhueDQx?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A026",
+      "published": "2026-11-03",
+      "source": "아이뉴스24",
+      "title": "LG엔솔 \"4분기 매출 10% 성장 전망⋯수익성 둔화 불가피\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55dWUzdC16bnI1dXlzNVAwV25mV1ZnV3JlVV9FUkt1Smd5Sk5Qb0dlXzNENzJRTEVselFSdTZJbS1jMEtvUXhWdVVNQQ?oc=5",
+      "source_url": "http://www.inews24.com"
+    },
+    {
+      "id": "A027",
+      "published": "2026-11-03",
+      "source": "서울경제",
+      "title": "LG에너지솔루션 3분기 영업익 7560억 전년比 25.7% 증가…“ESS 호조·생산성 개선”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lazRZcUJ4eGdPcF9TLUFJM1FhSGxzN0dJcURGeDl2b3lyZjU1cFhHblVuTGZCSmNZd19tMXdjaWdmWTFpck1xTVZidk1YMTZNSFHSAVNBVV95cUxPT2hhT0YwOU1TbEloWFh4Z05kRS1JZGJmeXBzWjZtRXVHYTJTNFE1OFVFREFGbnRvNnBIQkNjc1NydmVDRk5KRlVweV9WUVhqTXRCdw?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A028",
+      "published": "2026-11-03",
+      "source": "뉴스1",
+      "title": "[IR] LG엔솔 \"2028년까지 ESS 생산물량 대부분 확정…후속 수주 논의\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xdk1sNGRNM1NJZ2t2UkM1Q05Xd2Noa0tHWWIzRUxEV180VzNIMkJpcUpPbXF0S0diZ1BkbDZnYkV0algtaDAxc3BXLXhkb0lWY00yUE02WkdOZFVUeEdGTTVMNm8?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A029",
+      "published": "2026-11-03",
+      "source": "뉴데일리",
+      "title": "LG엔솔, 3분기 영업익 7560억 … ESS·전기차 배터리 동반 성장",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTc3QXdaVzFDVzNRTEtoT1pwejM4bmVGVnBkcjBlbUl1VnBWYV9GMUtuUGRfWlo2eS1BZS1pWU1Hb0VDVGtjeHozd1lfYVU1YTFOX05TeTFISE93UDh0Wmd6ZmR0bHREZ1JGLXhSQnVSSHhzNjhUbDNDVDhEWUpJZNIBgAFBVV95cUxQRTc3QXdaVzFDVzNRTEtoT1pwejM4bmVGVnBkcjBlbUl1VnBWYV9GMUtuUGRfWlo2eS1BZS1pWU1Hb0VDVGtjeHozd1lfYVU1YTFOX05TeTFISE93UDh0Wmd6ZmR0bHREZ1JGLXhSQnVSSHhzNjhUbDNDVDhEWUpJZA?oc=5",
+      "source_url": "https://biz.newdaily.co.kr"
+    },
+    {
+      "id": "A030",
+      "published": "2026-11-03",
+      "source": "한경매거진",
+      "title": "LG엔솔, ESS 성장에 웃었다…영업익 전분기比 567%↑",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwYl9RYVhTdFp3MFU5MGNQdGExQXA0SHNIYld5SnYtbjBXT2RoNlV1UkJIVDgycllpeGRHTGJPa0UwYVVoaklLNWJBcmJpQkJqWktOMm0yVllVaFUzR3F0M1RNNFRDM0x6MEJRNQ?oc=5",
+      "source_url": "https://magazine.hankyung.com"
+    },
+    {
+      "id": "A031",
+      "published": "2026-11-03",
+      "source": "뉴시스",
+      "title": "LG엔솔, 3Q 영업익 7560억 25.7%↑…\"선택·집중 통해 사업효율성 극대화\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMlIwdDVBYlBVc1U4Tkt4cndWaG01Q3U0LXZiVXBvRENhc1BaWHYzUGllYlVKQXplMkdGcjBRUDZ2OF92dVFiWlBUWGdBQjRBdE5mRzJHRWFHYXJ0Y0hCWNIBeEFVX3lxTE9id0UxQVZ1ZEU4ZUNoZ2htaTFxblJKekEzU1VsQ2NHUy1rOHBaSmRKSVVSUFNQZnhxQzdGaTJ6b2M0MDI4RXZHYWstLVdSem8wNGp6OWJUV3pMbXRjUDZmdmNwQUJBRk9zTjA2ejA4WVdJNlY0UDktUg?oc=5",
+      "source_url": "https://www.newsis.com"
+    },
+    {
+      "id": "A032",
+      "published": "2026-11-03",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 3분기 매출 역대 최대…ESS·전기차 물량 증가",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6VWczbUFad24xSy0wQ2JKcTl1bUszRHVoOFVrVTMtUHNkOEQ0WUtJOHlaT3d3aGRmS2t1ejd1MlJ3XzQya0xWblY3NE5rbnhRcER6Ny1B?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A033",
+      "published": "2026-11-03",
+      "source": "아시아경제",
+      "title": "LG엔솔, 3분기 영업익 7560억원…ESS가 실적 견인",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWTZnVXV0TmNoRVlvckRZVmxMYWlzRFhRQjNXVmJ2bXJaem1JM0ZLcUZWRnBseHg0SDB3dnpsZ2t2OE9NSkRxX2czNmJXTHh5RGFuNkdDSDVkZDVvcUJJVw?oc=5",
+      "source_url": "https://www.asiae.co.kr"
+    },
+    {
+      "id": "A034",
+      "published": "2026-11-03",
+      "source": "뉴스핌",
+      "title": "엘앤에프, LG엔솔과 1조원 규모 LFP 양극재 공급계약",
+      "dup_count": 2,
+      "also_in": [
+        "디지털데일리"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wbXFwZFpnc1Z3ekdtYWZ0LVNiTmdPQ3FmWnBjTk9IODJiZHo0Vl9vNkQ3eHd2d1l2M0pKaFA2TzVaM29LaUR6NU1tenlySGN3Zk1FNXNJVDQ0WlZR?oc=5",
+      "source_url": "https://www.newspim.com"
+    },
+    {
+      "id": "A035",
+      "published": "2026-11-03",
+      "source": "머니투데이",
+      "title": "[컨콜] LG엔솔 \"북미 ESS 배터리 2028년까지 물량 대부분 확정\"",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubXJiSXFBazllRVhNcmpINkNXamY4eGsyVUxBUm90a2hraUhsbnRIZUx3WU1vcFlvZ19CX04yR1RDV1hpWHBKS21iV2I5MVJNREF2QTFvaXpqanNYV0Q2Q0cyNGpzZmx1aW5kdtIBckFVX3lxTE9HdXNTdzJYV0pBWVZFQ1dEOGQzbTVIMkZmYUd3TUhzN2xoeUowNVBYbm5kRnk0U2Z0NTg3NGltYzUyeVZQRnA4UDlISlY3M201WnBUUzktakVaLTZCZl9HQTRuNHZJMDBRYkVxVGJtMFh0QQ?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A036",
+      "published": "2026-11-03",
+      "source": "Chosunbiz",
+      "title": "엘앤에프, LG엔솔과 LFP 양극재 장기 공급계약 체결…1조 규모",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORi02eFIzWElGZEVyS3RHLTI5MzhpODh4bXhSQlVJYmJEZHhRODBMNld6YlV3ZGV6N0lsTzhnelRmNm5NXzhsVDFrVTdvSVdHR1d4QzhrcjRkNl8ybGhiaDhLbzNYYTNoZUFGZHBQcmo5dVZ5djhsNGF1NVdiTHhXYzY5NzDSAZgBQVVfeXFMT1p3R3l5U214TkZyX0E1Sld6bEpBOEQ1TGFqZHZnR2xETEExQWFvVkplVThIREpHNE9HdGkwZUNLczBmczJ3bkJ6ZnRRb0lNeFlvN1dHMTVOUlJVejNwdDJxbVF2Z0txTGRXaWlUT2tINGl2MEZUV0ZrWDRmQUsxNW9CNlhUQldQVGctdTJ4eUx4aGFDTnVJUXk?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A037",
+      "published": "2026-11-03",
+      "source": "조세금융신문",
+      "title": "LG에너지솔루션, 올 3분기 영업이익 7560억원 시현…전년比 26%↑",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03SWdvWE9JLWRQV3ptcVQ1VW1zRzBHRG1fN1B2WjI4M0JDS29VYlp5VUlSMHZGdFhuS3d3emFHWE9fSlJIeWg2eHZZTE1kcnE4ZkM5Y1loaUFyMWhLSjJ6a0RnYw?oc=5",
+      "source_url": "https://www.tfmedia.co.kr"
+    },
+    {
+      "id": "A038",
+      "published": "2026-11-03",
+      "source": "브릿지경제",
+      "title": "LG엔솔, 3분기 영업익 7560억원⋯전년比 26%↑",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvOWZzSFo0QWRNVjJndFo3OUh3Z3J3TFB1LU5Rb2poUk5RWkpzNFhlSDRGc2xJTVE1NTlZLVRiaVB6OFFsVHRqTzZfQUlta3EwWEJtcThOWEpQZw?oc=5",
+      "source_url": "https://www.viva100.com"
+    },
+    {
+      "id": "A039",
+      "published": "2026-11-03",
+      "source": "머니투데이",
+      "title": "LG엔솔, 3분기 영업익 7560억 '껑충'…빅테크 BESS 첫 직접 수주",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYm1FQm1SaVpPYTNjYk53NUJlcTdWelpWV3JER1BKN3RUSlBmVmc4a2NFWU14OVhnX0dKYmlzNkgyZ3hMZVdlX1lFR01OS180OFBtRFNCbVpyandFeGJnNFJtQkdkUWZvaURiOdIBckFVX3lxTE9jME5GSlpVMHRGR21CRXBIR3BqSkJxYnlTQ3JJWlhWeEY2QTM3aHVDSTUtYVJjNkYzQnF6V3RWRi1MRnR2RmE5dWM1N0dENUFtNWJsUERtLTk1X1JsZU5hQnREbGZqbU5INy03MktWSi1fUQ?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A040",
+      "published": "2026-11-03",
+      "source": "뉴스1",
+      "title": "[IR]LG엔솔 \"4분기 ESS 출하량 40% 증가 전망…수익성 둔화\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hQmxEOS1jdjZueEZrZS1mUWFFM2s3Z0N0bUhHX0VlZ2RqNlZyU2xwbDRhbkJHMzdia2ZocnBVS0M5eGFyM2FmVG1OZUhBZGZZeXlRYjZMbG0tdWNRTU1aT0ppRUQ?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A041",
+      "published": "2026-11-03",
+      "source": "아이뉴스24",
+      "title": "LG엔솔, 3분기 영업이익 7560억⋯전년比 25.7% ↑",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14RHdUQXkyYm9OYlZPWl9WM2NPWldiUk1aamowWmw0M05Bd0kwR0dIdGdMSEVsVmJkUVhtbnMyZFVfSTE0MU10U2FXcw?oc=5",
+      "source_url": "http://www.inews24.com"
+    },
+    {
+      "id": "A042",
+      "published": "2026-11-03",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 3분기 영업이익 7560억…ESS 힘입어 전년 比 25.7%↑(종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVd2ZDlIdjEyNVlKR3hJTlBJS19MS3pZN3lfQi05RFI2VnVPbEtVeGxQbU03WnhxeU1uYU1aSzd4QkRnNTNiVHNBbWNuXy1mSU9PM1VYZE10d3NTM2FaWTB2TWlETnVPNGFJc1VZMUNDYUFlZ1VtTGNFNk5qRDRYM19YZ2NRUQ?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A043",
+      "published": "2026-11-03",
+      "source": "파이낸셜뉴스",
+      "title": "LG엔솔 3분기 영업이익 7560억원…ESS 출하 급증·폴란드 가동률 개선",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wNzE3QnNoZGtDRnRLMUJFRDg4blNiblhLS29pYUoxNlpUXzBxdHR2LV9QZEFOLTVNckQ4ZW5JOEhMTTJQUDRYTmcxRl9PZlRQY3l1U0QyRzlVUQ?oc=5",
+      "source_url": "https://www.fnnews.com"
+    },
+    {
+      "id": "A044",
+      "published": "2026-11-03",
+      "source": "이투데이",
+      "title": "LG에너지솔루션, 3분기 영업익 7560억…전년比 25.7%↑",
+      "dup_count": 2,
+      "also_in": [
+        "아시아경제"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BajhMZ2hMRzBtclhrdzRnZVBGd05tNjNtZm9UOWFBZGRhc1c3cjY0Y3A0MmpmSEdtODN5UFpwUUhTMVVERUdtdWRHZUMydnlaaWZUUQ?oc=5",
+      "source_url": "https://www.etoday.co.kr"
+    },
+    {
+      "id": "A045",
+      "published": "2026-11-03",
+      "source": "뉴스1",
+      "title": "LG엔솔 올해 연매출 목표 상향…최대 35조, 전년比 40%↑(상보)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRzVVRHN0MVRLcFNIRVo2QXRmeVFYSHM2OTNFNG51SEROWEpTTUU0eFotRkJxZG5uNHd2dXlFQndTMDFaOFlVOXZEek9aa0NfYVlCTFFJNmxiSWc4UXdXYmJyb3A?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A046",
+      "published": "2026-11-03",
+      "source": "지디넷코리아",
+      "title": "엘앤에프, LG엔솔에 LFP 양극재 1조 공급 계약",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGeW5KdURibTFvQm40VTRTVFBMMHhzTnBIVEJ0RzBsdHB2U1d1YldtbUcyc2JMMGlqTjZXVVdUdnJPaWY4aG1hMjBYY2VoOTJMZkl0NkJB?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A047",
+      "published": "2026-11-03",
+      "source": "뉴스1",
+      "title": "[IR]LG엔솔 \"ESS 수주잔고 160GWh…빅테크향 BESS 공급 계약 체결\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMXRNV1pkWi1PSDdQMG5rdk94LUxSTWdtSzljZUZzaW9qZnZ5cjZhYnk5QzVONi1TOWh0OHd6bFZXeUNYV2ktbVdrbkdVY2VqUVBFSmRqdGJHd29ld0Q4U0hDLXk?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A048",
+      "published": "2026-11-03",
+      "source": "머니투데이",
+      "title": "[컨콜] LG엔솔 \"3Q 처음으로 빅테크향 BESS 직접 공급 계약 체결\"",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LdFMtbjdzUVQ2SmN6aXB3UDR0UURSQXRtd3p2NEc1VUFLTjEyMERFWFNsaWphNnc2LWhTMDFYd1FOTVVZbm9jYXJ5SmxyY0tBc0FWSTdKdmkyc01XSGZUbm1WNHlZbXl4R1VIUNIBckFVX3lxTE1QMFJUaVlqMXVsRWgtUHRsNDVWSjhsNVJjSF9yUTFzeGFlQzdKS3pYYmJpdnJNQS1hTDV3bmprMll2YVdyN3NrX1Y0aWZWZjhVSElMeTdXa0ctMXdQUVlaX2ZyakxtZTBRMXlkZmNOTDJpZw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A049",
+      "published": "2026-11-03",
+      "source": "SBS Biz",
+      "title": "LG엔솔, 3분기 보조금 빼도 흑자…‘선택과 집중’ 강화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObG5RbFRCSWN5Yl9XTGJFdDF2bUhyVXJENnZ2ZXlfT0FxTW9sbW5saHpPNmFYYnBPbzFqMFJQTjZRR1JPbXNrOXYzSXMwRnBNZ3lj0gFYQVVfeXFMTXVtNFBCV294OWM1Z0FaZlc4aXhHUFdibVJVMkgzTVlkYm44b2VNbVdBRGE4RWowMnVNcm1xMDRWYmR5cTJVUXRxOTNzSjZyRGxWVXJ1bWRDQw?oc=5",
+      "source_url": "https://biz.sbs.co.kr"
+    },
+    {
+      "id": "A050",
+      "published": "2026-11-03",
+      "source": "연합인포맥스",
+      "title": "LG엔솔, 3Q 매출 9조6천억·영업익 7천560억…잠정치와 동일",
+      "dup_count": 2,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVc3c5MjV0Y2YyLXFsZGNGaVhvc0RXemhCaTE3Z3BRRkYtTXg5RThzWEM5Z3ZUZnBPSF9KNlJ4UlBpWE5vZERlbW5ONl9IY2lxLXJ0cExfcHc1blUtTngxWmZOWS1HcENONnhQcGhLRUs?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A051",
+      "published": "2026-11-03",
+      "source": "연합뉴스TV",
+      "title": "LG에너지솔루션, 3분기 영업이익 7,560억…25.7% 증가",
+      "dup_count": 5,
+      "also_in": [
+        "Chosunbiz",
+        "충청일보",
+        "포인트데일리",
+        "웹이코노미"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52VUpQUjN6c0FjTmU3ekRpcVZ4S0ItNlRiODRlbzVFU2d1Y1FRZXNUM01BN1dvYVZybVBTRDFCWWUtU2NRS2ZFMzlqQU1qcnY3Wnc2ODhDeWJGUUhMN2NiQW5EVEttUWc?oc=5",
+      "source_url": "https://www.yonhapnewstv.co.kr"
+    },
+    {
+      "id": "A052",
+      "published": "2026-11-03",
+      "source": "연합뉴스",
+      "title": "LG에너지솔루션 3분기 영업이익 7천560억원…작년 대비 26%↑",
+      "dup_count": 2,
+      "also_in": [
+        "KBS 뉴스"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZYUNfUUZabmNXZGxjUWRFcmtiZVJ5SkRrNnY2eDRjbVRIbGJFRWtfaUNkSVBxX0ZIWnJ6QWJ3SWdEOEJ4OWFoZk9RR1dLRDV2RWgzWEFFa0tXWFHSAWBBVV95cUxNVGVKd1ZzVGVmWF9md191eWpFU1FzM2lIZ2s0Q2ZwVUhreWxJakZWNEdIUzFmRmpBeFJyRndwZlVVWGFDQzRWbWwydFlIcEhNZHRGVDFEYkpac3phRTRybXQ?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A053",
+      "published": "2026-11-02",
+      "source": "디일렉",
+      "title": "LGD·LG엔솔, 불성실공시법인 지정",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iR3RIYzVvMkx4TnppZXZxeVdGZy1sVFVMZjh3b1UtRnBhQUYwb2FaekJFWXUydFVCTkExakQwTmRUbjhpNmJzQjB2RTBVLU1JOGNhT3ktWUtSUlJ3Sm1seDAzM01tdw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A054",
+      "published": "2026-11-02",
+      "source": "네이버 프리미엄콘텐츠",
+      "title": "전기차를 기다리던 LG에너지솔루션 공장에 누가 찾아왔을까? 전기차가 남긴 공장",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkxUQjhNOGdIcktOcTR2a2ZHMzFSZmZQQzNnVnZHOW9SNWd0ZDdSSlcyWk1BZTZPYWtNR2kzX0QwS190SHdZX0xDVHJzUlBmUnhCX2lseU10b25HU2FGRDZPRzFqWDhLdXJDWTBsUXlBR252RGRvRmk0X0RyRWNVNjJnbzIwZTczZ3FtZE9ZODdIZw?oc=5",
+      "source_url": "https://contents.premium.naver.com"
+    },
+    {
+      "id": "A055",
+      "published": "2026-11-02",
+      "source": "디일렉",
+      "title": "삼성SDI, LG엔솔 파트너 손잡았다…APS 레이저 기술 검토",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOSUh1Y3hmOFQ1Tk9IQnRROTVUYXcyeFFTandmQUhjZlpid2RkeVY0eHdpeWtwNlZldDNwcGUxakNlaEZtZ2l2UFRSQmdfdWtpU01CMUY2WTNaOXRhc3c0YXJpVFU3dw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A056",
+      "published": "2026-11-02",
+      "source": "비즈니스포스트",
+      "title": "니켈 최대 생산국 인도네시아 삼원계 배터리에 별도 인센티브, 김동명 LG에너지솔루션 수혜 기대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxRHVLclBMV0pydk5qc2JFWXJyTWI1b0ZNMUZOQjdCUEJ2Y1lSWV8tSEowNDJsdTZjODZucUQ5c3ZiZVZDeExKVS15czNEblVqTjlSM0Y1d3lpWEJBY1A3U2NxT3UwYTl2LUVQNnZZYXRWeWc?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A057",
+      "published": "2026-11-02",
+      "source": "비즈니스포스트",
+      "title": "LG엔솔·삼성SDI 주가 ESS로 하락장서 선전, 탈중국 공급망 수혜에 미국 중간선거 기대감 더해진다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02eVJjQV9pMmsyZmRYVVM1TE4xTXlPRUxLcjNMdmJNYU84anRoamszZXUxeHVFRjJMNnRadkg2OVNJU0p1RDhpcXhCZjBTWFpEQWdIaFl5Zm5HSGRzZ1Q2cnlEb3diWVFMNGViSnBwZS00aUU?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A058",
+      "published": "2026-11-02",
+      "source": "매일신문",
+      "title": "포스코퓨처엠, LG에너지솔루션과 7년간 72만t 규모 공급 합의…양·음극재 협력 범위 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhelNnbDlNc3M1VmltRDFMRFQ0MWhYLUNCWE4xWFB5OTVDcXBSZWhWQkx1cWN6OC1ZSThkS1NGY3FodzUyYUFjcXVPS1lwWVpUc2V5bElYNGFnMkFFeGplbnd3?oc=5",
+      "source_url": "https://www.imaeil.com"
+    },
+    {
+      "id": "A059",
+      "published": "2026-11-02",
+      "source": "재경일보",
+      "title": "LG화학 지분 매각에 LG엔솔 주가 하락세 : 한국증시",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfTHBqQ3E5TkxTaENjZWs5MVd6aURpWmo3VGM4UV9TTEN6dXE2QzJwVTdlWHUwc2pTZGl4RU12LWFwZXd6SjdJNkRWSQ?oc=5",
+      "source_url": "https://news.jkn.co.kr"
+    },
+    {
+      "id": "A060",
+      "published": "2026-11-02",
+      "source": "톱스타뉴스",
+      "title": "LG에너지솔루션 주가, 11월 2일 장중 360,000원 0.14% 상승",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yV0ZoNjN6b1YzUGRwVlpzUWVPVkJqeTd3WGpCa3pOWkpydnp3Yk84blRHSFU3ZXZRcW1JSlV2OHRySnFwdHVQR0tRWU5BWURyTnE3aFdlSUxOM1B4Nmc3ZDF3b1lQWWtSenpraG84OEk1QQ?oc=5",
+      "source_url": "https://www.topstarnews.net"
+    },
+    {
+      "id": "A061",
+      "published": "2026-11-02",
+      "source": "한국정경신문",
+      "title": "설비 절반 놀리는 배터리3사..SK온·삼성SDI·LG에너지솔루션 4분기 생존 셈법 대전환",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XV2xlUVgtQzhwWVV6eG02dlhlXzdyRks2S1luWHJGRkJ5THFZWmRRRGtmNlNiTE92MXNyUnd0N0pDczdEaHVvc0hwNjJVbWlObEE?oc=5",
+      "source_url": "https://kpenews.com"
+    },
+    {
+      "id": "A062",
+      "published": "2026-11-02",
+      "source": "리드경제",
+      "title": "포스코퓨처엠, LG엔솔에 7년간 72만t 양·음극재 공급…LFP·인조흑연 국산화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GUWJpbGxFN1pRNF84U0NRc1M3YjFRX0kwLUEyWUZDQlFtNWF0eURoSWFiWWZLd013OG9nZUwtRFpiSk44b1RTMHVSTXNGRmRxTmd1aUdNM0doY09neFhxRElwZjNpLUtocVNRS3BRNVY?oc=5",
+      "source_url": "https://www.leadeconomy.co.kr"
+    },
+    {
+      "id": "A063",
+      "published": "2026-11-01",
+      "source": "열린뉴스통신",
+      "title": "LG에너지솔루션, 3분기 매출 9조 6434억원…영업이익 7560억원",
+      "dup_count": 5,
+      "also_in": [
+        "충청타임즈",
+        "한국NGO신문",
+        "펜앤마이크",
+        "충북일보"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FcmhFdVk4RV8wQUFjV2pUcGZiM2VmalVKNE5lMmhOYUJwcWFDWFBvNDlJUFNMejFtMHFnRVBDcmZaMHFxR2ZISUh1N2swQkkyZEVnbWxfcW80a2ZkOFVwbU1yT2VkUQ?oc=5",
+      "source_url": "https://www.onews.tv"
+    },
+    {
+      "id": "A064",
+      "published": "2026-10-30",
+      "source": "블로터",
+      "title": "포스코퓨처엠, LG엔솔 손잡고 LFP 판 키운다…7년간 72만톤",
+      "dup_count": 3,
+      "also_in": [
+        "Daum"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aSXVtekRfWFFfNGN5aUNBYTZ1aUZnYktJTklxalNsM1g3YTBBVEV4UGtqRXpDRERvSmg3LXdNWC01RFFzcXJnMmx3R2FsYlc1T1JUU01FTjZTSkNGWWFPWHJWY3BMdXBU0gFsQVVfeXFMTXh2T0djbkRpblowWjRvZlk0UW9rcVVpUTR3YlhXQ3ZXV0JKUkE1MGdLNWFJTFVVVnR4SlZBd1B2dUZfZEJkNFlwUTVyYU9zZmYyY05IMDVERW9nNmNucDN1RVk4M1dpNWRKLVp4?oc=5",
+      "source_url": "https://www.bloter.net"
+    },
+    {
+      "id": "A065",
+      "published": "2026-10-30",
+      "source": "인더스트리뉴스",
+      "title": "포스코퓨처엠-LG에너지솔루션, LFP·인조흑연 협력 확대… 72만톤 공급 추진",
+      "dup_count": 2,
+      "also_in": [
+        "솔라투데이"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lRHBYOUo4VlFITVNpQmtjVmpoVUh3MjZUQkM3Yk50eUZOSTlGbzJqUE1VTUZJYWY5N1FXa3ZEYy1jMzFZZFJWcjJoV01XbVZqN1pHQ2tfd0Z5Z1NZM0psZXFyYzBrSGEwX2pTSW9HYkRKQQ?oc=5",
+      "source_url": "https://www.industrynews.co.kr"
+    },
+    {
+      "id": "A066",
+      "published": "2026-10-30",
+      "source": "뉴스1",
+      "title": "포스코퓨처엠, LG엔솔과 맞손…7년간 양·음극재 72만톤 공급 합의",
+      "dup_count": 2,
+      "also_in": [
+        "프레시안"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa1BOZ3ZMU1VIVU5BZktkVWtIeEN2TXUtNm5IVDV3VVV5RlEzczZNX2dycUhFbzB2OFZ6SmxkbGxUYWx2SFUtRHBvU2o0VHR0MDlSYUxva1AzNUxacnJqZlVNVzg?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A067",
+      "published": "2026-10-30",
+      "source": "페로타임즈",
+      "title": "포스코퓨처엠, LG엔솔과 7년간 72만 톤 공급 합의…LFP·인조흑연 협력 확대",
+      "dup_count": 2,
+      "also_in": [
+        "디지털투데이"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QTmlreGtSZjFYM0F4Vll6UVhIRVd5Vk0tZnZBR3F4NjU0U2VxZDQ5M3pFOVRZRkVjTVA5VlZ6RURna0NyWVZVbVJPbFo1VHJkalNhN2J3Z2xtejQ0SnVFNFV3R0Y5NzZaOXMwWQ?oc=5",
+      "source_url": "https://www.ferrotimes.com"
+    },
+    {
+      "id": "A068",
+      "published": "2026-10-30",
+      "source": "연합뉴스",
+      "title": "포스코퓨처엠, LG엔솔에 7년간 72만t 양·음극재 공급 합의",
+      "dup_count": 3,
+      "also_in": [
+        "파이낸셜뉴스",
+        "동아일보"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeElzY0RJSThwdEJZU1lLMXRQYWlxUU43UTJWdXFNdGR3X1A0cUNCdE0xSDFLcnR6TXBkRnd2NGRkLW51WmNLbXU5SmFSUVV6Z3RwRlhlOWhFYXPSAWBBVV95cUxOV0ZXWGNzOHRkUVFwVlFBdkdXUERrOC1CV3VMbGU0WmFITTJIeEN6dGV5TjhMQlZZUnJYLWF3OTYwN3Njb1ZoVHFrWjJYTE54b3FHdE1LR2ZwVUwweFpzTlY?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A069",
+      "published": "2026-10-30",
+      "source": "비즈니스포스트",
+      "title": "포스코퓨처엠, LG에너지솔루션과 7년간 양·음극재 72만 톤 공급 합의",
+      "dup_count": 2,
+      "also_in": [
+        "경북매일"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZEVHbkZUMXRHTUVHckpIYmUyNWc2YVFUY3VjY082cXhWZmRLTnFGWlo5ZjJRRTBkWV9YbjRsY2ttZTVkdTZXSEo3MGpxUl81WDVlaTRiXzM5b0d1cy1IYlE5aHI4VjNMM2dhZ2RMZ1YyZVU?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A070",
+      "published": "2026-10-30",
+      "source": "엠투데이",
+      "title": "포스코퓨처엠, LG엔솔에 72만톤 규모 배터리 소재 공급",
+      "dup_count": 2,
+      "also_in": [
+        "서울경제TV"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40MkR3aEd5NkpOWnZUaEt4VGFYdXNGUThLdnRyRDM3WXVwSDVzSTdpbEZOU0dqbWNDYjlEUHU5THp2UnlJOEhMendLUFNNSzdNaEtQWFQzSEdzSmJiY2swbF9FUVpQRWNSdExDN1RDdw?oc=5",
+      "source_url": "https://www.autodaily.co.kr"
+    },
+    {
+      "id": "A071",
+      "published": "2026-10-30",
+      "source": "www.ebn.co.kr",
+      "title": "포스코퓨처엠, LG엔솔에 7년간 양·음극재 72만톤 공급 추진",
+      "dup_count": 11,
+      "also_in": [
+        "아시아경제",
+        "FETV",
+        "이데일리",
+        "글로벌이코노믹",
+        "서울신문",
+        "신아일보",
+        "뉴스핌",
+        "마이데일리",
+        "동아일보"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WLVQ4Zl9iVnVxQVkwSWt4Q21EbW5kMXNBRTdKdkt6VVZiTHFQeWt4UldoX0Fyd2RmdFVDYWlLTnozT29JV2RqM3hKME9KYXpuYktia0Z3RWxiZXZncS1mcUxSMW1iVjRI?oc=5",
+      "source_url": "https://www.ebn.co.kr"
+    },
+    {
+      "id": "A072",
+      "published": "2026-10-30",
+      "source": "위키트리",
+      "title": "포스코퓨처엠, LG에너지솔루션과 7년간 72만톤 규모 공급 합의",
+      "dup_count": 3,
+      "also_in": [
+        "전자신문",
+        "광양경제신문"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uZzNRTGxtUGp3aVpMeHhuamJzbXIyZkpxZThBSWNmdHBiUFJNSlY5OEwxdGRkTlpTLVZteDVJakpHb3p0NVZIYmk5N19DdllNUUFYUDhB?oc=5",
+      "source_url": "https://www.wikitree.co.kr"
+    },
+    {
+      "id": "A073",
+      "published": "2026-10-30",
+      "source": "더팩트",
+      "title": "포스코퓨처엠, LG에너지솔루션에 7년간 72만톤 양음극재 공급",
+      "dup_count": 2,
+      "also_in": [
+        "비즈트리뷴"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UbHJ1X0dJSUNJQndkLXAzZHNGUnA0U1pzSElnS3Nwc21KMVo2VXRXRVY0WlhNZVFZbmdQN2VDMnhBdjBhSzdBUXZmeENDNG50cDhEdWhVSmw1UdIBVEFVX3lxTE5GNUtVOFc3d293VGN1bHpPY1JiMGlraEs1cmlTUHJIZWMwcDl4SkhnOFpBaWVxdW5qM21jd1dxd1BGRDVMdk92YnUtbVpNb0p3azVLVg?oc=5",
+      "source_url": "https://news.tf.co.kr"
+    },
+    {
+      "id": "A074",
+      "published": "2026-10-29",
+      "source": "매일경제 마켓",
+      "title": "모회사 주주환원에 자회사 '불똥'… LG엔솔 추가매물 우려",
+      "dup_count": 2,
+      "also_in": [
+        "매일경제"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWTHl0Y1AtSlYtcWJOcEw2dk9Na3VZWUgwajNnSGFJTE1EaXI0WEh6eE1jd0RaVzM5azVlRUFQOFZiR3NtUi0xN0tVM2ZXMXY5ZFE?oc=5",
+      "source_url": "https://stock.mk.co.kr"
+    },
+    {
+      "id": "A075",
+      "published": "2026-10-28",
+      "source": "이데일리",
+      "title": "LG엔솔, 배터리 산학협력 확대…‘BIC’ 연구주제 역대 최대",
+      "dup_count": 2,
+      "also_in": [
+        "마켓인"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeG5EUnl2NkJPeG9RNGNMUWZJQkdINWRLZ0p6SmpDZzVDMURvVUxhbVFRM3g0ZjZMWV9qdE9ZM3hCNGlvcXR4NlVWb01XVzBCYnlaWnpGMklaZURaMWNVajRzdGtfNXg5LW9waUdnemFTenAtOHhRS3k4NVg0Z1l0Yg?oc=5",
+      "source_url": "https://www.edaily.co.kr"
+    },
+    {
+      "id": "A076",
+      "published": "2026-10-28",
+      "source": "매일경제",
+      "title": "LG화학, LG엔솔 지분 2.5조 PRS로 유동화…4천억은 주주환원",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54YkI1VlU0NXl2SFBlSDNsMkZGNDJMMXBmQ2pKSmV3aW1mTllTTzQxTDZsWEI1clZRWjZxcXNRN29Gb0ZtVlRmY1F2RTliM2dweGc?oc=5",
+      "source_url": "https://www.mk.co.kr"
+    },
+    {
+      "id": "A077",
+      "published": "2026-10-28",
+      "source": "동아일보",
+      "title": "LG화학, LG에너지솔루션 지분 추가 매각…누적 4조 5000억 원 규모 PRS 거래",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLakhGdGdyZXdyOElsX3VZZ3ZFTUVOWUV1SW5uT1NxWENYSUtNVEpnb3JWdWNJd05GV25aTUV1TDhiNUgxMGk0M3dub0NYQ1MzNE5RY2J2Tl9vZTh4Y1l1Ni1ubFh1MUZDa3lCRnZ5QkYzSlcxX0HSAWZBVV95cUxQMHpmNkJodFpCNDdxYmNKalhQNllheXREZ0F2N21UQnNkMW1Ec0RnNzFHOXBkT01kSFhVT0JVYXRvODRlLUZkU2xwQVp1NFFzWFdacDd2TVpwSWJCLVFBMFo5Rzk5YXc?oc=5",
+      "source_url": "https://www.donga.com"
+    },
+    {
+      "id": "A078",
+      "published": "2026-10-28",
+      "source": "한국일보",
+      "title": "LG화학, LG에너지솔루션 주식 매각해 2.5조 유동성 확보 나선다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84MGstZ2dtQVZ2cEVSaUNFREJzS0RwUmpxdHRCZ09DRi11T0cyUF9DOVZVSktEZmxkYnJHMkhnMmZpMTFZLWY0UHVpNDd4NWg0dkRKMHoyQ1BVNVNwUmZNYmZ0RzlQY3ZZRXplRmFn0gFzQVVfeXFMTjNSSmt3XzlnQ1dFbTg0ZHNLOTJnT1RfaWRGSEFSOTBiYnQ5TUVKRlFPa3VmdXZucEY1Q25CZWFyYTZaRUJZSGttMVlETEMwd2xxM1dkUXgzLXo2U3pvT2VmckRDdXFubUdWSTZIeXVwcUFlbw?oc=5",
+      "source_url": "https://www.hankookilbo.com"
+    },
+    {
+      "id": "A079",
+      "published": "2026-10-28",
+      "source": "뉴스토마토",
+      "title": "LG화학, LG엔솔 지분 2.5조 처분…재무개선·주주환원 착수",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQ1JKTXVLeFR5emtOWWhJSHdLcl9BbmFZMWtRRmhHaGdscXdrMWxSNkI2cU5CQXc0Zm8zb0tIX3hwUlJTcU1aQnNRRjJacnZzSWc1X2Izemh3NEo1cDBLSA?oc=5",
+      "source_url": "https://www.newstomato.com"
+    },
+    {
+      "id": "A080",
+      "published": "2026-10-28",
+      "source": "금융신문",
+      "title": "LG화학, LG엔솔 지분 활용해 2.5조 조달…3000억 자사주 소각",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EV0ZwSU10ZndybzlWSTJpOTlwZjdmV2FmTVF1dGlTQ0Z4amxmVldxR21QNlRmYVZ6bnUxQmhzX0k2QUp3eGJhbVdNbTNsaFlYeGFWbGxUbVFnY1VJX29wcGsybGdsZ1JUcU5zeVViZGVGSXAwYktfTVd5V1g?oc=5",
+      "source_url": "https://www.fntimes.com"
+    },
+    {
+      "id": "A081",
+      "published": "2026-10-28",
+      "source": "뉴스핌",
+      "title": "LG화학, LG엔솔 지분 2.5조원 처분…4000억원 주주환원 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lSnQxZnpqR1dwWUNtd3cxNUJvM3RTdzRIQlA4UHZoV3FYLXFLby1UeTAyVTBvaXhhZnh4MzdMU2lXUjdxRkVPeU9id0JZWUJ0RlhOdEVzeXprY2VU?oc=5",
+      "source_url": "https://www.newspim.com"
+    },
+    {
+      "id": "A082",
+      "published": "2026-10-28",
+      "source": "글로벌이코노믹",
+      "title": "LG화학, LG엔솔 지분 2.5조 유동화…3000억 자사주 첫 매입·소각",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2dDVUZ0QXZvOFNmN1JhUmdZcHFiUFBqTmR3QVoySGJ4ZDJwYTcwNzBQNTNMZjNzQ1lldk53bXctcUtqS1VNVW5BeTZBQnBuaGpRaDNQb1dTWUNiVjlhcVB5NHp4b1pTZUdJNWxpdWZvMXU5XzYyUWVlTmVYN0R2bGhxMTNBQQ?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A083",
+      "published": "2026-10-28",
+      "source": "Chosunbiz",
+      "title": "LG화학, LG엔솔 지분 2.5조원 어치 매각.…재무건전성 강화·주주환원 재원 마련",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWFCQllWdnhJU0JVTnRrVWF2TzNmdmplUGx5cHdZZEdUdndXd0xaRlhwME96VnVPcUJlZXVwX1QwTkpuUVoyeTlyVGVBMExGdWwyYUd6VkM1a0NKRm5BdTJxeDh6SlZaaEJraVAzSjhMMDNUSmZka2ttZ1VyRWNyOERVZ2TSAZgBQVVfeXFMT1pBQW5jdEVDU084OEVhSU1Zd2Z1MlYzdFFnVjZyV1U4Yy1OaW9FOWxMblpFZC12Tkg1SVJfd2R3aDQ4amk2RlNnZWh4NlRZaHpEcVR6YV9SZ3hHZVRDMHozaktLMDlLTTBNNlJIQkk2RDU1SWE3dWQyVTBVcjZfSFdqNGQ0NUlYLWExZ2dXMmpyZ1pVY0Z0aWQ?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A084",
+      "published": "2026-10-28",
+      "source": "매일산업뉴스",
+      "title": "LG화학, LG엔솔 지분 PRS로 2.5조 실탄 확보… 창사 이래 첫 자사주 소각 단행",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42ZFpUSks1UnJOYU85a0VOWkQtQjk3RExSOXUwQ0pDbkxJQzdybTNuMWxKcW50XzFXalU5cF9RNHhGSTNhT2RCb1ZlbDFZMlBKSzdBYzFuUWhUZWpneThvRTRPcw?oc=5",
+      "source_url": "https://www.imsn.kr"
+    },
+    {
+      "id": "A085",
+      "published": "2026-10-28",
+      "source": "신아일보",
+      "title": "LG화학, LG엔솔 지분 2조5000억 현금화…3000억 자사주 매입·소각",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnQlBCbVd3T0lSazNMcWZQZXpUNXhjMG9qbG1VQlJjbXczWXNmREVSYnYzbDhkYWt0T0tQZ1NTNnVzQk1QdmdwN25MZHJOY1VJQkhJT3ZjX2J1a0JUTFN3anFaX2xLcFBUMWg1UlhWZVQ?oc=5",
+      "source_url": "https://www.shinailbo.co.kr"
+    },
+    {
+      "id": "A086",
+      "published": "2026-10-28",
+      "source": "이데일리",
+      "title": "LG화학, LG엔솔 지분 2.5조 매각…재무구조 개선 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0VRNUIxRXYybUpfaUdrdWFfQkxhckpvQzhNU0xHU042YXZXTENseDNpOVNHRDlLb2NEOHVHZVdwQ3I2eE1aYXJUX1E4Q0tSQ25QZGJQLUU3TlVvUDZJQXpIS25zekJqRDhzLUFWOXRxSUNiLXBDWWFDZ2NuQTdjOA?oc=5",
+      "source_url": "https://www.edaily.co.kr"
+    },
+    {
+      "id": "A087",
+      "published": "2026-10-28",
+      "source": "인베스트조선",
+      "title": "4.5兆 PRS 내놨는데 5.9兆 어치 더 남았다...LG엔솔 끝없는 '오버행 부담'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3NiVUlhUnJOZ2swaUpZSkpFV1N4WnN4MDRSNnFlUlhjNC1jYjdHVjRBaWRLYVJsc3YwUGo5RXVDWnlFUE9UX2Vxd1BmT191VkVmY2I0a2k2ajd2UHdOLUhGNGJBaWVsRDNxN2ZKNHh0TU1KS1FkNTF5cUJTa2tUNDNfYw?oc=5",
+      "source_url": "https://www.investchosun.com"
+    },
+    {
+      "id": "A088",
+      "published": "2026-10-28",
+      "source": "디일렉",
+      "title": "LG화학, LG엔솔 지분 매각해 2.5조 실탄 확보",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42SlBIVnBPUS13cUVwTTd5em55RFRKN3lGUExiYkxjMGVYUDBtZW5iVlZlUGRvc3FwT0xybmU1LWVNYWI4N3FLVHVkckRKZnJjaE1ES3FHNWk0emg0ZGtVRGIzb2NXZw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A089",
+      "published": "2026-10-28",
+      "source": "머니투데이",
+      "title": "LG엔솔 지분 팔아 2.5조 현금 확보한 LG화학..신사업 투자",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sMGM4dGFodTF4d3ZxQ0ZfelNFVkFUc0tqUzBHWGgwc1dycDhyVmlUYVVENDdOYU9qY1k5WjlNNE5VWW44YkxQa3BxaW93N056MDNmZWlxb1FGdnkzSVd4eW9uT2pRclBTY2pWetIBckFVX3lxTE9XOUR5eDh6cklmQUxFWkhHX1FRZFQyTmk0eVpEQjZvT096ck42NVYzWGotQTI1UVd5eXQyTDNxd2kyazAteGxBTVhjWW1zQXFuMUZOV3lBMkdhYUIwVlZDUFYzVC1rWnJPNFQyV1Jyb1dHQQ?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A090",
+      "published": "2026-10-28",
+      "source": "연합뉴스",
+      "title": "LG화학, LG엔솔 지분 2.5조 처분…자사주 3천억원 매입·소각",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94bl96ck1aMFVnWElPS1dWel9tNDRVRE5ER1Jxay1QZmNEa1luY2FSZ2VRbTI2QmYxODFJS2lzQjhjQjc1SjU4UlpFS3AxWVJuajBJUlVyUm5ORzTSAWBBVV95cUxPRU45MzhlZzJ6LVd3UklncFJoV3BWVFRoZ29fSi1rT2ZHX1laemVRVlY2dGFmR3JhTW16bU1uejcxaVZKVFhLcXJFWEF5c1hRa1I5RWZKUGFSMEYxT2NHZW8?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A091",
+      "published": "2026-10-28",
+      "source": "조선일보",
+      "title": "LG화학, 자회사 LG엔솔 지분 매각해 2.5조원 확보",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjZNSmRPYlNjUHdUQUdsN1E2cUg3dU9rNU5Da19DWEpYbWxLRXNHalhXTTFEOTUxbkN2N3d5WmZCM3V3QmtxTzctN0JaYzRLZnZHcHd5cmlKOEtmLXVuQzlpRDVSaHlOV1M1d19xYVNJLU5ZaHZwalRkTmdZMnhlWTYxLU5oTW5KVk1YTEhSYw?oc=5",
+      "source_url": "https://www.chosun.com"
+    },
+    {
+      "id": "A092",
+      "published": "2026-10-28",
+      "source": "지디넷코리아",
+      "title": "LG화학, LG엔솔 지분 처분한다…2.5조 현금 확보",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UVVBpb0J5TmFjcmxiUDJGNFV4bm9SMXhwdUxSMXlTbE1iNHRVWlBvR3A3ZWk3bHUteVRtcms5SmZsc2xEQkZXQldCRklfclFSWEY2cWhB?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A093",
+      "published": "2026-10-28",
+      "source": "인베스트조선",
+      "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaE53WktqVV9RLTVkR0RVYmZNd2xYS1Z6S3RsU1hLcF9aeWcwTmhvMmRFOVFBOWs3TTljYXRXM3pxclFWcVctYnF6ZE9PTXJ0XzBsX3hiNVVEWG1OTGZDVUdWVVpkWUE1TkdBM0xiZnlSX203aTdTR3RaaDYzX3hsWk5kUQ?oc=5",
+      "source_url": "https://www.investchosun.com"
+    },
+    {
+      "id": "A094",
+      "published": "2026-10-27",
+      "source": "녹색경제신문",
+      "title": "LG엔솔 ESS 사업 확대에도…LG화학 직접 수혜는 제한적",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tMGFSRnhia1lVRFFlNTMtNWlRXzRLS1l2ajA3dFh3RUMtbC1STUhBNjA2UnVtNHhGNXZ5cVJBRXcwVmRXT3hqY2NTMHpmVWVWSHBqZkxWTV9XSUVoajhKWEZrX1hBYVZo?oc=5",
+      "source_url": "https://www.greened.kr"
+    },
+    {
+      "id": "A095",
+      "published": "2026-10-27",
+      "source": "Investing.com 한국어",
+      "title": "LG엔솔, 에너직스와 ESS 협력…유럽·북미 시장 공략 By EBN",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRi1UTTlKLUExSVc3ekxfR1NYcUluUEQ3cm4yWUpIajd3QmFqVzh3dGR4VGpBb1ByLXVaaEFrV1RuVWRZNFlJRnJGcGFUMTBpS0FuSWRlMmtOZGlzdndxb1pfa2Qyb1JNQ25VVG1QbWo?oc=5",
+      "source_url": "https://kr.investing.com"
+    },
+    {
+      "id": "A096",
+      "published": "2026-10-27",
+      "source": "글로벌이코노믹",
+      "title": "ESS가 가른 3분기 K배터리…LG엔솔·삼성SDI '순항', SK온 '난항'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONlZldHVLck8yOHZrS1NuQS1qb21wTzBwV04wYmFKZEFwUGlsT2RGcWZBdlV4X0Rzam94MnlTRTdrRG1HbGNiTDZVYndtVk9HYzEtMF85SGhRakJZdV9ITW80b3BGSmRLMU41RlFDYVVSdEIzTEdhQnJzUThNZzg2VzBPVDd5QQ?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A097",
+      "published": "2026-10-27",
+      "source": "Chosunbiz",
+      "title": "﻿LG에너지솔루션, 북미 ESS 시장 공략 속도… 생산 거점 확보 이어 신규 수주 잇따라",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGNCRTBVRnRsNzZLQktJUlFfNHluYURHNXpZT25vUHZXVm1oQTBvWG9hQUFmbXlEM1NMYXRDbnM5cEJCX2xSeU1CSWoyOXprWUliR25PRi15ajd6dU9JREtybU16d1I0X1hscnBxWWY5b3JmSE04QS0wOV9nYnZyRmRXSG3SAZgBQVVfeXFMUHAtMWFJLVBrUzVBd29MdFRJOFNsOEJROTVDRjhrVjVXNXRPQmJHYXZNSmpBRUhOeDJCaFBVOVFpMHVwVHFZN2MySlNPOG4xM0hPdFVkNU8yV19TRlF0WlU1SE9oTkVMZzRzNGpTQ3hmQXdsQ05Ja0dxT0pVZW8wWXBMa0MzY3JsWGhYUllER3V3UXdWWWZHS1Y?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A098",
+      "published": "2026-10-27",
+      "source": "머니투데이",
+      "title": "LG엔솔, 에너직스와 손잡고 유럽 ESS 공략..4.5GWh 협력 검토",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hMTdYV2l5X01RaWgyNXdSbW12R0Z3YlgtTS0yQU40VUlVemVfOHVZVVRFYkZvMVVac0x6cmlLSjdEekRNTTdsTlNpU09Xaks1YjJXZ2J0cy13NGNtMWtGMTgyVkxpREo1NFczR9IBckFVX3lxTE9FdE9sYXB1eTJqX0p3eGRtVWRmNUhURkQwUDdhamotRHkxaW8xUWpUMDhBWlZTZ0hnOVI2anpwUjJsT1hvLUlzbC0ybnkxTlNDa3V6VDNNWFdZNEJWWlVGNnhtSXhWMFF1U3lIdEZKNUdHZw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A099",
+      "published": "2026-10-27",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 에너직스와 북미·유럽 ESS 공략…최대 4.5GWh 공급 검토",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSE5Odm1rNUZBZEFXVWk3R1cwbW5GMTRDWDZMLWg4RWM2UGRMX3FKM1FGRnlqMzRZcmVNTXA5ZDVsRzM3RXBoS1g1MWV4dkRUT3JodDlR?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A100",
+      "published": "2026-10-27",
+      "source": "조선일보",
+      "title": "LG엔솔, 북미 이어 유럽 ESS 시장 공략…1.5GWh 공급 추진 MOU",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZi1IZklNczNsRVJORUNYMDBzSU5XNVFWTFZuUm5KOG1Ic1FReHY4ZnZHbi0zOG9KRjdfQVVqdExuNWprWkl3LUZ0VkhsTDk1MEFoMXpMaFZ0a1ZWMXR0Z3h2QnBlOC1NZTgyRGhMcGp0ZEdnSXhTdGZEOUNsdGQyeFhfcHU5VjRJOTZVOF9uOA?oc=5",
+      "source_url": "https://www.chosun.com"
+    },
+    {
+      "id": "A101",
+      "published": "2026-10-27",
+      "source": "더구루",
+      "title": "[단독] LG엔솔·에너직스, 4.5GWh 규모 BESS 공급 MOU...美·유럽 공략 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nZDFoV0VnOTg2QXNQU2RrMHNPVXRGT3ZvNjl5Q2lXeVlTX1RJNm5BakQ4RkRfSk5McVoyOXNVLThJYmkxQkxMdDE5NWliTEhmZzZ1SnBSdm5MVEN5Vlc1WklFbw?oc=5",
+      "source_url": "https://www.theguru.co.kr"
+    },
+    {
+      "id": "A102",
+      "published": "2026-10-27",
+      "source": "매일경제",
+      "title": "“AI발 전력난 잡아라”… LG엔솔, 유럽·북미 ESS 진격",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMkJYSWpnM2ZSWXk5MzBDcW1QcmRiNVhUNlRWRDhVY3dTZVpzaGI5clR0cXFqVjlUaWdYNENlQTdNV3F3Rl9iMTFMcHFGeDF3QUJoLW1B?oc=5",
+      "source_url": "https://www.mk.co.kr"
+    },
+    {
+      "id": "A103",
+      "published": "2026-10-27",
+      "source": "뉴스1",
+      "title": "LG엔솔, 재생에너지社 에너직스와 맞손…유럽·북미 ESS 사업 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1neVQ3a2pBcmxGdGxiOXozT0pCakFUWk15cEZNbGZjeG5YYnpzazZ4Wk5LbnI3RV9FT2dSdmJJM214bnZ0aU1aQ0F0UmRRRmNVMEV2S2liYlZlSi1FeTdPS1JWNjY?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A104",
+      "published": "2026-10-27",
+      "source": "Chosunbiz",
+      "title": "LG에너지솔루션, 에너직스와 유럽·북미 ESS 공급 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUV94QkM2am81aTVicnJ0ekQ0T0RIYm9aeGpfQkl6WHNtRm5SbnJnb2RLbGhTajFwLUZuV04wLWtLMlBvaUtadGd0ODFaLXJRbGV3bWJjMmJlTFhtRHRSS09udnJVdk1xLXdFZl9LcXl6RFRGT0I0NnJvLXU2WXl2cjZyak_SAZgBQVVfeXFMTnJ2d2ZhSi1kNUt1RVlLMGcxS2pVQ2NPcHdWYjVGZUlvY0NRM09LOHZMd3gtRTR3THgtY2NQRnNNaUV2b1FQWWsxOU5ZS05xMVotVjNKYzFrLWVfZUwtd0hHLUdBdzc5QWl5dE5KVUN3am0tcnM3ZF92dUpUY29TVWN6T0hBOEZSR0g0emM2dnA3RVVPZ0g2c20?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A105",
+      "published": "2026-10-27",
+      "source": "중소기업신문",
+      "title": "LG엔솔, 글로벌기업 에너직스와 맞손 유럽·북미 ESS 사업 확대 기반 마련",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Fb2ItUG45OXNha0h4WXk4YnQzWUxqNVJVSkJMSjRvcTdzY3dSWUJ0X0dCMElRWlBvNzluc0poSFpfR0c5LWJBZzYzNGh3LTVaTjVfclAzc0JSLVRhaHNqVVhJMkE0ckVEX01rZjd3?oc=5",
+      "source_url": "https://www.smedaily.co.kr"
+    },
+    {
+      "id": "A106",
+      "published": "2026-10-27",
+      "source": "동아일보",
+      "title": "LG에너지솔루션, 에너직스와 ESS 공급 협력…유럽·북미에 2GWh 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWFVJVGY2XzM2MGNVa3hhSDh0eFpfVlJiN3YxWTdTQUJBXzM4SFNaQzI5RTZla0JSRG1KTF9GeTZySnV5UTRHb3hRQ2dQbUZmWUFvS08yUzdfdG5FdnRyRmNhMWJLVFd4eUw5MlVYWXFTODZlcEHSAWZBVV95cUxPM0V4bGhXM3FfRTNRclJQNFpOUjdqQkVaN2wwN25YSU9qQ3FRSXdCWnJUbDE0M09jelRvR3hKX0xlUXBQVDl4TmNrbzFYNnZDTWFVaUhoSlZvNXRCcjEta1B5ZEwtMEE?oc=5",
+      "source_url": "https://www.donga.com"
+    },
+    {
+      "id": "A107",
+      "published": "2026-10-27",
+      "source": "뉴스핌",
+      "title": "LG에너지솔루션, 에너직스와 ESS 공급 협력…유럽·북미 시장 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sRlNtcF9zTGs0bjVzYVZDM3JEbVdNWFpFeW5JZDJlTVlBZFpQU2V1aTA2djVDMVlmZW1fZUpjWUhQT2dEd3NIYUN6cnhvZHZLNzAycUhvTkItTEdJ?oc=5",
+      "source_url": "https://www.newspim.com"
+    },
+    {
+      "id": "A108",
+      "published": "2026-10-27",
+      "source": "디일렉",
+      "title": "LG엔솔, 에너직스와 유럽·북미 ESS 공급 협력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11SVJBM2o4S3RoSXJ6WnNVbTUyMFBQQjlHazJCczJuTFBYZGxXV3RaX0dRWnZZOF9XTkU1Um5wV1VxTE1PQ00zSmxWNEZJYlhYT19vVlBNaWkxMmd5NWNVVzFrYU1VUQ?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A109",
+      "published": "2026-10-27",
+      "source": "이코노미트리뷴",
+      "title": "LG에너지솔루션, 에너직스와 ESS 공급 협력…최대 1.8조원 규모 계약 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GMVJyTUd3ZmJ4V1dqTktJdEZkREVsSy01b0NhZWRKNy0wX0xhaFFyamhMT1BnV1hnaXdaTlNWMVNTMW1HY2Uzb2I3MGJ3d0VocnhrOUg4ZlJkZExxb2xha3ZEdG5HZGlyTWF2eVNNSi1kaWcxR0M4?oc=5",
+      "source_url": "https://www.economytribune.co.kr"
+    },
+    {
+      "id": "A110",
+      "published": "2026-10-27",
+      "source": "디지털투데이",
+      "title": "LG엔솔, 유럽향 ESS 대형 협력... 최대 4.5GWh 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44ZU1wYWQ2ajBubUx4dFdzY1Q3ODRrNGlyQlMxQ0xJQUFCZEk1Y1UyVU1rZ1NsZU04RldUakVsY0tBR0xhcjdnbEJzamFCY0hxb1hKWWpjV0xsaTRXTmFoSmVvUjU4by1oNGFGOGNpVXItSDg?oc=5",
+      "source_url": "https://www.digitaltoday.co.kr"
+    },
+    {
+      "id": "A111",
+      "published": "2026-10-27",
+      "source": "Daum",
+      "title": "LG에너지솔루션, 이스라엘 에너직스 손잡고 유럽·북미 ESS 공략",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VUTByT2hvUEk0VUJ5OVV2QVl2YXd0dXdVamdjUzdzS2dTbVhaYTluS1lzeEtEM2Q4SzlCQmpKZzd0eWZaYXpSb2hBUQ?oc=5",
+      "source_url": "https://v.daum.net"
+    },
+    {
+      "id": "A112",
+      "published": "2026-10-27",
+      "source": "글로벌이코노믹",
+      "title": "LG에너지솔루션, 에너직스와 북미·유럽서 ESS 공급 협력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWxGZEdjbWMzYnp5UUNqbmY4NHVuLTRQaEZINjhuN1ZPV1FRYnZRbjRkYkVxU1BReU93NmFFVUotQlJhYzRRcTdBUFo0OVMzZV85dlhJazU2YklIV1p5dUowYy1HaFBZZ1JqSGE5VGFtTmQ1YlFxQ1cxN21PQTA2M0ZkWDZ2dw?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A113",
+      "published": "2026-10-27",
+      "source": "연합뉴스",
+      "title": "LG엔솔, 글로벌 기업 에너직스와 유럽·북미서 ESS 공급 협력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaQVNVZkNKNF9iUDR6dElHT0tHdHhsMkJPaHdWQmRzQzRGblJ1VXBjYm9jQzlYNGU5aExpTm9HWDdDaktqYWVhelBRQm9JRzlIX1AwNEpDMnNibkXSAWBBVV95cUxNVHVlanBTd3BwT3RvNmZnY1JaZjNLTE1sT0JGcnZFU1RMYjBxa2k4LVMydDRYRlIwd0RGLWVFU3VOUkdTNFlmNlc3ZUt3YVNIRWMxOU9aaWNCTmx6ZFVuQWg?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A114",
+      "published": "2026-10-27",
+      "source": "IT조선",
+      "title": "LG엔솔, 에너직스와 ESS 협력…2GWh 공급 목표",
+      "dup_count": 2,
+      "also_in": [
+        "신아일보"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yU0MwT0ltdENrNWhIc3c2MldKNXVXd204cXo0cDhrS3hIXy1jbTgtYkJXYlJhQjR5RGJwTzhUaHNYTk1BMVhoVEtjSE1HTFdGUGxHd19hZFZudjQ0QnptQXBlT2I1ekFtNnFHN3dYZUvSAXRBVV95cUxNd1FlQUNyeHA1TDZ4S2lGa2p2SU91VHZ1VklvRmE2UWNPZGxiUF9ENHhuTnhUakZBcDdpVGF4ZHNETUFET2prZGZBbk11MkRneG9TSDN1SWVyUndqVGZEYlo2bEI1X0hMdXczWVlnR2pDMGgzSg?oc=5",
+      "source_url": "https://it.chosun.com"
+    },
+    {
+      "id": "A115",
+      "published": "2026-10-27",
+      "source": "중소기업투데이",
+      "title": "LG엔솔, 에너직스와 ESS 동맹…유럽·북미 시장 공략",
+      "dup_count": 2,
+      "also_in": [
+        "www.ebn.co.kr"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PWmloQXpPVUZMZlpQQTE5UW5DYXY4RVNWMGZ2YWlnblc0MFp4NFZDWllVeWE1YVZUWjR1NDYxWWRRSm94YmNBMVV5X3gwMWRuNW9qR0VUdEc0VzlzMXQxZE01Z2RQb3FT0gFsQVVfeXFMT2h5VWxncEJId21icjVkOW9jS0xLVUw4Si1TSHN4RjlIU0dzU1JaQU5TbVJmVlpERm41UkRYaWhQSjUxRmNQbTU1RDR0V1FJbjFSZkd4Qi10MUZSNEphMmVkbnFRVVUweDhjOWlW?oc=5",
+      "source_url": "http://www.sbiztoday.kr"
+    },
+    {
+      "id": "A116",
+      "published": "2026-10-27",
+      "source": "더팩트",
+      "title": "LG엔솔, 북미·유럽 거점 ESS 사업 추가 수주…영토 확장 가속도",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51WERDMC1EU0txS3I0MmFmbE5MOHV2RkVvWlVUMU9yX3J3cEhuS0VrMnV4UDlWRUNHQzBFVEZ0SGVCZjJ0YzRoMG9fdVNjQm9wZk5SdFlUVDBIZ9IBVEFVX3lxTE1QeUc3RFZsODFvU2JDSDRTSnFPU2l3UkR4cDhyZzJSWVZDa24zRmd4V2RZNzB1VU1xZnNVZEJraV9JTWhITmFPSmhuaU9HaGZDdDVKQw?oc=5",
+      "source_url": "https://news.tf.co.kr"
+    },
+    {
+      "id": "A117",
+      "published": "2026-10-27",
+      "source": "뉴스웍스",
+      "title": "LG엔솔, 에너직스 손잡고 유럽∙북미 ESS 시장 공략…2GWh 공급 협력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vblIydlNDMXlULVZBOFNpclF0WV9aMDFuV1ViZzNONXVPNFRJNWpYVGNSVWllRWJfblQ2ZGEzOWZmMlZVcks3RGstdmNCeU5sTFRrcWlUcW5JZjBEcmlLYWpJZldWamNUSFQ5RTRWVdIBc0FVX3lxTE5uUVJFYW94bU1FSTBJaHFTZHdQdDZTd21oM1F5eV9zU0NGTVVlYzlBeGhoY0YyV0Y3RXZnYUpwd2VHcUhtYVBvbnlaYUpCUkhIWDNtZ1NDcnJpNHdZaVVRLXhvUzVfRzZEQl9QemhhWk9pR0k?oc=5",
+      "source_url": "https://www.newsworks.co.kr"
+    },
+    {
+      "id": "A118",
+      "published": "2026-10-27",
+      "source": "서울경제TV",
+      "title": "LG엔솔, 글로벌 재생에너지 기업 에너직스와 맞손",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JdldsekFLNnpFTl9veUhGTjNMeHowLWdSbll5WG4yMXdPZ1VYek9rZzdnNDZldG9jUVZiTGpjVFhpd0VKa2M4NmVLLVRub3FMWjYwTnZGQ2JLSno1V2c1eHk3bkE?oc=5",
+      "source_url": "https://www.sentv.co.kr"
+    },
+    {
+      "id": "A119",
+      "published": "2026-10-27",
+      "source": "마켓인",
+      "title": "LG엔솔, 에너직스와 ESS 2GWh 공급 추진…최대 4.5GWh 검토",
+      "dup_count": 2,
+      "also_in": [
+        "이데일리"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wdF9tX3UwdFlEaXlxaHpXZUVtbmVic3h4dmUweTdVcVZ5dmVlVGRlbW9pcXJMWG1SUWFxWXk3cENSOTBkUlFVZzNOMkJ2MXZ2WkloVVQ4YXhDa014a05YUDVScHliOUVJbW0wSWVVN1dkcFE?oc=5",
+      "source_url": "https://marketin.edaily.co.kr"
+    },
+    {
+      "id": "A120",
+      "published": "2026-10-27",
+      "source": "스마트비즈",
+      "title": "LG엔솔, 에너직스와 유럽·북미 ESS 2GWh 공급 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JNzZUSDB1bTNKNm1GWWJrYVFBRW1ub0w3b2JCWDUyUGZIR3RCMjRRSXFVYnU5QWlRNVNObUpzMUJzVlpzWmRvQVRaMzdhc1kwMF9CWWZ5TGpDY2pNV2VqM01RbGxwLTdDenhhbA?oc=5",
+      "source_url": "https://www.smartbizn.com"
+    },
+    {
+      "id": "A121",
+      "published": "2026-10-27",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔·에너직스, 유럽·미국 ESS 공급 협력 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3BDaDRKNm9Hc29jOXNlcXBTUTVjdmd2Ymd5WFZxRDJ1NG01TnM4Qzhhb0ktMVJGd0tWYXJkVzZFeGdRcmNtdFZuWmJxWU94TVJyT0UwNktiTWJ2R0tmOUlaT2RiVm05V3RNNTEyX0VHZ2t2VE1jWEdSVENQVTQ4bW91Sk9VRk1x?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A122",
+      "published": "2026-10-27",
+      "source": "블로터",
+      "title": "[뉴 제네시스] ‘LG엔솔 셀’ 쓴 GV80 하이브리드…공급망 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83TE1jclhhdWZGbi1XZ3ZYSDlyUUgwZFVNaU9MYUtXOC1Xc3ZycjFxZ0ZzTnNCbDlGcjFvaHZ3R0NpRERHd0N4YXFqcFRKQzNKSmtsOXN3TVdEYmFRcFY1Rk9LaEJJcTFP0gFsQVVfeXFMUHVPLXEwY2t4M21KWVF6bU82N3lKY3NMQnI0RU11UGFtVjFxaHlXdXhnbV9HZ2EtOWVOVk54Wk8xdDFsa2NUaDV2UlBxRFZNM3lUcERzbF9TczBuZm1pam9vY1lhM1l5aVo5Smlt?oc=5",
+      "source_url": "https://www.bloter.net"
+    },
+    {
+      "id": "A123",
+      "published": "2026-10-26",
+      "source": "머니투데이",
+      "title": "[오늘 이 종목] 소형전지 회복 삼성SDI·흑자 기조 LG엔솔 '주목'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vODI0WkhJUjVUQjI2eTYtbnVVRmtERGZnYzdZRW5xWjNOOV9fQTNwOTJSNzZCZ0JOTy1Od3Z0MXB6OEwya3JzRTB5ZWltZ3I1TEY3ck1YYmNMUUVoeTRRdHdoTXZnWE1r0gFuQVVfeXFMUHNmZGRheHRDQmpmNUxuemNjYzVHdmd6cnBrSkYwbWdxaEpYcHpNdEc2Tm92Vk94b2NuTXFvdzhJT25IZGw4eUkwUkdES1BEaE1TOW1QVFdHT1p3NDZRcS1rZWwtWE1DSWdMQUZXSUE?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A124",
+      "published": "2026-10-26",
+      "source": "PRESS9",
+      "title": "LG엔솔·삼성SDI·SK온, 전기차 배터리 둔화에 ESS 수주 경쟁 본격화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJaGU4NWlDWFZiV3lmMUxrTl9Ua1Q4bFJ5WHhteUE3MEtMYWt3NDZmWE8wRmFjODQ4YWhfM0hkZEJpVVVUa3NCR3pJbS1FQlVfWUJ6TnJKX3hWb0JQSlUwd0dYUE5mdw?oc=5",
+      "source_url": "https://www.press9.kr"
+    },
+    {
+      "id": "A125",
+      "published": "2026-10-25",
+      "source": "글로벌이코노믹",
+      "title": "EU 청정기술 12개 사업 지원…LG에너지솔루션 포함",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQURWVWdfanF0SmVNX3ZrbS02STFzTmQ1OXl1RUs4MjkzYmlreXROUXozYWVqV0RBWXBaNG1KOW1qaWxzalUxd0Z3WU9RMmZBX2gtSXBtTjctY05PTjdCc09EcW9XelpCc05sdlViUXRKQkQ3X2RjVURBdU5saGYwZHU3UXJGdDlu?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A126",
+      "published": "2026-10-25",
+      "source": "한국신용신문",
+      "title": "LG엔솔 캐나다 자회사, 온타리오 보조금 3180억원 수령…혼다 등 10배",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YMmY5RUdwM0llX1JuWHlKRU53WF9sSXR6bE8wQjRPelJKMnNIamRyWjdGNFZ5bjVDYXVBdGtOd3oxY0lGVjd5Rm9DaExuYjRMeV9WM2lHVW1WbUVoZmtzUTdnMDh5a3BhZmpB?oc=5",
+      "source_url": "https://www.creditnews.kr"
+    },
+    {
+      "id": "A127",
+      "published": "2026-10-24",
+      "source": "CNews",
+      "title": "2027년 시총 3위는...LG엔솔, 삼성전기, 삼성바이오, 현대차 ?",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVkZOamFHeDNvWlllUmdsdnYtY1BvbWZ4bFVLSVREd1E5ZkdFZzhnVHA0S0ZmdF9tMFEwWExJU0hadnpLc1VYS05IN205UG51VzNHWkRZWlR5VVhSZi1WM0E2b3ZEM0NTcldmZUszbVBxaWxDWklZ?oc=5",
+      "source_url": "https://www.thecommoditiesnews.com"
+    },
+    {
+      "id": "A128",
+      "published": "2026-10-23",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 中 난징 9공장 본격 가동…테슬라향 원통형 2170 증산 속도",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYTRNRFl1S0pCVEtBRVp6MnRPWkNaSzBUNGozRnh4b2lkT3NQb1Fsc1lxTUtGdFBUcjJRUkFDdEpHekU5aFdzcHZacFVZbGNzRDBnTm9B?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A129",
+      "published": "2026-10-23",
+      "source": "디지털데일리",
+      "title": "LG에너지솔루션, 북미 공급망 강화 구축…`에너지 플랫폼 기업` 도약 속도",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zWll0Z3BJWDN1TC1xWWs0LTlUaTFsOEZUS3RIV0VFSjZyYWhielZJbkVRbjdqNXJrVDdiYllvQkplS0xfUEJEQ3hxWVNtdjZPbHk4UzdyZzFSaXhGMVBXRnRB?oc=5",
+      "source_url": "https://m.ddaily.co.kr"
+    },
+    {
+      "id": "A130",
+      "published": "2026-10-23",
+      "source": "Investing.com 한국어",
+      "title": "LG엔솔 폴란드 공장, EU 혁신기금 지원 대상 선정…9GWh 규모 LFP 배터리 라인 구축 By The Guru",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KSnVtUUdNSWhnUEJOUTZSY2FYVmdWRDFhcmVkb21lV3kxcWhNZzdtcDliS1pQanloUVRXR055X1Bsb0hpYzVVb1lLODBxR21OWVQzMDhYUExPa2ZINFItZno2MHhxT21IMnpaQnQ2UXE?oc=5",
+      "source_url": "https://kr.investing.com"
+    },
+    {
+      "id": "A131",
+      "published": "2026-10-23",
+      "source": "뉴데일리",
+      "title": "3분기 실적 전망 온도차 … LG엔솔·삼성SDI '맑음'·소재사 '먹구름'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sdm1kZm1oUHc2WEhZaFRsSWhhbWg1aEpXSWx3UG1OQVdndGN3bnFHNm45bklUVzF2ZmJDdEFvMXV4RTRnaTk3YVlYRXFIS0thbjRwTERib2FsWWpuLXNCNW5USktwSXY4R1c0YkdETm5KNE93NUVRSjFuY9IBgAFBVV95cUxPT0RTSHpaN0xjTFYxdHp0NkxuQnhPU0VXcFFlS3p4Y1hhaC0wVTdhbzdWWDE0a3prVkREVmRrU3VuOWNIa2RqRExXTjladm5aZU5zNHEwWnZZalVnaWlrQnVnMVRhSkp3UHdCU3RJZXlQTWZXTWF2S084OXJNTUhGMA?oc=5",
+      "source_url": "https://biz.newdaily.co.kr"
+    },
+    {
+      "id": "A132",
+      "published": "2026-10-23",
+      "source": "아시아타임즈",
+      "title": "LG엔솔, 배터리 ‘생애주기’ 확장…재사용·재활용으로 가치 극대화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51N1VlUXlNZGlvc1ZLN0RZZWgwSDVxZlF2RTNaa0VXWUpiZW9uZmdHbVE2MDZ2NW0wZlhjYkEyTHQzUXBHbl91elpFdnZ0N0VRVDA0UHdtOWJWSmp4cHc?oc=5",
+      "source_url": "https://www.asiatime.co.kr"
+    },
+    {
+      "id": "A133",
+      "published": "2026-10-22",
+      "source": "이코노미톡뉴스",
+      "title": "LG엔솔 폴란드 공장, EV·ESS로 활로 찾지만…높은 생산비용은 숙제",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT3pOMU1wLXlMNVpDOG9oRFl6d19fYTloTDBKZHcya04zRFFfa2hHRXMwWktLQzR3dVdCcnppck95X1hZaGhrYzVFTWZpTlFqNDdkVWFOTmZZMHJ6VHlhUlRDSU1yZDQ0SER4Rg?oc=5",
+      "source_url": "http://www.economytalk.kr"
+    },
+    {
+      "id": "A134",
+      "published": "2026-10-22",
+      "source": "더구루",
+      "title": "LG엔솔 넥스트스타 에너지, 배터리 누적 생산량 1000만개 돌파",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldFZkVkRsRVVUTzB6UlpZNHY0dDJrOVlldjVLdGl4R2NfT2c2Rlk0RHRaMFZBMzE1bWJtRHU4NFVaOFQyb0lNZkxDbGd5LWhPd09HX2w4dHd4LS1VNHB0VGVzVQ?oc=5",
+      "source_url": "https://www.theguru.co.kr"
+    },
+    {
+      "id": "A135",
+      "published": "2026-10-22",
+      "source": "충청타임즈",
+      "title": "LG에너지솔루션, ‘희망을 전하는 행복동행’ 진행",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XdHZhTllDb3NiOHhCTV82TzRFZHhubFRmOWtoLUxOWWplaDVUdExENmdSMXhaVkRkMU5QaHZ0QTR1emVQMENzN1RSNVJ0TmNubmV0bWZBcnllWEFzUkVqTF9FQkpTd2t6?oc=5",
+      "source_url": "https://www.cctimes.kr"
+    },
+    {
+      "id": "A136",
+      "published": "2026-10-22",
+      "source": "부산일보",
+      "title": "[K배터리 3분기 실적 희비] LG엔솔·삼성SDI, 호실적인데 SK온은 다시 적자 예상",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VTlBvN1l3d3czS1hheWRLTDU2ZkU2R3g0V2hWbTZXQ1lnUWNZdjc4UVAyREVkSFJjUGh6VGduVW9MYTU3NGlvU013VDBIN24zYXdnanNwWVNhdnZWN1RlS3FxRExmdjI5UzZIeC1YS2h5MXNY?oc=5",
+      "source_url": "https://www.busan.com"
+    },
+    {
+      "id": "A137",
+      "published": "2026-10-22",
+      "source": "더트래커",
+      "title": "[단독]LG엔솔 加공장 '넥스트스타', 배터리셀 누적 생산 1000만개 돌파",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xYVlvdW1WYmZuUU9JOFlYbEZlNFkyNzVaUFZjbDk5dktKV3pLeUpTSzFDNVJ4d3EwODBzakl6M1JXT0JYNV9URzhYdmJBaGZlRldYV1U2QTM?oc=5",
+      "source_url": "https://thetracker.co.kr"
+    },
+    {
+      "id": "A138",
+      "published": "2026-10-22",
+      "source": "BBS불교방송",
+      "title": "LG에너지솔루션, 증평 벨포레서 특수학급 학생 체험활동…’희망을 전하는 행복동행'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pM1phUU1PNllTT0UyRWpmM2NZcTZTSFNKeXVMQWxPSTh2UTFUb0tYeW0yWVIyckRmYnVWRmpnRHR2cXlTRDJZWXk5Z1djU1ZhUkQ5T0pSWFhiV1VuQ1hyZUg2ZkxuOUhDWkJZ?oc=5",
+      "source_url": "https://news.bbsi.co.kr"
+    },
+    {
+      "id": "A139",
+      "published": "2026-10-22",
+      "source": "복지타임즈",
+      "title": "청주시장애인종합복지관-LG에너지솔루션, 고령 장애인 가을 나들이 지원",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUEpqWHRxQ3RxNFQ4aHRHZkZRWW1FYXRzZkk2U3lnZkx3dEliV1VrSWNrZ1M4LVlkcGZpanNPTVlfVWpfT3lXdlppOHN4WUowTFNBaldDekcxV3BhRjNEVjB2aWo1Vk95Q01Iaw?oc=5",
+      "source_url": "https://www.bokjitimes.com"
+    },
+    {
+      "id": "A140",
+      "published": "2026-10-22",
+      "source": "한국신용신문",
+      "title": "LG엔솔 캐나다 법인, 배터리 셀 1,000만개 생산 돌파",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kN0F6OUxLUjRhcUtkdlMxaW85ZzRweUxxQzVNQTlKeld5UWU1SXN2aGN4LTJOSUpteVdsS3I5NXZnb0ZIdjdjcnVwemR3dXdjUzVwOGM0dUdyRnVwSGRaYmFhbXdMMmVBU2J3?oc=5",
+      "source_url": "https://www.creditnews.kr"
+    },
+    {
+      "id": "A141",
+      "published": "2026-10-22",
+      "source": "백세시대",
+      "title": "LG엔솔·LG디스플레이 '늦장 공시' 논란…허술한 ‘내부통제’ 도마 위",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HNlBONjVvVEhhcERZdjFDeDlSWWhsMUxiVTFkMFQyNllERm5fNzhzX2ljbDhvVU52WTVvaF9DV3BmMlk5bFJFa3dzajA2T3RxYXJkTGlrMG4ycTJCYU1WLVJNVS1KTnNQWllN?oc=5",
+      "source_url": "https://www.100ssd.co.kr"
+    },
+    {
+      "id": "A142",
+      "published": "2026-10-20",
+      "source": "한국경제",
+      "title": "[단독] '아픈 손가락' LG엔솔 폴란드공장의 부활",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCblNWVVJHUE1fRFhWenh1QUcxMlU4cGF0MllxaFhiejYzS0VKTHg3cXNYTE42Vm1DaC02SUVMa05ONjV3aXpxSHRfQ2JrZlR5aWxPdEZHMXZYQQ?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A143",
+      "published": "2026-10-20",
+      "source": "연합인포맥스",
+      "title": "S&P \"韓 배터리 제조사, 보조금 없는 미래 직면…LG엔솔에 타격\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZWk5saGxmRG9JWDVLc05JelAzME5BNVIxalZOSzlWR2JicUpRVXRQLXp4aWNDdFVrQnd5dXpFTm5CUHkwYjE0dlFjNXZ3clhyNEMwbEEzdDM2N2tjZk4wdHg5UHo0cjV4T1hBLVdTblrSAXRBVV95cUxOYzMxRklKREV2TjgwMUo0VWNIUXJIVWRnQjBNampBQzZqQVRyY0J4ckMtbjZEWjNNVEZ5anBPQVc5b2JLOFZ4NWtRSy1sUV9abFNoTjNzTld4UG0tRnZzWHJ2X0o5N3A3MmRCNFdIQTVvdEhnMA?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A144",
+      "published": "2026-10-20",
+      "source": "비즈니스포스트",
+      "title": "한화솔루션 LG엔솔과 손잡고 미국 태양광발전 총력전, 'K에너지 동맹'으로 중국 공백 노린다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sS243cUh6a0JjY3lGZVR2RENJZVJxUEFfSldocndLUmF1azYwc0tsLVp0TnJLcjdHSjNJTUJlTUVCNXI3NWFBTWM1RUlpaldBWlM2dkZnSWFELTMyODh6cXdwc0ExX2Z4amlhT1BpOUVMV3M?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A145",
+      "published": "2026-10-20",
+      "source": "한국경제",
+      "title": "[단독] LG엔솔의 아픈 손가락 폴란드 공장 4분기 흑자 눈앞",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVS1jUHZUWWNLTjBLTEtXcUNCQ1hWam9jUFFjMm9INkZIbjYtUlpXeHhRRG1xWjVuUDlsWE1nLVk5MThDMU9Hb3RFcFJZU0g2ZWRmclRvZWpsUQ?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A146",
+      "published": "2026-10-19",
+      "source": "연합뉴스",
+      "title": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5May1ZSUxYaGRFdWFCVXZtWkpjQmJfdi1HXzVpUmtLTEM4cC1ab1BQM2ZNTkhXUXpVYUxQWmZReXlXWjh6VHJkU2lrdTNxRXUzUnhpaTBqaHZGcHfSAWBBVV95cUxOOUR3RFNLTkpjMGVGQkhzLWxIRW9BY1pMOE0yaWRWTDZJOGVKSGRYSjNZYTlZVFpYaUxuSnh6ZkU4LVR4MlRmQTBNOWcyd3dwTnVZc1U4WlNYOHdjWE1PcEE?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A147",
+      "published": "2026-10-19",
+      "source": "뉴스투데이",
+      "title": "[글로벌 배터리 대전 (38)] LG에너지솔루션, 중국의 ‘LFP 천하’ 앞에서 망치 대신 망간을 들다(上)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQlBqUHM2N1U2eHpkNnNTTWl1dnY1NktkWS1PX0o2Qk9CdEJNdkYwMnFiNFZfUEJKczgyR1FOQ24wSTVtRURSdTJfSHJ4RmNjcU9NeHVCUGlmUFZzd2c?oc=5",
+      "source_url": "https://www.news2day.co.kr"
+    },
+    {
+      "id": "A148",
+      "published": "2026-10-16",
+      "source": "법률신문",
+      "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56aFp0eENjRXBGTElPbWhPSnJmRHFYcUc5clVHZXQ0U195dDY0VzROMmcySEJIMXBJOHVDeWcwQzlxWG5PZWJyeE45Z3FmNWJNSm1lRU1FWUNrUzAtVVBpcEhVRmJWcHdTb3lFVURB0gFyQVVfeXFMUHpYdkx5Z2xHQnV3YWpqX3VfMDhjcjhMRVRaekJjVmpQVDJ1RTVTRW1jVkplR3RCdFNvYkZVTVJnajNwOUhUVGdpdU0wWF82WGczREJVRTJFdXhBMk1HanIyWFBxZzY2RnBhQ3RvTGRZRk5n?oc=5",
+      "source_url": "https://www.lawtimes.co.kr"
+    },
+    {
+      "id": "A149",
+      "published": "2026-10-15",
+      "source": "한국경제",
+      "title": "\"LG엔솔, ESS 호조에 내년 영업익 전망 56%↑…목표가↑\"-메리츠",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VNlZjTERObGk1ZTNSTUlmRUN1d1NYV3BKS0FIbGc3S0szVG11d3p1YVloMG5MbDBFZ19WeDcxdHFod0xTY0xDOEpWZU5aTTRZTEtXQWN4TmNEUQ?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A150",
+      "published": "2026-10-14",
+      "source": "한겨레",
+      "title": "경찰, LG엔솔 전 사장 압수수색…‘가족 연관 중국 업체에 100억 자문료’ 의혹",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5naUdwNHVGN0dJaGM2R3cyTnZRYllpNG1GakQxeV9WTWo5c2theWZDLVU2aW4tck0xdWhBUzlqSnRDYTBNbzVJQy1TY2c1T0RTeG1TWTRoLXotdFpKQjRrQmc0dWk2TllMMDFxSzZIRGpWQQ?oc=5",
+      "source_url": "https://www.hani.co.kr"
+    },
+    {
+      "id": "A151",
+      "published": "2026-10-14",
+      "source": "아시아투데이",
+      "title": "김동명號 LG엔솔, 연간 실적 반등 ‘고삐’…4분기 ‘ESS’에 달렸다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1seHRnM0J3N3hMWVB3a2Y3M3pneS04UDlVQlhFMWRBYzVzaWhSd1ZIa3ZGNnA4Vkp3TjhlX1JWOWN4Mk1aVXRtRWdjOWJYR0hZam5XZEI3amRFby1uZDRhWWE5cGVneTY1SVJkaEF3?oc=5",
+      "source_url": "https://www.asiatoday.co.kr"
+    },
+    {
+      "id": "A152",
+      "published": "2026-10-14",
+      "source": "KB Think",
+      "title": "경찰, LG엔솔 전 사장 '100억 배임 의혹' 수사…가족 연계 업체에 자문료",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jV1RGdm4xRFFuVTg5VFRvT21hcUswai1lRkRVVFZHR2puWFc2YTRxSjlYMU5kdWEzUG1OaGpiaG9XbU5WcjFMUnZkV1FwODJqQk1pVDVvOU9MMk5nUmYzZnBxcTRHcDdMZi12OW1Wd3A4UQ?oc=5",
+      "source_url": "https://kbthink.com"
+    },
+    {
+      "id": "A153",
+      "published": "2026-10-13",
+      "source": "머니투데이",
+      "title": "[단독]LG엔솔, 엘앤에프와 조단위 첫 LFP 양극재 계약 체결",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Z2hLNHZmeFRVS3huOFhyd1ZCSmh6LW5fb0x3amRKNm9kVW41eDJRR09WbFZFeGtUSXRoenhTMC0tbE9xZ2gxYUkybTg2ancyMkVyZUpyTXQtckJjYTV2Q3ZRMlN5VjVFdXRsMdIBckFVX3lxTE1mUU1ZV2xUZkx2a0R4eFd6MExrcE5RNDhHU1FRaUdWM1VKcjlLYkpPbVJHc2J4RzdSRFVpVHFxR0x5TWdWakdDcndGeVVNZ1M0WE00dzRNLWxCZ0xXTzVodW92ZXhuNmYxallLSkhnZGxhdw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A154",
+      "published": "2026-10-13",
+      "source": "알파경제",
+      "title": "[심층] LG에너지솔루션, 3분기 '어닝 서프라이즈'...전력인프라 재평가",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSQzl3ck1kcHBPeHo0OEo3ZWV0RHF5Tl9QSGd0c3pWWDJjZnB5QXhuaGFjSElXTlEtNTFXTzNpaXdhTDAzYnFHQzE5OG9RZWEzTUNaeENnTFBtWmNKMzJBekFOWnBxcmJTZ3FTd093?oc=5",
+      "source_url": "https://www.alphabiz.co.kr"
+    },
+    {
+      "id": "A155",
+      "published": "2026-10-13",
+      "source": "금융신문",
+      "title": "‘프리미엄 선점’ 삼성SDI vs ‘수익성 확보’ LG엔솔…전고체 2색 승부수",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRmY4UGNBSjF0TXdGbnJLekZVSXdLanoxWXlYU29ha25DU2pDYVdvUzVadFRRMzNCdkRPMWZaZy1paVFZUFM3WFZGTXNSeklzVVgzMG05c0d3NzVQRU9ZZXdGUEsxN3E2U0xlWHVqZ2NBbHZlMzYxNmpOajI?oc=5",
+      "source_url": "https://www.fntimes.com"
+    },
+    {
+      "id": "A156",
+      "published": "2026-10-12",
+      "source": "한국경제",
+      "title": "\"LG엔솔, 일회성 이익 제외하고 봐도 수익성 회복돼\"-하나",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEMTlibEF2V2NCcWU2SHVST29rRkl0cG15bHJERWxPLWdXb01CeWt1NHVKYk4xMUZvdnlIOVhwZGw3ZGxQRDZYUFpCV3Q3VG5jMkNmU0VFeHBHdw?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A157",
+      "published": "2026-10-12",
+      "source": "전자신문",
+      "title": "ESS 올라탄 K배터리…LG엔솔·삼성SDI 3분기 실적 기대감↑",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YdU1PUVpGQ1FyZlJ4UzZ6bWVNeWROS3FyNGQ3ZzdXWmtVOWtUSWJtUXhTcWVDbE1hSmtqUHhNV0pvVTdyR1pkSUFOZkxyQQ?oc=5",
+      "source_url": "https://www.etnews.com"
+    },
+    {
+      "id": "A158",
+      "published": "2026-10-12",
+      "source": "대한경제",
+      "title": "[다시 뛰는 K-배터리]② LG엔솔, ‘다변화 전략’ 적중…3분기 영업익 567% ‘빅점프’",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Bckh0RWFVQjBqTWZYc0xEcmotOGZabkhoV0NJWlFuNFhSQTctZjA4YVdCRWVyMmMxOVBKSzB1NXRSSlAyRDJZVlNmSlU0TVV1YjZuQWdSVEsxWFhJZjJTN2ZhdTA3UmJLYV96bEI1bEc2R0k?oc=5",
+      "source_url": "https://m.dnews.co.kr"
+    },
+    {
+      "id": "A159",
+      "published": "2026-10-12",
+      "source": "한국경제",
+      "title": "'깜짝 실적' LG에너지솔루션, 2거래일 연속 강세",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YSng4MUowX2Q0MEJ5MmVmSE56bHJUX3VZTEtmTUdRajhyWlVsR1M0OVBfNVlHRDJtUW1DYWhjbmxYb3A4SWRyU3hTOXZ2UmRWN3l1S0dBMFlJZw?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A160",
+      "published": "2026-10-12",
+      "source": "서울경제",
+      "title": "역대급 깜짝 실적에…LG에너지솔루션 프리마켓서 2%대 상승[줍줍리포트]",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MktXcUVSUEd3R3JON0U4c19KVXE3RDhreTBHYlFVemNQZkpWdkQ3QmQtYk5GY1o0eXhSUF9FX2Z3VGdBU05ZNnF4UEUzVnZkSlHSAVNBVV95cUxPcDRMZFprUjZHSXJ3ZS1YMWZTVUs5YWhRbnBaZ0c5ZkpYSC1JbDR5UFlwS1ZQdXFUMnkwdnhodl9PUVNvM2k0X2VUU2JXdXRFVGltQQ?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A161",
+      "published": "2026-10-12",
+      "source": "주간동아",
+      "title": "“LG엔솔, ESS 매출 증대로 흑자 전환… ‘실적 서프라이즈’ 계속된다”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqZGhkcWRiLXZFOXRNc0pqR1ZkNlhub0tCS3kwNEJhM1lMVWNLdEl3eHRoNG1TRkdabkxkRThGaGU5WjFSUXhKZ2FuTDgzZFZNLU11LThVWkRDRTlsSnNxWk1mUEVtVjlr?oc=5",
+      "source_url": "https://weekly.donga.com"
+    },
+    {
+      "id": "A162",
+      "published": "2026-10-12",
+      "source": "비즈니스포스트",
+      "title": "LG엔솔 '병목 해소' 삼성SDI '미국 증산', 대형 배터리주 ESS 기대감 4분기도 이어진다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GYUt2RTM0Vmlqd2N1SHpIM2E3UkhGZzJrdlBQTlNjNFE1S3pXVXpTNzBpd21aeDBYb2Q4YkE2aDBQSXp4dDg0ZXFSVFVOTi1Lcl8zSmVZVWNtUTFtWW5QNUlORWJNUFgxQW45NS0xOTRRWVU?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A163",
+      "published": "2026-10-09",
+      "source": "동아일보",
+      "title": "LG엔솔, 3분기 매출 9.6조 역대 최대… 영업익 7560억",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tZllHZnN5Q3RBVXVxRUhYcjFqYmxGOUV0NDl0Rk9IektUNllBbzZMUkhtYkIwMWZ2N1pPbUk1VHpQdmszMHFsMGlaNkZwTndlOFNIQVRLa1JHMUppbUx2ci1zMzVwaHpHT2k4Q0k1aE9wSmVpNkHSAWZBVV95cUxNbVk1RmZxX2JiblM5dTZoVUJfZnRHMU52dmVCLUxnRHNNS25rWmpUVldFUHRUQWQ2dktxOTY3U1V6TWpadFlRYmQtbG5fNVp2b0h0X0h6RVMxN1IxWWwySlZzWTBfMFE?oc=5",
+      "source_url": "https://www.donga.com"
+    },
+    {
+      "id": "A164",
+      "published": "2026-10-08",
+      "source": "인더스트리뉴스",
+      "title": "LG에너지솔루션, 3분기 영업이익 7560억…분기 최대 매출 달성",
+      "dup_count": 2,
+      "also_in": [
+        "한국경제"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNUxuX0xpWVhXTF93b2xVSnRGRG1fN0F3dzdacXlDU2hqYVJRdjVtaWtZQnNRYm4zbGk0azJNNnBCMlBqcURrRHJHSHI4cDNBZ3FQRXQ0YVcyN2xxcFlMVDI3cG1KMlVIQUlBVDBObWVXUQ?oc=5",
+      "source_url": "https://www.industrynews.co.kr"
+    },
+    {
+      "id": "A165",
+      "published": "2026-10-08",
+      "source": "디일렉",
+      "title": "대진기계 부도에…LG엔솔, 시스템알앤디·하이비젼 중용",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mVl9EMTlwZndjemViWjJUY3JUd0Z6TzZkWWlVN1ViMnFudWpHTGdrSkdIdVIxa0M4N2RIVkFpWlY2TERYcGRySEhEUFA3d0k5ck9MTWg3QnoyTXlkOGVES0EzSnZDdw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A166",
+      "published": "2026-10-08",
+      "source": "비즈워치",
+      "title": "LG엔솔, '진짜 흑자전환' 비결은?",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QSHk2R0ZmTmQzQmt4WmNpOS1VQ0R6TjBPZ3FOb1pXSE1YM1IxcUtiWEllTlNKN09tOUNzelptTUdJZ01SeUg3SmYzOWFaWU5mUWhfVDY5cUZOaEhJMU9UYml4RFVWMzN5emF2eg?oc=5",
+      "source_url": "https://news.bizwatch.co.kr"
+    },
+    {
+      "id": "A167",
+      "published": "2026-10-08",
+      "source": "경향신문",
+      "title": "LG엔솔 ‘분기 최대 매출’ 9조6434억 달성",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YbkRuQXp1VG9xLXQ0R2hQUnc5RUppamhrb2tZZVZBc19zUnQyQVN5bFg5U0pLV3ZKTzZXbTEtaENwNWRWT19lV1dBTm8wblZ0U0laQ2oxbURTQdIBX0FVX3lxTE44Z3Zza293ZE9nVnNNSTdZUDJQdE8zZU12UXl1ejFDYjFBa2pSdXlLeTBfdGxRbWlQdVVXSlotZERtbUxzdldLdFk5QkczYl8zZWlySUd2aWVpbTh3Vnpz?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A168",
+      "published": "2026-10-08",
+      "source": "KB Think",
+      "title": "LG에너지솔루션, 캐나다産 리튬 원료 확보…\"북미 공급망 강화\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81Y19udGozRWtUR0NUYjE4OEJsVDVMUUVXbURyOTFUS19UT2RJUXlraFh5SFhJV2djYnBSam9sX3hjdlBHVmhSci1vZnFjNG8xQm16OVRueWhEZ3IzUko1WUdlaU1lNVltVE1wOGlHMEhCdw?oc=5",
+      "source_url": "https://kbthink.com"
+    },
+    {
+      "id": "A169",
+      "published": "2026-10-08",
+      "source": "한겨레",
+      "title": "LG엔솔, 3분기 보조금 빼고도 흑자…북미 배터리 공장 재가동",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5waFZMQTRrb3Jma0ROWGRjS0JYanlLWkN2SUhnclVZZ1J1SDdYc0FWU09VZWtDcUdoYk14enROSmdVbUdpWTJJWnhWdkRtLTU0Z0V6YWF6bGJXa0p6ZUlkNi1iQ2dQR1RkS2c?oc=5",
+      "source_url": "https://www.hani.co.kr"
+    },
+    {
+      "id": "A170",
+      "published": "2026-10-08",
+      "source": "연합뉴스TV",
+      "title": "LG엔솔 3분기 영업익 7,560억원 ’분기 최대’",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcWRnZHctVl9zZjBRbUVnTXlZMERDOEtlazYyWnRRX0lMUmNJZDJVMV9hYXdYYmpQRXR5dmhQd20xWFdnSmdveVhLSGtNR3dyeE8tRjl0NEhTZlltamR3VmN1LTN6RWc?oc=5",
+      "source_url": "https://www.yonhapnewstv.co.kr"
+    },
+    {
+      "id": "A171",
+      "published": "2026-10-08",
+      "source": "조선일보",
+      "title": "‘美 ESS 사업 호조’ LG엔솔, 3분기 매출 9.6조 역대 최대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzYxTWFwcnh4eGdCWTdrQm5KQW5NSVdrOVZiazVwMHkzYll0UlQwU0RId1R0MlFrUkxBclZNMXVUNnZXaUpLVkFub3hyMmpIdGlkcUppZnRsTkNCU1Y2bGhhbkRxdFFaQzVOeEhsZ0daYVJxazd6cWQ0cGZjVDdQVnRSY2xXclZDZlpUWlVqOA?oc=5",
+      "source_url": "https://www.chosun.com"
+    },
+    {
+      "id": "A172",
+      "published": "2026-10-08",
+      "source": "전자신문",
+      "title": "LG에너지솔루션, 3분기 매출 9.6조 '분기 최대'…ESS·EV 동반 성장",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zeVhPMWtBT1BkM3RmQ0lHSWwyTHNyTFI0WnNXc1JUdmhZakxaSE1oZ1RuZ2VzTEFTTU1qcV8yOHBnLWFRb2p4NWZ4RnpqUQ?oc=5",
+      "source_url": "https://www.etnews.com"
+    },
+    {
+      "id": "A173",
+      "published": "2026-10-08",
+      "source": "디일렉",
+      "title": "LG엔솔, 배터리 장비기업에 100억 보상한다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55RmFBblJNNmUxLU04eG9zd2otSmZ4SzA1R0I0a0luTVBpaU5Dd2NoOXBMUWZjUWxnUWhZZndzUmFCNUYyRkYwOWR5WjdKMnpIODRrUEJnZk9TNHNWcldxdzVtZTRUZw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A174",
+      "published": "2026-10-08",
+      "source": "디일렉",
+      "title": "LG엔솔, 3분기 보조금 빼도 흑자...영업익 7560억",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TU0xDcHc4M1NyaGtnTjdDTkZZd0VNUjR6NXR4OFhQWl9XVTFQbWdub0hEem5BLXdybGMzdEdyd29YTDJyNXRCeWFyX0JyUGhNYVR4cTRUWlZSMmVLTGg3aFFaZzZXUQ?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A175",
+      "published": "2026-10-08",
+      "source": "연합뉴스",
+      "title": "LG엔솔, 캐나다산 리튬 24t 공급받기로…\"북미 공급망 강화\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LU3NneVJiT0dpOEVKS1ZnQ1E1THZYRjBDZGtpOXIySjBPeldfOGZaMjRKZnBnMWp4MGFMNHQ0ckRBMk9NbXBIeGJJMXVMNE9EaGsweDRlLXVJTE0?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A176",
+      "published": "2026-10-08",
+      "source": "디일렉",
+      "title": "LG에너지솔루션, 4년간 리튬 정광 24만톤 확보",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SSWNGWmR0WDFzT0ZQcy1TZmFQQ0NITTlJWDVWeTN5bGZaR2VhSXoyUnRnNHY5ZHhIWmlBX1FMQ3ZfX2ducnhlWVlabXdlWXplak1odEQtbkk1MnNPN29kUWYyVmN1dw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A177",
+      "published": "2026-10-08",
+      "source": "연합인포맥스",
+      "title": "LG엔솔, 3분기 컨센 2배 웃돈 영업익…보상금·ESS가 이끈 '서프라이즈'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85bjFrS2NhWVJaSGpxdWVHX1pIN0JRa3lEWHFabUJlSlRSTFYyY1lOSjA2aWlhbUktdmc5RFd3VmVpTXBTeGR3MGM3WmlpRmJlaTFTQzBVVUw4S3BFLVBlZ014YVBROGNqSy10OFFXWXo?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A178",
+      "published": "2026-10-08",
+      "source": "한국경제",
+      "title": "캐즘 뚫고 ESS 특수…LG엔솔의 부활",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MSmRTVjJYMjVGSzlBNjZwXzNCajRHMUlyNHhiVDhMdkU2ZktOQ2o5dHZqbUFDSVo0Y3FGaUl3MWM4SFFqVWpWZjNCOGxzd0dVQWFpTFJ3aUdSZw?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A179",
+      "published": "2026-10-08",
+      "source": "연합뉴스",
+      "title": "'분기 최대 매출' LG엔솔, 2%대↑…이차전지주 동반 강세(종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RS1FPRGhJMkhJbXpiU1dlcTRzMHdjcU1SUjhDWUpYX1hSc1h5UG9vd2l5dEt1S2RJZUY3SU5feFR5Z0VtLU56ZHJ5LWZGRlRYbUF6N0R4NEw2SkXSAWBBVV95cUxPak8wY0tkOW1SUjdnNTdXalA3aW92cHl2RlowdFV1b1pkQV9ReXkta2ZNVFdoeEZtNWpPTVcwWUxWY3BfUGF3bFl4bElpdnp1LVM1aE9WN1FQWGMwbGo4S0s?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A180",
+      "published": "2026-10-08",
+      "source": "머니투데이",
+      "title": "\"이렇게 좋을 줄은\"…LG엔솔, 예상치 2배 '잭팟' 실적에 이차전지 들썩",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wd09ZTV8zLVJMN2wwMkZmUVU4ZUNKYUk3SWhqRXBXYWpOQjRjeHpiV1RNWl9teWZGTUNnV0J1X00wMVk5WVAwNmtqbWV1blRYdzdqbHNncndQbFdBZk4wbVo4aVpIX0xB0gFuQVVfeXFMTVA3a1lEdHNWRGtnNUxIbFEyWHAtdGM1SEJpZ2E2akdZMzBrRm1ka3B6UzlXNUs1QmQwNnlTMXdKbFJudk9FdDZ3c3JZLTZVMXN0SXVIdnRmWlpyMl9XaFlYMEUwN2pNaUI5SHRxT1E?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A181",
+      "published": "2026-10-08",
+      "source": "머니투데이",
+      "title": "LG엔솔, ESS 타고 분기 최대 매출..年 수주 목표 달성 '관전 포인트'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWXJoNVV3eFRxSl9kMGx1OWZWZG5BalRsNkZwYThXNmp5MUlIV3kzaFE0a1ZqWTU3cm1aZHhNOFd4ZnZHUUhxMjZEcGZvVmRGaV9QU0ZIb0pjOFBCbjh1dFg4U3YxbDhFb21DcdIBckFVX3lxTE9PVWpIQkE5VWItMnV1OXRqZkdSQllTYnEyQndDOHhnY2FBQ001QXBuMEptVjZ0LXVtNmM4aGhfT09vTDVGYmotd3B4X1l3NlJSTUg4d2V0R1NqQWRUWE1BU0hBRjgxNHNhcUxPX1F6SGFDZw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A182",
+      "published": "2026-10-08",
+      "source": "동아일보",
+      "title": "LG엔솔, 3분기 매출 9.6조 ‘역대 최대’…영업익도 25.7%↑",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NNDB3X1BHU2JkMFFGM3lSX1VtcExsalFPWnRtMXZ3a2NFREs0ZE1hY3NDWnBRX2VlMi1iUXRWTUxwYlYxNVlBSWJZaDFNWE9vcjdsVUFKeE00WU1UdUhYWmowbzVoOFR1WjgzQzlGZl9jR0x3YUHSAWZBVV95cUxQdWdKRUc5UVVXbmo5NmtWMENtX05TRTlQUHA0emNOcmtFMVdBbVFRUkZGOUVYSkk1UG9KNjZVc2ViT1U5c0VGOTdaSi1IWC1jVGJkNDRBMFFCT1lYeDJVMzlXODllakE?oc=5",
+      "source_url": "https://www.donga.com"
+    },
+    {
+      "id": "A183",
+      "published": "2026-10-08",
+      "source": "지디넷코리아",
+      "title": "보조금 빼도 흑자 낸 LG엔솔…다음 과제는 ESS 수익성",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0QTRBWHNCVlpMemlQekViaFN0dTZSWHc4SWY0bVFlTV9OekdLSk5OeGd0LVQtazVKakZCVGFVdWtaT2ExZDY2NEo1ejNwd0hZd0Jna1d3?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A184",
+      "published": "2026-10-08",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 3분기 매출 9.6조 '분기 최대 실적'…영업익 7560억원 (종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXBFdVVtS05XaWZMdlVXMTBmVXVFUzJ4eUNZcHloLTl3N2R6cEdBeEpvVzdKSzVVaU14UzY3d2xGVjZyYXg3TkIwczVmWHIwUzBYdEd6X0JTUlhta0x0aUFONXN3UDdUTWdTT1h6V2V2MmdleVhweFNRMzQ1UENZaWIxNGI?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A185",
+      "published": "2026-10-08",
+      "source": "연합뉴스",
+      "title": "LG엔솔, 3분기 영업익 7천560억원…분기 최대 매출 달성(종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcDNlWHN4ZXVvbEpFZjBpMlVMSDF2aG0zVTIwWFMxc0FtUmdJMUtRUHBTRjNET2h4RUpybWRWUnl6bnRyaVQzSndJU2xYdnhOeW54Y0ZaODNKOTDSAWBBVV95cUxQcU5mSlVKRERZX3lLYzBXazFBZ3pUNENDX3JXb0xXbk5TZEV0T2lzeWNKNi10WGtlbDVzYzJnX0dBSDdUMHlsdXUtSDR0X211YWI2MDZINWFqU0RLT1VzYVY?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A186",
+      "published": "2026-10-08",
+      "source": "연합인포맥스",
+      "title": "LG엔솔, 3Q 영업익 7천560억…美보조금 덕에 예상치 두배 훌쩍(종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zdGdseVQ3cXF3U0syYmhwNlIxel9oOWpVejd1Sk5sYW5FbHR6UUVCQW1CSng0X0pjZEtKRDJWeVJNVzhvTk5MRjhoLVRtejdpSVNqVk9qNDlNek9PMEZGbVBzQS1ESl94Y2U5NXhrV04?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A187",
+      "published": "2026-10-08",
+      "source": "전기신문",
+      "title": "LG에너지솔루션, ESS 생산능력 확대 힘입어 3분기 영업이익 567% 증가",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNkE4NUwzNkVQTHpHUlVscjB0NnpBM2s0azhNMEdBczV1NXptUGVMZG5SblNzdVFORWdkX1ZxTk8wTV8tdkc1R3FESE9DQWwzNXY5azF0NFk2QWg3dFRxaE5IYzZfd0tSNVdkcdIBcEFVX3lxTE1MbnZoUC01SGpmM2hidzVIZEhpbTVFZ2VqeHJ0M09CODd4ZXBxUjRkUjJtakhsODk3WmYtMGtfckgwejM3enRoLXNRQjFSbzJPaHJkdGdVMkRzQ0NRSzZGVFQ1T1U4VlNfY21UNG5yaTg?oc=5",
+      "source_url": "https://www.electimes.com"
+    },
+    {
+      "id": "A188",
+      "published": "2026-10-08",
+      "source": "서울신문",
+      "title": "ESS 힘입은 LG엔솔, 분기 최대 매출…소재 공급망도 강화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nWE5BSXVBQ3VEejZyNVV2ZnhCejQzQzZHT0pIZmtxeW9yUC10MWdjNVdMNUtIdXlmM0dIOWZMbTBVUFpqQlU2T3ZpSEt6Ykg0dlhmT2dlWnVmU18yOU9UVHpxakRJNUFldGNhYkFvbGJxZmZhc19DWkIzbw?oc=5",
+      "source_url": "https://www.seoul.co.kr"
+    },
+    {
+      "id": "A189",
+      "published": "2026-10-08",
+      "source": "연합인포맥스",
+      "title": "LG엔솔, 3분기 영업익 4천억 육박 전망…ESS·AMPC가 환율 부담 상쇄",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2VDV5Mzc3YjBnRFg5eHM0OVhjejFNMlM1YkpQVjQzMWs1aFpqT2xXT2lHeGZPSmJaMkpBNHhYOFYxQXJMX0ZFVHpUNWd3cG1Ea0I0T0hDNTlCZmNGZ1k2TkU3QUtMUERzOGw1X0VmV2M?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A190",
+      "published": "2026-10-08",
+      "source": "서울경제",
+      "title": "전기차·ESS가 쌍끌이…LG엔솔, 3분기 실적 신기록",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NLXB1U19LMll4QzVEYXVNWFVvZXhEREoxOWFqQllNUDl1b1VBRGpzOWJYUTJOa3pDd1FqYWpMLXRqWE9SN3llNEc2OTdydnZyTVHSAVNBVV95cUxOZFpCZjNTbFVBSEtlUFhkaHFVcWRqQmxzdFpjZ0ZsSUl5MTBIanl6WHRtTlJ2U3plLWQ0WmU3NHRET2RfU2RzZ1FUZEFYTDVZMEYybw?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A191",
+      "published": "2026-10-08",
+      "source": "서울경제",
+      "title": "LG엔솔, 캐나다産 리튬 정광 24만 톤 확보…북미 공급망 강화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91UExKdks4UGVNYmF3bThwajJLMGJzX0cycXFtNmFJM3gtaE1abzNOOGtfZnlWSlFlNFZjRGNZSkhLRHZxcjRWcFUyMnpoVUYtUkHSAVNBVV95cUxQQ1RWcVlCVmFrUGNWU19WalFuYW0xMUZDeDd6MTk3SzY1Ty0wQ0VkQl9CVi1DR2l1enM5eE1qbDVpZUlNREs1S0paR2JLTEtNLXZZQQ?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A192",
+      "published": "2026-10-08",
+      "source": "머니투데이",
+      "title": "LG에너지솔루션, 3분기 호실적에 장 초반 4%대 상승",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FLUh2dGN2RVBGbVNaZzVTZHdmckNvTFAyV0Nkek4xOG9VQmFtVmN0NFdPMjA0RXlMYkRqTW1XLW45dTdOMmZtbXhMM0laTWg4RWgzMGpDeEE4WE96WS1kYVc1WjJSRXE30gFuQVVfeXFMTUtGWElRcWdqbWhkRFFueGRNOGxhZFZkSVFxNldhaGZodktEQmZuaXJpTXk4THJfNGM1NTZYUkR1MnhxTVlDaHdRZFJUSkdVNE1vNS1SeGxpSEdyWkJjQUVrSDBXbTNwVHFzS2FDdXc?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A193",
+      "published": "2026-10-08",
+      "source": "서울경제",
+      "title": "美 ESS 본궤도 오른 LG엔솔, 3분기 분기 최대 매출 달성",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CQUV0UnpWOTNHWC15MG5tYjBMUjVkYUREZUhGMWd3dnd3S2paRTJZRml3aXJQTVdPN2NyX1R0RXpwbDhNNEF5blBaV21jWUl3cnfSAVNBVV95cUxNVzJjdl9VeEhPUlFrR28tMi02R1pYMzg3UndiSUxwbzhXSnoxTWRURkxESS1wMkxaNzJCZHZaYko0c3F1Z29DVUt5ZjJyb0xtZ01jWQ?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A194",
+      "published": "2026-10-08",
+      "source": "문화일보",
+      "title": "AI發 ‘美 ESS 특수’ 올라탄 K배터리… LG엔솔, 3분기 매출 9.6조 ‘사상최대’",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKWURWcy05VFVTekx0bVFzSDZXZzk2QjRzc3hnaHNCMEdiYmY1SE4yUWhLNW8yT1NieU0xM2Fkb2hnejB1Vlc5VTYzRmVaemFv?oc=5",
+      "source_url": "https://www.munhwa.com"
+    },
+    {
+      "id": "A195",
+      "published": "2026-10-08",
+      "source": "네이버 프리미엄콘텐츠",
+      "title": "LG에너지솔루션 | 3분기 어닝 서프라이즈, 향후 실적 확대는 ESS수주 물량 출하 전환과 미 현지 생산능력이 관건",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGZuMXlyVkNLMzB3Y1llcnF5cGdHV1lGVHBMRWk1UDJWYWMyNzB5X2pFZmg4cW01SjJTU3M3TVd3MjB4cWtMTFVXMWFydEFiZHlIbVZIU1hKWVNCb1ZyaVJXR050OEgwQVdyb05EdW9YU2xjN1VrUGZEUmctNmFtbHpXeXFuTGJY?oc=5",
+      "source_url": "https://contents.premium.naver.com"
+    },
+    {
+      "id": "A196",
+      "published": "2026-10-07",
+      "source": "머니투데이",
+      "title": "'1등' LG엔솔, 배터리 전쟁 '후반전' 예고…\"하드웨어→소프트웨어\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tdWhWc1VSZmRYYWlDcmxxY1ZwRDgyeVdYakpNNnMydUV6TVYtLTh6a0RNZ1FsWENEYjh0ZzFRUUN0TlhwTWxxN09UaTVVSXFIaFBaNE9qcUlaTXZpd0swS2NtQXlOYWY0Z3dHbdIBckFVX3lxTE5oaXdEQ1hVcFhKVW1uQ0QxTU5DYWlReHpOQXdsZzlZVDVDeHRhYnZSUkVENXhsSjZNTTlBdmVMN0ZPUjlLU0xMSXczNmtoV2dCdGJhWHFUXzN2dWNZbGQtQjloQUI4b0dYTWdKMTdhb2JCZw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A197",
+      "published": "2026-10-07",
+      "source": "중앙일보",
+      "title": "LG엔솔, 3분기 매출 9.6조, 분기 최대 기록…배터리 바닥 찍었나",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENzJxMlpiVlZrakVwcXNNemxKMmZPQTNXY3dCV0otemlHcm9wM3JrTDRXNjZHZlI3cXFtUVktcUFKbkJreWs0eWFYQXV2WEs5b3JsTlVB?oc=5",
+      "source_url": "https://www.joongang.co.kr"
+    },
+    {
+      "id": "A198",
+      "published": "2026-10-06",
+      "source": "이투데이",
+      "title": "LG엔솔, 11개 분기 만에 매출 8조 복귀하나…북미 ESS가 견인",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZnBZWktVN3EzUWM5aVoxOExhUkwzd0xiQnQyaGF3TW44R1hxQTJ0eWotVEhTby1RRk8zYnJQVlc3WjRGT3UtdHpOSTdFMmNvYTJubg?oc=5",
+      "source_url": "https://www.etoday.co.kr"
+    },
+    {
+      "id": "A199",
+      "published": "2026-10-05",
+      "source": "연합인포맥스",
+      "title": "[그룹 PRS 진단 ③] LG화학의 똘똘한 선택…LG엔솔 주가상승에 '웃음'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNGstMXpCb3FENmtzVlFTTk5oQUQtb0JQVTYtWFNFdjg3eHIzZU5TdVRsa3ViN0g1bGM5d19FNlZNV19lTnQzQTVXY2d1UDlWMGtuZmRhblZIR3pjelBvbHJuT0JlYkM1aVpGNVZuTTk?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A200",
+      "published": "2026-10-04",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 메르세데스에 46100 원통형 배터리 공급 추진…2028년 인도 목표",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3BKYWthRkJFZlpydlhEREx0dnhXLVpDbV9ITDJEbjJERHZncDlXSk9OQzhrZVVBTGpfOGY3Y09Td0FhR3psUmQ1dW5SNzR2c0d6QTRVN2t4MnBvRkw1VlVack0wbDNMdEx2U0k5a25ySEpnREVqckh3a0plSnVkYmFyNUNrNDlx?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A201",
+      "published": "2026-10-01",
+      "source": "디일렉",
+      "title": "LG엔솔, 美 인디고테크와 46시리즈 배터리 공급 협력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yWU9scVBnRVVhN1EzWHVnMjI1YU42YU0yN01ySUlPVTRuT3Y3d0VpTDJiRzhsWTM4dnE1c2tHZTBYenpMYjYyS0tMcUI1dFRkSk5tdHRPVXpVcldjVjVXX3QtSENuZw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A202",
+      "published": "2026-10-01",
+      "source": "디일렉",
+      "title": "LG엔솔, 벤츠 전기차에 테슬라표 배터리 첫 공급",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03RlNBX3hSenpWSnBoQjFoYXJUM25ZYnZvS0V1eWZ1al9TbGdjY1RidDAyRkhkeGp0S2ZlWWQ3U3NfNHRzRFVNdmRJTFE0RktEd19kRXVyakN5TGFqR2xoZW1yMnFjdw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A203",
+      "published": "2026-10-01",
+      "source": "뉴스핌",
+      "title": "[모닝 리포트] \"LG엔솔, 일회성 이익에 3분기 선방…목표가 46만원 유지\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yb0lXSm9mNGJRQTY3dkoyQWJUVnBZdDg3bm94VjBpYjNLVm5NaVoyMXJ3ODVzbnBhUkNaTnN5Ykh4TVBtWTlEZkNVcW5yTlBYNVUza1dfQmVjSVdn?oc=5",
+      "source_url": "https://www.newspim.com"
+    },
+    {
+      "id": "A204",
+      "published": "2026-10-01",
+      "source": "전기신문",
+      "title": "LG에너지솔루션, ‘인디고테크’와 46시리즈 원통형 배터리 MOU",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qb2xjd2ljZVpENGgwOHRZUTZTUjJkNDlpT1Z4T2FETE85YTV0UTFfNmtOY2FvejdJdUtBenRnUzZKUjAtVkdLdVNoZU1RTDlUUDNxUlg0Z2RyalRiUFNUNTB6cU41X0VleHJkQ9IBcEFVX3lxTE5iUXg0SmdfLWwzNDFXTTRpRk5KV0NDTl9UbXVhVzZLdjdMaURnZ3NwSjFEYlJPWVpmd1V5TG05LVRWVnNZS1pKZDBsNTZaWG9yM1hXNFlsZ1VPOHI4c29GMXhvY1RkSlpXVEdjLURrZzA?oc=5",
+      "source_url": "https://www.electimes.com"
+    },
+    {
+      "id": "A205",
+      "published": "2026-10-01",
+      "source": "경향신문",
+      "title": "LG엔솔, 미 스타트업 인디고테크와 손잡고 북미 전기 상용차 시장 공략",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMnlQODVYMWJ0V1ZPdFgzaHlXQnV5cWhGOGhvZnd2OFZCaVRMSnRDN2ZFXzZKN0JhWVVxc2ROeFlfd2NsZ3dFWDNTSXJNYnFVS0pfU0dhN0I5UdIBX0FVX3lxTE9nRDNTNVY4YjdPaVEtdDBRb1diZmFXbjNDWDlKRjRkVnRObmVSZDVRREtudHVQcE5wR0tGNk00Y3A3X0xGTm5FZEJWa0FIZzl0NVBUaXNNRlVueDdPUktR?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A206",
+      "published": "2026-10-01",
+      "source": "이투데이",
+      "title": "삼성증권 \"LG에너지솔루션, 3분기 영업익 시장 기대 웃돌아⋯목표가 유지\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zdW1kUzAwMUNkMzlwZnktdXdGTE1BUnlZaGd6TGlyamZZdFlSRkd3dFZSOUw1d2cwMEVMNXdBNXpTaTlabW5Rd1dmZmxXdnRtNzJESQ?oc=5",
+      "source_url": "https://www.etoday.co.kr"
+    },
+    {
+      "id": "A207",
+      "published": "2026-09-30",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 북미산 LFP로 ESS 공략…캐나다 에네온과 공급계약",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2k0eERGd0tRNHVnS0JXTlFIQUUxeElSNDRJUEFEcUJMSHNlcW5IVWRnOXpnbW5JS3RabFNDbVN2V0gxUXYtY3oxYjREZVRnXzdtTDZSWjVfMUpzZmgzUmlUZy1IS3NZcS1STmc0QXJuRnVQVUFUbjkxRkNNRlVNQ1hLLXM?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A208",
+      "published": "2026-09-30",
+      "source": "연합뉴스",
+      "title": "LG엔솔, 캐나다 에네온에 북미 현지생산 BESS 설루션 공급",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBILXY2VEpZUXdIb0xwSVVxLUxNYUV3djIyM2hDNFdUd1JCQWEyQzVRT0lwQUVZcE9jbmpfMG9KcjUxaWJIQ1RMb1FNZEFEeGFUS2ZYekY3RkRFbmvSAWBBVV95cUxNbXI3TkcwZ2R4TnVlNHdvdmdzeEZqc2ZLVHF1N0FsdWc5NDczVk1TaF9KNVFvRnhGSF92LWNaUHptbmktbnB3UFZKeXRVd3hfSURlMHBhaFJQREg3SDVycTU?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A209",
+      "published": "2026-09-30",
+      "source": "연합뉴스",
+      "title": "LG엔솔, GM 합작공장서 세계 첫 각형 LMR배터리 양산 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zcE1BVmM1YnpZVElCU2lrYW85V3diRFAzN1JuV0k1WHZ6X3F2V3NlNVJOT0dBS0xaSjgzQnQ3aHNVYTZvVWVDT0tlbERHUnJfS2hoZXVib1Q0aEHSAWBBVV95cUxPQXY2QnZEamNwVGN5VFpnVkhLLXh1dEljMEVpa3hKV2FUamgwazREVzRuSjBfT3pwcmxfbU5vNjVHNG9UNGVCNW5TbE5uXy13alJrdUc1YUY2Sm1LbWJ3bWg?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A210",
+      "published": "2026-09-30",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 'LMR' 양산 준비…美 테네시 공장 연말 개조 착수",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lYXFMbHl6V3M3Qmk5T0RCaU56THh4WTRvRzFqTTVxZVRhczZpZE1QeFNCZVVPRl92Wm1fWXpLNmt4UFFRLTdBUXU1VDI2UmZNdm5iTFpn?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A211",
+      "published": "2026-09-30",
+      "source": "디일렉",
+      "title": "LG엔솔 합작사 얼티엄셀즈, 美 테네시서 'LMR' 배터리 생산",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hclZWbG1YOW5tMGtuclU2VEtWQkV3blcxSkF1VVlkWTN5SjNZUXdSbm9NeEd2MXFyVFdXQy1DMER3THlPcmV3MVIzTDRYTUU4b21LdzVvN1I5Yl9zU0NrQVRPRk9CQQ?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A212",
+      "published": "2026-09-25",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 체질 개선과 포트폴리오 다변화로 美시장 장악 잰걸음",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0VkMWFjNWd2QnhnTmFib0tXSm1kUElXMW04RHBZcXRtUUxtUF93LV9PbFhoakIyZEZQZ1pKUm11SXhRSDA2TnNJVnluWlc1a1ExakktSmhyYXo1N25Ra3d4azFkV0xiRm1nTms2RnB5c3dPWU9pRmxlUmtPWElPT0JqOGYwQQ?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A213",
+      "published": "2026-09-23",
+      "source": "더구루",
+      "title": "LG엔솔 폴란드 브로츠와프 공장 확장…대규모 ESS용 배터리 생산 준비",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xbElVdXhfZ1RqdkR5dXpSUkk2bWhmWjhLMm55cmxPNWgtOXFzZDJkUnp0N0hDaFZ6bGF2UXhsd2NkTEs3d0FDOFRCT1NKOGdxd2FsTy0zOGpnSS1wTV8wYzNjSQ?oc=5",
+      "source_url": "https://www.theguru.co.kr"
+    },
+    {
+      "id": "A214",
+      "published": "2026-09-23",
+      "source": "파이낸셜뉴스",
+      "title": "역대 최대 규모 ESS 입찰전… LG엔솔 부진 만회할까",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5laFROakJWbzdTZ1BUUmllZ3ZlRXB1Qnl3RkViVXRrbUoza3RlR0ZPQnZhLTRxajBBZGJzRXdyTy1NQURMbnVzekNCbmlSLXBRVUx5SDdzQVVBdw?oc=5",
+      "source_url": "https://www.fnnews.com"
+    },
+    {
+      "id": "A215",
+      "published": "2026-09-22",
+      "source": "연합뉴스",
+      "title": "LG전자·LG엔솔, 엔비디아 차세대 AI 팩토리 생태계 합류",
+      "dup_count": 2,
+      "also_in": [
+        "뉴스;트리"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tQU9oM2ZtcWsxMHhuTDV1VVk3R1p3d0JZUmtSaW0yM2NiYWd2Vi1fY1dEajAtQUhrdmJXTjl4dmthVzRaOEFSN1VLMWZqT0tZY3FLZlctdEhSSXPSAWBBVV95cUxNbmYyeFVkVE9TNkxhUy1WaldJRHFwYlJvTEhRb3pCdy15RXUxdjgxbHlRaU5xQXJrN1Q3elNmWXIteUQtcmI5Zmk1S1ExNE1aUFY3LVBscE1zNVQ3amV2UDI?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A216",
+      "published": "2026-09-22",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 엔비디아 AIDC 핵심 파트너 됐다…K배터리 중 유일",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwS0NLTi1wYms0a05iQ2lRYWhiejVPUTY3N01kTzFWcmlxNVVDQ0RaZTZtTEJSUEJNUGdtYV9jUmEyd092WlZhLUtkNjVJa2tjbUc2OERB?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A217",
+      "published": "2026-09-22",
+      "source": "머니투데이",
+      "title": "'하드웨어+소프트웨어' 저력…LG엔솔, 엔비디아 파트너로 낙점",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQVREb3NGWGdfdElPR0FJT25DQ2ZucFFVOEdnck9YR2xHRE5OckZxb1lIOFZEU0puR01HaTE2cW43OG10Z0twTXJib0dJdGFrVVdycG5Nd05XeVVoc3AwV2ozQjVldXNCZHQ3WdIBckFVX3lxTE85djU4N0NsRXYwYjdnbXY0QXhoYzQwNW9zSjRmSkd2MFpxWG9GSlc2dGdmTDNEOGJyQ3c4bUxNTmFtWngyeTAxbE5Ud014VFQ1S2hTbVhWRDNsWFRwRGd2ZDhBSk9YMmJTNV9FYVdvTE1fdw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A218",
+      "published": "2026-09-22",
+      "source": "뉴스토마토",
+      "title": "LG에너지솔루션, 차세대 배터리 기술 개발 박차",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdGJubGQwMFdjV3JGaVZXdDI1VTU4eDBaNlQ2TWJzeDlZZ3NITlR1eTQ1aWNvSUd0SXhndUlaWHBjcmtZVjRTYXdZZ0hCTl9NbUhyNWYtS1EydkxUM1RyMA?oc=5",
+      "source_url": "https://www.newstomato.com"
+    },
+    {
+      "id": "A219",
+      "published": "2026-09-22",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 엔비디아 AI 팩토리 생태계 합류…韓 배터리 기업 유일",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYzVlUW9tTF9JSDNqNTY0eVR1MEN4aVppT1FucVRvcG5rUHh5Vnk2ZHpieko1c1BGa0FDSl8xTVhUdGlHYmxTYUM5NlZ2VWQyd3V2Y0ZFaThFSHhnelVUTmhqQkJPaXJiSmVad1VVc0V3Z0NsU2JiRFZ0ZGxDRHU0Vk8tcVNYUQ?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A220",
+      "published": "2026-09-22",
+      "source": "Chosunbiz",
+      "title": "LG에너지솔루션, 엔비디아 AI 팩토리 생태계 합류…국내 배터리 기업 중 유일",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNm5rUFRuWnhGN0dSZi1Zb0RmQkRPZUJHNXg2Vlp5NGNYM3FkczNKVFRLdXg2YS1icjNBcWtiaERqazl1QWhDTWZpbFlJNmlPS3dvRzRNZm16NjRPZ1NVbFR1NDdzZXNaN0ZDS1MtQlVNdG5haHhjWkZIaXZiUFNEakd2aGrSAZgBQVVfeXFMTmxsbkpySjE0Vk4tY2t5Zy1mRU5lR1Z3T1lBVHpnLU1PR3hxQ3FlQ0pZX3g2UmJiaU8tSkJ4dXFQZ2szUkZzUnV1aHlMUEZWLVItOVFua1lxUDhhZlpBNklpLWUxVTJfZl9mZjNhU1c1Q1pvYkUwNzRQa3hNdEJVbE9wb25yYmdkQVVsRlkwWVZtRURWZDBnbXg?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A221",
+      "published": "2026-09-22",
+      "source": "경향신문",
+      "title": "LG엔솔, 엔비디아 ‘AI 팩토리’ 동맹 합류…국내 배터리사 유일",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4WUhmMHl6azNqLV9CQ2NEZHo2MTdidGpId0s0RmxQSWc4Z1lfY1JwcGotMk9MblZTWU9yODBsU2NYcW1INnJ0ZnFEWDVJWHF0WlRjSENnZEVkUdIBX0FVX3lxTE1weUFDZkhYOF90VFM3U2hnUEtzN2pqczlkWVJFUm83ejNxQmlKbzhqbUd4T3VBTlZTc1E5dGFWNlF1cXdoY0FCeGNnY3YtVXpubF80QkdhX1N1V3p4LTFn?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A222",
+      "published": "2026-09-22",
+      "source": "연합인포맥스",
+      "title": "LG엔솔, 국내 배터리업체 유일 엔비디아 AI 팩토리 생태계 합류",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qaFZHbXVLTFFDZHpFaEdDYzFnRVBSWnhNb3M4QUsxZXNSdndlVjF3czI3WTE4MWlzUThvUG9HVkhVZzQzNUFrR3BFUkJrSGpTMXNSUWhVVUs3X0tPMmxadnBWODlaRUVNVnNqQ21sRmE?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A223",
+      "published": "2026-09-22",
+      "source": "뉴스1",
+      "title": "LG엔솔, 엔비디아 AI 생태계 진입…배터리 넘어 전력제어 역량 인정",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrc1VCLVV3S1JGeWd5MUpWcE5Uc3NERVBWMy1haFdORTRBeXAtMVZfVHlYWGRXQmk3cWJSWkJrcmlwY0pEUndEQ0M4WE5BQnVlTXVFYmtHRGlDbXFIV3NqWDliQzc?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A224",
+      "published": "2026-09-22",
+      "source": "이데일리",
+      "title": "LG에너지솔루션, AX로 배터리 산업 판도 바꾼다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWJqb19nYXlDbUpObDRraXhJbHdXdzBYT3Y4V09jNkN2QnF5bEJoaHBoc05IMDBBek9PS1pvaTk0aUdkZlNCd01aWUZQWDVVU2g5YnRCQUpYdjhHLTF3akRkbG56OW83eFVMZjlIQndZYzRya0dRNHZqeTMwN0duUQ?oc=5",
+      "source_url": "https://www.edaily.co.kr"
+    },
+    {
+      "id": "A225",
+      "published": "2026-09-22",
+      "source": "서울경제",
+      "title": "LG엔솔, 엔비디아 차세대 AI 팩토리 파트너 선정",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90aXEzV0NBNnB6Z1FIakNtaVJGa2tDbHRWZHZveS1MZXNKMnlNSVlzTUo1N2FGa0k3MkxDWjFOMGNOVjdZM0ZUZ0wtMlh5bGdRX0HSAVNBVV95cUxNVFVGOExrWU1rZ0ZlN245d285Z19TQmFTXzNIRktCU3FkZ1JpMk9RbERwX3psN2tpZVFrQWJ5bGdZcGF1TGpBTGhGS2FpOUt1YTdaVQ?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A226",
+      "published": "2026-09-22",
+      "source": "블로터",
+      "title": "핵심 고객 선점한 LG엔솔·삼성SDI…ESS도 '연합전'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HSXJoWlNjbXJ4UWlqWEJjVXFEcDlVQ1M1MnlObDd4R3J2Q0hUcUJJQk1TeE1VMndJQ3Bfdzg5c0JGRHRjZndBeXlUZENRck5OaTJBMDAwdWZ3TndrYkw4Zi1UY0xtd0dL0gFsQVVfeXFMUGFYZnowTEpGa09FOGZpY0FKa0FrQ3dlTWdrcjVYeF9WTU1rRkE5aXU3ZWIzX0JPVVhSTUhrM3E2bmhEN29yVVVtTDhtcm5HcGkzVVQ0YVpKM2ZydTUtYTh5bm9zaVV5MXRDVTBs?oc=5",
+      "source_url": "https://www.bloter.net"
+    },
+    {
+      "id": "A227",
+      "published": "2026-09-22",
+      "source": "비즈니스포스트",
+      "title": "LG에너지솔루션 엔비디아의 AI 팩토리 생태계 합류, BESS 파트너로 선정",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hUGxRZTJGUjhCYUJEeER1SFZXQ3VFc2VkdWtLQ245OFdtcXluYVZ3eldWZ3VaNTNTbURGcllHVGFOVjNUYU13ZHR4cC1hWmoyUkUtQUk4cjdkRHRDUGVTN19zVzNJa1JZZ19PQWNBcnRTOWM?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A228",
+      "published": "2026-09-22",
+      "source": "헤럴드경제",
+      "title": "LG엔솔, 엔비디아 ‘DSX 레디’에 BESS 기업 합류…“국내 업계 유일”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZ3o2MEdrQThmbXdEelVYQ0NBZ216czZ5dEtqMkdUeXNlOW00aHQ1Wm0yZUpiMWZnc1dXbWJoRUJmcmtYeXhfdTdGbHZ2Uy0xS2hKZy1B?oc=5",
+      "source_url": "https://biz.heraldcorp.com"
+    },
+    {
+      "id": "A229",
+      "published": "2026-09-22",
+      "source": "Daum",
+      "title": "엔비디아 손잡은 LG엔솔, 선그로우 노리는 삼성SDI…ESS '연합전'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdXV3WERTS1FRRGxxR2dlZTBaeU5fejdyOXYzOEhqRnpwNlZlVDRid0lCRUx5SzhSMUJYNzVfaTRBSG0wc0hMTXJpX3ZwQjd3dHQtVTFQTGNnc1N3ellMNXVnQXpNWnVpMFE?oc=5",
+      "source_url": "https://v.daum.net"
+    },
+    {
+      "id": "A230",
+      "published": "2026-09-21",
+      "source": "Chosunbiz",
+      "title": "LG엔솔, 美 랜싱 공장 본격 가동…AIDC·ESS 시장 선점",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0w0Zy1zbWExZ2NuUktmOGxTT0VXeGEtSlNNcTFhRW1YN0ZsSnF6aTRKenVCZHQtRFRSOC1ZalZ2NkJLOXd4OTZWQWkyMTdsbnlLUm5tSGxLS2Mxa19FYmtNZGJVZFAtci1wMXdMMmNfVzNWN2VWa1NNdkhld1VIT3VpalfSAZgBQVVfeXFMT2c3M0ZWelFfZlpjTlJGRjhiUTMyUlB4S3BMOGRWeFVaZF9fOUVta2hEUHY3UDhyVkswUW1MZjBUZkcwTmlobHBKaWc4bE5sYVl6R0hNSW9jTXJlVTdXWFduSEI5VGZpOU1jTlhLNGRUaDQzaUEyZXA3NGpiV0ZRS0VYc1lzYWtCYXp3V0Nod0k4WlB1clJOQmM?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A231",
+      "published": "2026-09-21",
+      "source": "지디넷코리아",
+      "title": "신소재 개발부터 양산성까지...LG엔솔, 35년 배터리 기술 AX에 녹인다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pamJSTWQ1R1NLVllNcnp5aFlnaGR4R1F3a1c4T0tEN3pOMTJzLUVFbkprR3hMcWJvM1NYQ18xVDFSOXdPWG9JSU1RZTJETmhLajFucXpB?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A232",
+      "published": "2026-09-21",
+      "source": "중앙일보",
+      "title": "LG엔솔, 엔비디아 ‘AI팩토리’ 생태계 합류…북미ESS 공략 가속",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSHZ0Z3Vmd2drLW1SeURmRm5OQ2QwTXB0cFh1elAxb3IwQVpuOVY4aGxHeTExWUtJSTRZS1BZVl9Ua1o1YnNwcG9mb2lZeFBiUU1RY05R?oc=5",
+      "source_url": "https://www.joongang.co.kr"
+    },
+    {
+      "id": "A233",
+      "published": "2026-09-21",
+      "source": "뉴데일리",
+      "title": "LG엔솔, AI R&D 혁신 전략 발표 … \"소재 발굴부터 배터리 수명 예측까지 AI로 초격차 달성\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83SldKME1VUGJTNC03MEQ3enNmWW43REVGLV8tX2pSWUpYTXJneDdEMTVNRldydXp2ZkZpX1d6bVE2RUF0cEY5clg1eGI1UER2MmVYRzVfWm01dldTUi1nQ0hwVE9paWtIajNoZWtTeGZXMHdKbl8wdUpwY9IBgAFBVV95cUxNRnNqX19Tb3oyN1d3SUNsOWxBcTB4SGtEM2c5ZXAxUVl3enRtSk5xMWVmYl9MRm15OENMTE1jYWF5N1k1M0Etd0twbkpBQzlsTmZBdVNoUkVwX0hYcWdES09ZTFJKRXBSRi1Ca2l2Zkg0V2VMTXcyajk2Vk9oNjhkTw?oc=5",
+      "source_url": "https://biz.newdaily.co.kr"
+    },
+    {
+      "id": "A234",
+      "published": "2026-09-21",
+      "source": "녹색경제신문",
+      "title": "LG에너지솔루션, 북미 부진에 해외 점유율 하락…유럽·아시아로 활로 모색",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iR0xsQ0xjZlFfZk9ZNFl0eldMYWZMbHBPQ0pjWHZYbktrb2N0Y25JUWVJemxLdGVHSU1mOEJFMFVHMDBhSU44amdNZXYzREJ4WHVRTWlCMDZCZ0tuaGZjNmVBRjBybEJP?oc=5",
+      "source_url": "https://www.greened.kr"
+    },
+    {
+      "id": "A235",
+      "published": "2026-09-18",
+      "source": "마켓인",
+      "title": "LG엔솔 공장 누비는 보스턴다이나믹스 로봇개…AX 공격적 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WaGdaWi1PWnBXazBBUlVqZ2poc2xxWk9vLVRmWEc2VElNRmtudFhqTGlIaVJGMzdSaTBYV0dBNkhuSkowZzI2OTRscGREeEVscUJRYnZ3ZjYtU0s4ak1rSktIUS1FVTJPeGhoWnpiUFdYQlE?oc=5",
+      "source_url": "https://marketin.edaily.co.kr"
+    },
+    {
+      "id": "A236",
+      "published": "2026-09-18",
+      "source": "코리아리포트",
+      "title": "김동명 대표 LG엔솔, 하반기 실적 개선 탄력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByOXowTmZOR3MxNW5lR0dUYlNlMW14M2pKT3hTMjVsaTBxcGRTR2t1YjNfMGpEZXJUajVIOEhuc2RCM2tsaWs0QmdJbnB0ZC1sOHlLYVY3RnFBZF9OTHpDOTNqSEtyNXZyNlBTRWlnejM?oc=5",
+      "source_url": "https://www.koreareport.co.kr"
+    },
+    {
+      "id": "A237",
+      "published": "2026-09-16",
+      "source": "디일렉",
+      "title": "LG엔솔,팩·BMS 넘어 소재까지…과천 R&D 캠퍼스 2단계 착공",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hN01rUHBHMkdUZEJZZ2l5dC1iVDB1SmJGZGE3SE1xbTdDaDhyVmlFMDQ1THhfNXJsNXV1RXpLV0tmU0tNaDdzZzNLcjRtMmtNdU1hSjVFN3ZHWjJ1VUg5NXN5OEpTUQ?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A238",
+      "published": "2026-09-16",
+      "source": "이코노미트리뷴",
+      "title": "[마켓트래커] LG엔솔, 수주 쌓이고 공장 다시 돈다…미래에셋證 “3분기부터 실적 반전”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VQVZ3WVRBYXVsZHRIczNOMnJMVVFYdS1ZWDRnMllaS0pBTjBjWDdwbTRoaV9tdlpmZTIwZGREVlY3MHZ6SGhyZVM3RWRnSEdaOEdTdWtNZVcyZXo5aEVCSWE0aFoyMnZqNkN3UDd5amU5NGQ2eXgw?oc=5",
+      "source_url": "https://www.economytribune.co.kr"
+    },
+    {
+      "id": "A239",
+      "published": "2026-09-15",
+      "source": "Chosunbiz",
+      "title": "“LG엔솔·삼성SDI ESS 배터리 수주량 2년치 꽉”… 美中 호재에 추가 기대감도 ‘솔솔’",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUhBQWhDdGlheGIwekZCb1o2WVcxX1pPNzlKMkhRaURqd2pJMWdxMmZpa05vZ081LU5zeGZ4NE1lSFdrR2JBXzduU2hzWk5jSDg4ZGh1UjRCV0dEZHUtZmotVjM1SEFIOGVfX0tieExhN3ExZWVuOUdFZHVXbDhCbnV4SnPSAZgBQVVfeXFMTXhrY3VJcDJsWC05dzRTb3BqaTllYUQtS3EydTFmV1F0SmVkTGJfOVBvdm5DT2dZaXBTd2gtang5OTNnMFFnVGtNcDNkaGd5Z2IxU2NWTEpYU05VVVh5b2dpbGRMRnFTSWh6dkdwM0NDZGl3MllMQUxRMUVlU3YtckJHLW9TM2F5V3VoRm53d3o3V2lNTVFhdEQ?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A240",
+      "published": "2026-09-15",
+      "source": "뉴스1",
+      "title": "NH證 \"LG엔솔, ESS 수주 기대…목표가 48만원\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55cngtYjI0YWszYzE1OG1JWnlKay1fbWdMQU8xeGx6T01HY2FBZmhwZGs2T1ZyaUpVSlNYY0M4Smx4bjE0dGZKa2V3M3NfQWF1SzJLVlBDd1kwc28?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A241",
+      "published": "2026-09-15",
+      "source": "뉴스토마토",
+      "title": "[IB토마토]LG엔솔, 충당금에 막힌 수익성…차세대 배터리가 해법 될까",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORjRfTHEwVUFvdjIzeC02VDA2UjFBMWZfOWU5SjFpMFNlcUJ6aEhPMW9rT24tZHJNbUNXYldSUmdhcE1ERnd6SzQ4WFRra25jQnY2MFhabDUydklmNXdIRA?oc=5",
+      "source_url": "https://www.newstomato.com"
+    },
+    {
+      "id": "A242",
+      "published": "2026-09-13",
+      "source": "뉴스1",
+      "title": "테슬라 메가팩 증설 수혜…LG엔솔·삼성SDI, 북미 ESS서 성장 가속",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWaXY5NThqQjRuXzIxWUVMcTA5M09zaFkxZFRPTGRSTVBUd3ZRdDZJT0V3dFF1ZjdVbmZpeFZvaEpQOUt2LTRWLVMtNmV1YmMwNmlwZnNKd0tZakJNSk1Ob1VxTkc?oc=5",
+      "source_url": "https://www.news1.kr"
+    },
+    {
+      "id": "A243",
+      "published": "2026-09-13",
+      "source": "파이낸셜뉴스",
+      "title": "테슬라 메가팩 증설 '훈풍'…LG엔솔·삼성SDI, 북미 ESS로 성장 축 이동",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42b3BqNUdZZWNGN3JuT0VlZTNyTk5GRWZoYVEyZFBRSDVCNkRLcHF6TWRjVmt3aUYxRE9sZ1lPeGtNQ2IzaFZzTFljVVdJTlVsUVlIcy01ZDM5QQ?oc=5",
+      "source_url": "https://www.fnnews.com"
+    },
+    {
+      "id": "A244",
+      "published": "2026-09-12",
+      "source": "신아일보",
+      "title": "[흑과백⑨-흑] LG엔솔, 북미 5대 거점 구축…국내 최초 'ESS용 LFP' 양산 역량",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQc252TTdXX2t2OWlWVDZwQ3lMdjQteDNLZ3gwUGFqTDFoc1l0blZHQXZONk13OTFMNFktMFBCTTVmaE1razJQeDNuam1pODdmYlg5R1ZNQ25zTlJrMzFWS2JaYWFMZVJZejF0V1FkeG4?oc=5",
+      "source_url": "https://www.shinailbo.co.kr"
+    },
+    {
+      "id": "A245",
+      "published": "2026-09-11",
+      "source": "신아일보",
+      "title": "['흑'과'백'⑨] LG엔솔 vs 삼성SDI…AI시대 ESS 주도권 경쟁",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UMkxjX0RZd2Z4VlJHSFE4WWE0enpsNF9JR3QwQjBKazNfM1RIakNVeXlOVjF1QXlTRGlPb01CdzhDZFJQX2RwMnh5bXF4SnRsOUlpNy0zNmhlREM0VzdPTHdGN293bU9rd20xUm1Db2w?oc=5",
+      "source_url": "https://www.shinailbo.co.kr"
+    },
+    {
+      "id": "A246",
+      "published": "2026-09-10",
+      "source": "전기신문",
+      "title": "현대차·기아, LG엔솔·원익피앤이 등과 UBESS 실증 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10LVNyVlJEdTFZTGoxVDRJUlQyMG5KYjhGUW9JV2stbldnX0YtX24wWFdLTWVaZXhZNTA5U2NuUlROSm5uOVZnZEo1eEJPS00wOUxRNzFGaWxhNkZMbmNYcG9jSXgxdHRhRGpfX9IBcEFVX3lxTE5DRmQ0REFVbjIyMnEyS3ZfdEQ0bmdqc0Y1b0U4MFJHcldrU1dlaldnUllMMGV2QXJwQWNYM05pampGVTZQT2FBNW9tLU5wbzc2RU5oLTJSSVdnc1NwdF9vVTVLMlNmajYyU0M3NWh0QTI?oc=5",
+      "source_url": "https://www.electimes.com"
+    },
+    {
+      "id": "A247",
+      "published": "2026-09-10",
+      "source": "한국경제",
+      "title": "사용후 전기차 배터리의 변신…현대차·LG엔솔 등 맞손",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NjVxY3otMmtvUFBTWTBDVDhEZUpFNUVVSFdyODRTZUZwTmgtNkdPWUgwV2YtZ2Z6aExNeHVLUTIxLU5wNWN6ZEpkRUdyVXRWSlFCanhxZVhTZw?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A248",
+      "published": "2026-09-10",
+      "source": "Hyundai Motor Group",
+      "title": "현대차그룹, LG에너지솔루션·원익피앤이와 사용 후 배터리 기반 UBESS 실증 추진 | 뉴스 | 현대자동차그룹",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcl9oMlpJcGVsbnZlT1QzWExJSk9pRE5uT3p6dHV6a1dJRWhBN282NnhtOUlnUHFtcEtJNVhCLTMzSzFRclJWMFpqOHYwMGRpVUhxMi04bVVsQkxSLW4ySUdCVG9ZZVU2aVVMZE5rbzJSS0Z4MVdXc1FvSnFBazlVN2Nsdlk2aDYwY1VVVHJjYw?oc=5",
+      "source_url": "https://www.hyundaimotorgroup.com"
+    },
+    {
+      "id": "A249",
+      "published": "2026-09-10",
+      "source": "연합뉴스",
+      "title": "현대차·기아, LG엔솔과 사용후 전기차 배터리 ESS로 활용 추진",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5seEdZalVGQzE3bDdUNHRmd1J4U2xIcldkVDluRkM5dnY5LTQzSjhxQUhRQndySzlOc0NIWnpnc1Uxc0R0M3pzcXk4SmgwZFNHRGVqazF6eEdfaDDSAWBBVV95cUxNMjdNX1hVNmJDQmxyN2RBMVFGbTJjQjF6d1lSSGRkcmxYVW4tNXZ5LXBfYWdEWnBKY3Eya3BsWGZTSkxlZ0VGRm9uSFhrYktTMHJpVlVCTHRZX2VjQ0pxNEM?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A250",
+      "published": "2026-09-08",
+      "source": "뉴스웨이",
+      "title": "'1GW ESS 대어' 온다···LG엔솔, 3위 탈출 기회 잡나",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRlhnSEluV3ZpVm5VdzVnVEMwMk1WajVQdVBFaVFRZzVFNEgzWXhKcjRpNXVZYkJqeWxLbjNwZklCMlJFMENjaHFtSGpyWHNVYXU1OFZlQ08wdFFzZkQ2cGxkWHZRZ29SSFE?oc=5",
+      "source_url": "https://www.newsway.co.kr"
+    },
+    {
+      "id": "A251",
+      "published": "2026-09-08",
+      "source": "서울이코노미뉴스",
+      "title": "LG에너지솔루션,美조지아 공장 정상화…북미 'EV·ESS 양손잡이' 전환 속도",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DOVRpbnBWSXVCc21Samxsb2N1WWljaDlKR1RocU5ENWhIa2w4SDJKWG01dlNaLUFEdTNTVDZLSDk4dFZoREdPNEJTMldZeGZJS3kwUFozalNhaExsTGJqSTZJXzFQb1RlaVgwZ2xn?oc=5",
+      "source_url": "http://www.seouleconews.com"
+    },
+    {
+      "id": "A252",
+      "published": "2026-09-08",
+      "source": "투데이신문",
+      "title": "LG엔솔, 美 리튬 싹쓸이…‘中 제재’ 빈틈 파고든다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QSmQwNXdna0haSG91QmdDWjV5bE41eVFDTjMyQWNJemh5VktNSHdycWJVbENSbDVETkdHZEptSGFmZlRQWjNpeTZZZjlYaGcza3RBV0VTX09iYUdMYV9MaWJmVE1mQkgwME800gFvQVVfeXFMTXFkbEVNS3I4dFNGX0N2VHFNRWZjdW5GS2lLeTBiZ1VGcVBRSmJmelctZzFLc2xpd1o3dzIwYUh4NTZFY1M3ZG9GWEk2bmU0SGpkZHgxT3FaMmIxd1pxd1JDaWQ5cU1YOU9oczVpOWZz?oc=5",
+      "source_url": "https://www.ntoday.co.kr"
+    },
+    {
+      "id": "A253",
+      "published": "2026-09-08",
+      "source": "IT조선",
+      "title": "1년 전 ‘구금 덫’ 벗어난 LG엔솔, 美 배터리 공급망 정상화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZWjVuaW5WUUtuRFhyeGN5d3Z3dThNc0d0cHVHRDhKZDlnYlBVTE5iVFpwMDc1OGhZRk9pMlptTzBEdGVxaFVJRlhmOS1BN0ZhZGFwT3dqN1U3dWVUdXJnUndOT1NKUnBfR3JLVVZxeELSAXRBVV95cUxPbE9PdnJrampJbGZxTW85RGRHZERlSzNEaDdhUjMwYy1xUnRzUlNkc0F5c01oSzJpQ0JTRUs4Q1VBOGtLdExaTkVYWlhMcWh1dHYzcnMzV1BWZ0Rud3pQQV9IcW0xUFNPODBGdjl6UTYweVlxYw?oc=5",
+      "source_url": "https://it.chosun.com"
+    },
+    {
+      "id": "A254",
+      "published": "2026-09-07",
+      "source": "연합인포맥스",
+      "title": "LG엔솔-서울대, 차세대 LMR배터리 상용화 길 열었다",
+      "dup_count": 2,
+      "also_in": [
+        "디일렉"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16bGhVbEV6WHB6OW4xekxoWHQybl91U29CWTBBc1JlOXcyOE93NllzamQtdDJfaVBXcG1jUmx0OFZCVjV0dmtPcVNkeEFtZWdRSk5kcEgxOGtmcHNJWktKc0M1NndsRW5kMFJsal9WMTE?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A255",
+      "published": "2026-09-07",
+      "source": "경향신문",
+      "title": "LMR 배터리 ‘가스 발생’ 난제 풀었다…LG엔솔·서울대, 상용화 성큼",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mbDUwNGpLQ2RCVElDbUFlWjMzZHdyT0hwSWdxYzNlRll6b3VCNVJjbjZfZUJ6S0xzRlhjay1KQ3J3VThVMHhWLURzMnFtMmlKOElac2Zwc2J6d9IBX0FVX3lxTFBoNDg0a1p0RFRLR3RTOERqWFRYZlVQb0JyVnBQMS1iZjV5clJSLUdrU3MzOV9QWkNRSXJPQmVHRzdYVnB1LV9rS3RvQkRndndpSExLOXhtTkVzeUk4ODVZ?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A256",
+      "published": "2026-09-07",
+      "source": "전기신문",
+      "title": "LG에너지솔루션, 차세대 LMR 배터리 상용화 나선다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOWYwa3pFR1VqS1h6ZnNKTWZxa1E1Y08zaC1QY1J3T280LXVsQzdoeG5lWVFGMjdwVXlQQ3hwQnRvOTZsQ0dGWFFabUhrOHBhSFZGOXliVDB2ckZLU0pKeUs3R05jTFFKdG5yN9IBcEFVX3lxTE1OX2RxYzJKUW9oWE1KUzMzdnQ2XzVHVlZ2QUVnUUZnalpuN2o1aEU5Qk1KWTFvckF0RG8xWkFDTFRpWWFHNWFVYUZacl91YlkwYm9xNDlWZ0xETGhsY09vWmlyQ2M4QkR3X3JDQmlzNHY?oc=5",
+      "source_url": "https://www.electimes.com"
+    },
+    {
+      "id": "A257",
+      "published": "2026-09-07",
+      "source": "한국경제",
+      "title": "[단독] 세방전지, 현대차·LG엔솔서 조단위 수주 따냈다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFZmxpa0pyYVV2bEVnbWRxREh1cGh5QjVVOWs1c0tvRW9NWGNKWHJsZ09GOXhyM2JRSGdCVmtuVUFjOW54Y01UZzJZT3k4WC14bl8zM21CNGFpQQ?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A258",
+      "published": "2026-09-07",
+      "source": "서울경제",
+      "title": "LG엔솔, LMR 배터리 기술 난제 풀었다…차세대 양극재 상용화 기틀 구축",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DaUJOM0dnZklKSUljcW9iVGhwV2EwRjBkVE5MZ29DZl8tQ1cyQ09NTmFyemdCVDlvQjlKWUUteHcyMHdQaTk2WTdZWWh2MmlXN1HSAVNBVV95cUxQVnNDOXVuTDMtdmVJeTRMLXZGOXNTYS1yeHlfZXdPaFJKMGF6QlFvZEZEd1h1RktxNGNpbXhESzhOUm1tX1hNNXN1VDlMNmNLdUFRSQ?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A259",
+      "published": "2026-09-07",
+      "source": "연합뉴스",
+      "title": "LG엔솔·서울대, 차세대 리튬망간리치 배터리 상용화 난제 해결",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjN3MzMnlKcXo5SVM5ZXRyc2JNdU1XZDBLWDd3RHZZc1ViRGxyeFQ1MDZIbldXUV9IU3E2SlRtYzNmSTYyT0dKa0RHVDRaaktfVlZydTdyTUNDaDTSAWBBVV95cUxPY0hjNWFTZjRLVDlHTkZuU0lORGY5aElReG9SdTY3VjlWaU9XejNzQlBhcWlEcUVzT0Nfc2s4a1pyVkpFOU9iRDJDeUN2akFHLTRzeU82ek5PVUduN284MG0?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A260",
+      "published": "2026-09-07",
+      "source": "동아일보",
+      "title": "LG엔솔-서울대, 차세대 ‘LMR 배터리’ 가스 발생 난제 풀었다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoWTNSTkdLcUR0Z1paRE5vc0htR056eFpXT2FKMnBnZnJhbU5fWjJ6Q2RBOERBdFNPQndUYXRqQ3VJUEswZjJvV0czb1BkcTNmeWNRWjZiTmpUUTczU2kwNE11TlRUMEJ0YktwT0J5eDZNTFRlREHSAWZBVV95cUxQWkt4dVdCZlNoRnU1Z3lRZEVZaUZVOV9ZUkVPTEYxMUtPQWZLS0t1WDRqeHpCLXd1RUZUVXRKeXpMNlVERzgwQ01VS19mSTh6V1RaUTROYXNJbUNnbHlWSjliN0tXT3c?oc=5",
+      "source_url": "https://www.donga.com"
+    },
+    {
+      "id": "A261",
+      "published": "2026-09-07",
+      "source": "에너지신문",
+      "title": "LMR 배터리 난제 풀었다…LG엔솔·서울대 ‘가스 발생’ 억제",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmYk00Y3pzcl9ZMUtFY3gxYmxnYUd2WHBOYXZ4ZXdnNTUxaUttUG8ySG9aQV9Lb21XaG1DNFlFUVJPbkdteE9CSHFiWWNscFQwQi1naVBmLUpTQjNVcWhZNWk5Y1drSWZMT2RhbEFkWDc2dw?oc=5",
+      "source_url": "https://www.energy-news.co.kr"
+    },
+    {
+      "id": "A262",
+      "published": "2026-09-07",
+      "source": "대한경제",
+      "title": "LG엔솔-서울대, LMR 배터리 난제 풀었다…대형 셀 상용화 성큼",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GR21rci1zU3dZbVJFcGx6ODY0dWFpb2p3cmhHdXpMX2lINy1JQUdGc0R1VFppQzlzdkVqbzRCeHBCaDVWXzlsc19HZDFaYUhqOUhON2VVTmFXdVI2UlVkSDhFeUdzMGxWRGU3OFU5N0RNN2ts?oc=5",
+      "source_url": "https://www.dnews.co.kr"
+    },
+    {
+      "id": "A263",
+      "published": "2026-09-02",
+      "source": "Daum",
+      "title": "[AI 대전환 리딩 전략]LG엔솔, ESS·LFP로 글로벌 1위 정조준",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzZ3NYUEFCRUhRZ0pwcW53Z1JXWnFaNmNRbzcwcFVZemtzOTJQbTZ1Q3Z3ZkdnbldrRTkxdlF0Mk4tUVpCX0E?oc=5",
+      "source_url": "https://v.daum.net"
+    },
+    {
+      "id": "A264",
+      "published": "2026-09-01",
+      "source": "디일렉",
+      "title": "LG엔솔, 미국서 탄산리튬 8만톤 확보…2029년부터 10년 공급",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11b1pqLUFDdWtDZkJZMEhPbUlPOUNpVm53b2tWeFVUcVJaa29veVhXVl9ySFlOakZkUzltNi1yR3RNVS1EN2pPQWtRZFRray16bDFZcWZlNTJVNDY0bjZScS1uMHpUZw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A265",
+      "published": "2026-09-01",
+      "source": "연합뉴스",
+      "title": "LG에너지솔루션, 2조원 규모 미국산 탄산리튬 매입 장기계약",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFSUUtWHRheWhZc3I1WjYwYnVhc2VFUnJjUGFlczV0LVJmeE51djhXbEdXdk96V1RadnM3c0g3RmxBZ1hPZWV5MmFxQUhydEI3ZXRRS2tmMHgxWGvSAWBBVV95cUxNSHJJZGVsbWE0UHE4ZTFzckFPbktUbU54Nkdwa1QzSS01QUZtZkZfUWhwN3ozRWVidHIwOUNFLWR4RXRBWjBYVHVhc2RjSjZYRjJBb19ENUY4dk93QWN6YkY?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A266",
+      "published": "2026-09-01",
+      "source": "머니투데이",
+      "title": "LG엔솔, 美서 배터리용 리튬 10년치 확보…트럼프 공급망 재편 대응",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Z3Jlb1NMYlMwNUFJMllPS2ZKTmoweUhOZ1czRmgxbmhQM3ZLWXVCeGhidTJLUkdkRTQyU0tGQ1F1WENRX09vaXpYVnh6WERISi1vRmdVcHd6UHZBUEc2eUpnbEtqWE9I0gFuQVVfeXFMT1dfOEplbHFnVjM2MGpOMk9FNERCdlNpQkFkU1EyMGtOY2p5ZGMyLXQwX1lDZWVibEtIQ1RFYkxfYWVYQkRDU2ZKMmMyYUJTZVdtUlZ5di1TYmUweXRHb3JqX0I5TThxakVyZ0ZXS2c?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A267",
+      "published": "2026-09-01",
+      "source": "경향신문",
+      "title": "LG에너지솔루션, 美 스맥오버와 탄산리튬 장기 공급 계약…북미 공급망 강화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGWkU0VVlHdGdjQlBBa1ZVQThMbEtLeTZrc09wdDJhVTNjVGJab09OaE9wUGdFSko5Ul9MbW5hNUkxWEdtcDhTdlk2VUh4XzBXX3VWSm1HSlQyZ9IBX0FVX3lxTE5MM0xKTFo5OXVJS1NGeVpSM2l5NmlHTU04NVJXdE9NeW12XzI1NWlfeXZ2RU8tOEI0cHBldW5nanVLaHE4ZTdqdldWc2p6YTFqamdPaVBGaDRWLXJ3aTRj?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A268",
+      "published": "2026-09-01",
+      "source": "연합인포맥스",
+      "title": "LG엔솔, 美 스맥오버와 리튬 공급계약…10년간 8만t",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MbGdnR2VhNGkyalF4TXh3dXdfckgwbFNwdGx0MlA1Zlo4RExHcUtCVE1aNHZNeERabjVVYVdRZnpXbVV6UXItM09yU19zcTE4UlE4TkRUYmEtV3NubTcwZ2hsM3J1aHlsN0hKMktfV2o?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A269",
+      "published": "2026-09-01",
+      "source": "Investing.com 한국어",
+      "title": "\"EU, LG엔솔·삼성SDI·SK온 등 한국 배터리 3사와 손잡고 中 비중 낮춰야\" By The Guru",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qQm5NQ3k3bFNNUXhWeXF3MjVQV3Y0RjBFdlAwMkt2aGV6ZnZfLVkzOVRMbWFTVG0tUnJIMl9QWm9WeDF1NkxRZ0cxSUV3SkJsOHZWNk5GcHVzUnhfV2JlLWI1MDRBNXRZeXgtU3lPR3g?oc=5",
+      "source_url": "https://kr.investing.com"
+    },
+    {
+      "id": "A270",
+      "published": "2026-09-01",
+      "source": "톱스타뉴스",
+      "title": "LG에너지솔루션 주가, 9월 1일 장중 380,500원 0.66% 상승 유지",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BdmZEVEJwd2RrM0daUUY4LXRhOVczcHNrSUs0a1o5dmZZQkJNRG15ZzV1d1VQMXQtVnl5Tmpzckg2U1BUU1JmV0otWVhJbHpvbFpyMjhUYVp3Q0Q4eFk0TjNYZzFaR0Q4d1VqcXJHSjI0dw?oc=5",
+      "source_url": "https://www.topstarnews.net"
+    },
+    {
+      "id": "A271",
+      "published": "2026-08-31",
+      "source": "중앙일보",
+      "title": "LG엔솔, 2조원규모 美탄산리튬 공급망 확보…ESS시장 공략 속도",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5md3NIN2JfWGtfVDgzVlZSSi1jRjhxZ1JPZmc1M0ZhZTkyWkFYY2F1MmdIWFZLV2lGdUZMdGZCbklLU21iRUpfSFdiZ2xQbVRvMl81VjZB?oc=5",
+      "source_url": "https://www.joongang.co.kr"
+    },
+    {
+      "id": "A272",
+      "published": "2026-08-30",
+      "source": "더구루",
+      "title": "美 배터리 수입 다시 살아났다…삼성SDI·LG엔솔 ESS 공략 탄력",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OU0E5WkJwakx1b1JocjFvV0dXLUgtd2FMUGFuei1vOGhMSTBQUEpYTEtqd2phTnRBRGtPc2NvUHpudjctTlhYOFZaOHVaWU1RR2hRTDZOb2RYcWJic29ENTdIOA?oc=5",
+      "source_url": "https://www.theguru.co.kr"
+    },
+    {
+      "id": "A273",
+      "published": "2026-08-27",
+      "source": "딜사이트",
+      "title": "LG엔솔, '유로화 환리스크' 대응 촉각…환율 변동 영향 주시",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NbUhCYjU2UnZVYVA0U0tIczZWcW42ZmJYZ0Qxanl1cTlMUmszVUprandNRUNVbTA3RkpUSXFwUEJZUFFuME5nclpobVF0WXM?oc=5",
+      "source_url": "https://dealsite.co.kr"
+    },
+    {
+      "id": "A274",
+      "published": "2026-08-25",
+      "source": "머니투데이",
+      "title": "'북미 대공세' 나서는 LG엔솔…ESS 생산 2배, 전기차도 달린다",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zTzFuUW5yVko1LWJYU2NCVUxXdktXb28tMHVSaDdCNm1obnBmaUlwOXNzNkZnVmZkbWw2SmlHOEhmZHFJV0VqMnNTUFJWMFFyZ3FwOG8zTldNOEZBSEhPcXl0T2dva2tnd1lTbtIBckFVX3lxTE1zRVE4bFA4akZtRzdLY0Vjb3dlUUtJQUpnc2N3WXhRU0M5SFpTZk0tbXhTNEdRZDIyUFdyaC04SHlRRFBBTEd4TzgzUDF0b0hFdkphaU0tbmFIcFU1Q3hlNjY5cUlsd0V0Y1JZd1dWQTFnUQ?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A275",
+      "published": "2026-08-24",
+      "source": "더구루",
+      "title": "LG에너지솔루션 \"전고체 상용화, 특수 용도 거쳐 전기로 확대\" 전망",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sNHFDS1UzUWRyQXg2UmFrNjNxZjFNRElHd1F4QjBqZ0VSOVBubFdxSUZycnhXUGs3bXRrd05FRXNaTFkwX0prTHpMMzNIOElwMVRYUjB5ZXJxX1dfRUJTRDQ4Yw?oc=5",
+      "source_url": "https://www.theguru.co.kr"
+    },
+    {
+      "id": "A276",
+      "published": "2026-08-23",
+      "source": "글로벌이코노믹",
+      "title": "美 국제무역위, LG엔솔 제소로 中 EVE에너지 '특허 침해' 정식 조사 착수",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjJvMlV6Y180RVUtNkZXajdCR3kySGN2cm9waEQwZU4tc3VGSVR1QXh5RmMwNFJ3UUZZV1pDTzBmQkozUFlvMElETm5hd0lGenlDZDZOZl83QUtCQjFUc0FLN1JTMHZEaGMzMnBxYV9fMVRkZGE2azR6cEMzOWFLTk4xTlYtMHRO?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A277",
+      "published": "2026-08-23",
+      "source": "글로벌이코노믹",
+      "title": "LG에너지솔루션, 북미 생산 기지 ESS 비중 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlTdWctaDZTS25UN3BVbXYwUFJaejBSRmNjUENCQ2o4djFnTjcwZHdwQ2JycDZJbTJ4S0tybFJKTzhmaUxJR1NOR3hLV0JvZGxvTnd4c2phZTg3NXBqMGdzbm80TTFOVjNVaFcwV1NCQ3dyTjlYVHFuaDBSQ183UG1CV0I1Znc?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A278",
+      "published": "2026-08-21",
+      "source": "Chosunbiz",
+      "title": "LG엔솔, 美 방산업 진입?…“제안 검토 중”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTVGdWRXbUx0Y3pINHkxYUdmaWdua0pJQThVT05tRWluSWxrRFV6eFNBQ2pyaUFxT0JwM1lzY0lzeDdQU21tVEk2b29wY19VUlo2NURGRFpLOUxTQWZEZ3BvbGdQNmd4c1IwSE5VSkZIRjRhb2psNEtFNDNkbGNieDVvaE_SAZgBQVVfeXFMUHlsVC0wRk02VjZiS3VMVkVHNHZyX2Q0VUgtbmpLck9Deld1X1I4YXVCdVdXUUw5aFNrcjBnQ3pLSU1ZMW0wcGRGTjJ3RkhURDY1LVBkT3NONC1oQXNjcGE2YUk0d2gxRi0tazBZT1JNTEV5ZjhsYlFTVVNodFVPX2hzVEw4RkFXR3VYQ2Rja0F4LTgzUlAzR2E?oc=5",
+      "source_url": "https://biz.chosun.com"
+    },
+    {
+      "id": "A279",
+      "published": "2026-08-20",
+      "source": "동아일보",
+      "title": "LG엔솔, 美 미시간주 랜싱공장 가동",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odGNoUHI1Vkx3ZzlCUW5QMXZTZjF0YUU1QktCWnIzWm0zdEtnLU5PZ2VPUVQtdm5hVnJFYjJZMWFDTFMtVWdwV0ZqczFTSGQ2bUpzTHBkaDBnN0lmcDNUdEg5MTQyTVV1c0RhMF9JMHBETzJEVXfSAWZBVV95cUxNMmN3WUo1N042V2lRRmtQRFJuQmV3WTEzaG9xQ1VJeTVZeDM4blVTakRscUpyNDZEYlhteHQ3cHlGT2JKVjRPRzI0RXJtNkhhVk5YQUQ5UEY1ckREOW1NZU5qM0ZQb2c?oc=5",
+      "source_url": "https://www.donga.com"
+    },
+    {
+      "id": "A280",
+      "published": "2026-08-20",
+      "source": "비즈니스포스트",
+      "title": "미국 ESS 호황에도 배터리 생산설비 과잉 분석도, LG엔솔 전기차 산업 성장에 기대 걸어",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOWpqb09PdzdEa2gwVHVJMlRWTkxSVTVXcTBnMXAtQUZZRUFiOEF1YlY5bmxHUDVkd3RSUXdqc29mM1p3ckk4RWFieXFnZDhweERTa1dvVTl0V0J3Mm9NekVCdFJ4elZXSWJkOGJfc0psQzg?oc=5",
+      "source_url": "https://www.businesspost.co.kr"
+    },
+    {
+      "id": "A281",
+      "published": "2026-08-20",
+      "source": "글로벌이코노믹",
+      "title": "LG엔솔, 美 국방 공급망에 드론·무인무기 배터리 공급 검토… '방산 시장' 진출 시동",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObThIS1hNeGV3QlUyeTd2cTNiZUZaYWlDaG5sbHczYjV4azFwSDZOTzJ1b0Nvb2hrLXQ0S3B1eTdaM1N3b2FxRVJ5X3pNOWdvUXA0WXRrXzVFekUxcHpyd1NlbERXQWtidDA0dDVoc193MW54Z1hLV2x5UWdKZ0s0WmVBVmFzczFZ?oc=5",
+      "source_url": "https://www.g-enews.com"
+    },
+    {
+      "id": "A282",
+      "published": "2026-08-19",
+      "source": "디일렉",
+      "title": "LG엔솔, 美 랜싱 공장 가동…북미 ESS 5대 거점 구축",
+      "dup_count": 3,
+      "also_in": [
+        "전자신문",
+        "Chosunbiz"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xejFIVl96cXJqajVweHdiVXhpMmdLMnkyUGpKTG5QWWlmN2RocTI1Yy00WEQ3T2RzUnVuTXFjZlduUGdlQWFLOEVxQ0pTUEVzcHljaldqckxXRmlzWFVEX0VYbU5HUQ?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A283",
+      "published": "2026-08-19",
+      "source": "연합뉴스TV",
+      "title": "LG엔솔, 미시간 랜싱 공장 가동…북미 ESS 생산거점 5곳 완성",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uLVhPS0twUkZkUGZOWm9JVDZfbW9YRUFWQllrdEJPR3E4MTZRUlVTRWlwNlB2U3g2Y0VjX2VkdjZTZ21WcFZmVFA0YVNpdFhrY1BGX3BZTkNPcUNGU1RtWnBoYjBmalE?oc=5",
+      "source_url": "https://www.yonhapnewstv.co.kr"
+    },
+    {
+      "id": "A284",
+      "published": "2026-08-19",
+      "source": "조선일보",
+      "title": "LG엔솔, 美 랜싱공장 가동 시작… 북미 5대 생산거점 완성",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclNLZE1IeWJlVWE1MERaMTRaX01nMW1vSVVsa3pYM0NoaXlsWGR1RWhYUzBSRFcyM183QVV5SHFBcFNFeWdiU0hGU0E0SjNwRnduaTBKS01obUpKMGoteWNNbnRtM2JYVXh4YjNKY2FtNFMxa0pycjNLSExGZ0VYdDJKQ3hRWVc4SlluSWdBVQ?oc=5",
+      "source_url": "https://www.chosun.com"
+    },
+    {
+      "id": "A285",
+      "published": "2026-08-19",
+      "source": "연합뉴스",
+      "title": "LG엔솔, 미국 미시간 랜싱공장 본격 가동…5대 생산거점 완성",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QlA2QkttNDJVeHJ6M3JWSkZrdTRhVnF0d3B0TXFOR1p3Vkluc2pXTHVlN2xud09SSDFFaG1hR3hNdG1SdVpWaEZiRzYzYUxnd3UzSThYaEFBT2vSAWBBVV95cUxObkhVRXpTN0cweFZDRlR1YnlxMlpmYnRJSzJYVHV3VEtvcGlQdmdZWUkzeW5faWVRZ1JBMDlRaTlYMU5lb3hNRDdEb0t4MFotQlhEcFRMRVR5aEFFLTRQVVI?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A286",
+      "published": "2026-08-19",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 美 랜싱 공장 가동 개시…북미 ESS 라인 전환 마무리",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYkVNSU13T2FLWU91ZEIzdWhJUGRlc1hveUFoSVVMVTlrNW9FQUVpTTdxd1BicVNZa1RzVGlWa3pzUnJJNHZjSUZqQUNrSER1U1k5U2Fn?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A287",
+      "published": "2026-08-19",
+      "source": "머니투데이",
+      "title": "LG엔솔, 미시간 랜싱 공장 본격 가동..북미 7번째 생산공장",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZTZsaExlbl8ybk5XRjhMaHVEZlI2eUdjTFZqNTl0cHB6ZllrV0hpalQybW5ZUG45RXJaS05XQS1FUGVtRHJyZHZIb0pJeDAzNnloUG5Ydm9LUDA3eVRESjBuT2dRTlUxcUlMctIBckFVX3lxTE45cHJkaXplQkpPNlVYVjNpYzNkNVpqNUdQOGw3YU9QbXZvN0Y0Mzkya0p1dnpENXhGT1NOQ3h3RTc2V1huRHBCVV9RaENaZ3ZKV1FQWElaVi1uZS1oVmI2THF1RDVFbkpEX3k3QzR5X1k4Zw?oc=5",
+      "source_url": "https://www.mt.co.kr"
+    },
+    {
+      "id": "A288",
+      "published": "2026-08-19",
+      "source": "서울경제",
+      "title": "LG엔솔, 랜싱 공장 가동…“북미 ESS 5대 거점 완성”",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidU5nWVF1Q3p1Q0s5a3NNNjRWOGJBZWsxUlFqMWFrbXJRM01jRTFfOFAtMnhkS1FpUzRFREl3akNWaHJPclZlMnNrOFlqVzlvLUHSAVNBVV95cUxNZ20zNmg1aktDTERCOE8zOTUtb0lKaFVaaXdfWEtDc2JYSTNaLXdnYU9YelRDU2hJYllXTk00R3JKcE1tSWpRa3lMMWllaTYwMkg2NA?oc=5",
+      "source_url": "https://www.sedaily.com"
+    },
+    {
+      "id": "A289",
+      "published": "2026-08-19",
+      "source": "한경매거진",
+      "title": "LG엔솔, 전기차 캐즘 맞서 방산 진출도 모색",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6ZFlrRUhpbGhKenJta0g5YVpTOEJ1SExjTE1Ec0RiNVFXcV9VZXVnb3Nld05uOUhBTzFXa21QN2l5MmVTN091SWxBSTdZT3JvQmpqemFUcHZOUlN1d1JKNmlYdE02RnE0VFBoMA?oc=5",
+      "source_url": "https://magazine.hankyung.com"
+    },
+    {
+      "id": "A290",
+      "published": "2026-08-19",
+      "source": "경향신문",
+      "title": "LG엔솔, 미국 랜싱 공장 본격 가동…북미 ESS 공략 강화",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UZkdpNmxNeHdVS1E5VFZ4WGZIbVNBMTR4aDkxLWdQZmJNUnoyODVtamZROVhvajZQYk1MWWJURUdoLUJ6UExDMVZ1QUxrQnlfaV9odEdMb3RfZ9IBX0FVX3lxTE1jMkpUSld4bGt3TnV4VXlfOEZWZ1pJeVJHOThoQkZFY0loN25uNmZ4ckJ3U1NfOTYyWkR6elZQLU1Vcl9oRG1pMjA2UGhWTWdDR0h6WktibV9TeE42SExZ?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A291",
+      "published": "2026-08-19",
+      "source": "지디넷코리아",
+      "title": "LG엔솔, 美 방산 드론 공급망 진입 검토",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kOVVSUmtwZDQ2YjZlNFl6S3I4QjIydEdZYUVlNzNLS3I0clk2dHdXSmhSSFRwVmFVaWF4WjJBSG4taTlrNUZBak4tcFBNQ282dWMySGNn?oc=5",
+      "source_url": "https://zdnet.co.kr"
+    },
+    {
+      "id": "A292",
+      "published": "2026-08-19",
+      "source": "연합인포맥스",
+      "title": "LG에너지솔루션, 미시간 랜싱 공장 가동…\"북미 사업 가속화\"",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzRlNHLUZ5eW5Tc2lGa3FHRlNtZ29VLVJ1NGdvaWVqelpaZy1iUkhMMHB4UDRfVkNFc3gxd0tTdDNLLURPVm9UcFhCZ2lSWkFUcjRhYXFMbmtFZmFWZGVwaVJtZE1lSjJOaTM2WUhxVHo?oc=5",
+      "source_url": "https://news.einfomax.co.kr"
+    },
+    {
+      "id": "A293",
+      "published": "2026-08-19",
+      "source": "한국경제",
+      "title": "LG엔솔, 북미 ESS·전기차 배터리 거점 5곳 확보",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQWJtd2J3ZVVoY1BydjJtc19FbXdyWHB6QlRXS0tNZW5pS0Exc1A0a1QzWFI4Y1lTV3NCdDFnOWtQeUdWdFhIWlI0OVU5dEV6UDNjVlJ0cXhDdw?oc=5",
+      "source_url": "https://www.hankyung.com"
+    },
+    {
+      "id": "A294",
+      "published": "2026-08-19",
+      "source": "에너지신문",
+      "title": "AI 데이터센터가 키운 ESS 시장…LG엔솔, 북미 생산능력 확대",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtRlEzQWw0eUc1QlF3MERDMURWT3E5NHkyWWQyR2p5QXE4SkNPa1djWmN6QWY0a05aSy1SMHpRQWVXaENacTJyZG12RnMxeEI3Qi1yY3ZMVHFuT0xrZHRJSDVVbGhmRGlTSXQtc2RCRFJRZw?oc=5",
+      "source_url": "https://www.energy-news.co.kr"
+    },
+    {
+      "id": "A295",
+      "published": "2026-08-19",
+      "source": "에너지경제신문",
+      "title": "“술·담배처럼 피했는데”…LG에너지솔루션, 美 방산시장 진출하나",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRml6eWpHRllvZTFFYlV1NDR5MmNwdlBrMlNRNElaQXVObHNZc29OTHBZeUIxVHBlR2JYUEF0RUtveUswaTlLOVlFVURwWVJWSEYtNFlqNmxHQ0E?oc=5",
+      "source_url": "https://m.ekn.kr"
+    },
+    {
+      "id": "A296",
+      "published": "2026-08-13",
+      "source": "Daum",
+      "title": "LG엔솔, 상반기 가동률 52.8%…연구개발비 역대 최대",
+      "dup_count": 3,
+      "also_in": [
+        "연합뉴스TV",
+        "연합뉴스"
+      ],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2TURPOUx4ZFBGZXpZOUNBRk00cVlGMWZHWkI0cUtpT0hhal9kRVlpeEFlLW9pbjJDUEpqMDJxU0MyajZFVGc3azc1eURsZ3M?oc=5",
+      "source_url": "https://v.daum.net"
+    },
+    {
+      "id": "A297",
+      "published": "2026-08-13",
+      "source": "연합뉴스",
+      "title": "LG엔솔 상반기 가동률 52.8%로 반등…미국 GM 합작공장 재가동(종합)",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GZ3ZwNnRyZmVQQ1hwVVgyWTRRdG9ROU1xbzFKUjVrWWhrVndESmhKck1FRjZKaWFKSkxxYk9qWjAwUkI4ZEVqVHhfRE5HWE1CYkU0bTJKNG1rRnfSAWBBVV95cUxOUnYyUEZFVTVwUHllNy12Q2ZVWW5QRWhyQURBQVVfY1NkQWRhajUzS2Rkay02cERVUDdaTmJIRlNzbEQyNlJHS0ZuSndzbnhJRmZGOS1SdU9OeXVyZElnMEo?oc=5",
+      "source_url": "https://www.yna.co.kr"
+    },
+    {
+      "id": "A298",
+      "published": "2026-08-13",
+      "source": "경향신문",
+      "title": "LG엔솔·GM 합작 전기차용 배터리 공장, 7개월 만에 불 켠다…LG엔솔, 국내외 공장 가동률도 반등",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UM0t1V2dPLUQ5cFN2anVMWWNjczh0aG95a3QzR0V4dG5HZWMxUnRwc2NoUENEODVqcExmcENNU3l4NGU0RTF1ZGw0QnFLRk1HdGIwSlcwbDBEZ9IBX0FVX3lxTFBMSkJwUWQ3UXQwdFp4LVNaYnh0S2pNVkw5cUxsNllMeUlvdGlMZjhNbVZIS0xxMnhSd1RCUV93NVlia3hJOUJEN0JWOVl5azlMbFpYajZPMzJFTFREWDdz?oc=5",
+      "source_url": "https://www.khan.co.kr"
+    },
+    {
+      "id": "A299",
+      "published": "2026-08-11",
+      "source": "디일렉",
+      "title": "LG화학, 현대차·LG엔솔 합작사 양극재 공급사로 '낙점'",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5McXJEZFA3QVQzcDVHTUJQZjZoMFNZYWxoMGR3cElxMHRQTEJDaklhVlpwSFdfWEY4M2FEbFg0Qm1mS296ZHJselUyejJsTVBKT0Q5YzBERE8wSTByNC1EaGM5bUYxZw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    },
+    {
+      "id": "A300",
+      "published": "2026-08-10",
+      "source": "디일렉",
+      "title": "LG엔솔, 中 로팔테크서 LFP 양극재 5조원 이상 구매",
+      "dup_count": 1,
+      "also_in": [],
+      "lang": "ko",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UT0ZodS1VZWhBeGxlamptTHlqZUl3UWNGRnlwa3ZjMlIyMVAyNmpuY2NzZXpLa19paGtQR3I5TFY5MHFjV2l1Uzd1U1RuM1BPcUxqRmJMSGJCNEdpS0pDVF9YN29hZw?oc=5",
+      "source_url": "https://www.thelec.kr"
+    }
+  ]
+}
